@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YouTube 4画面プレイヤー</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --surface: #111111;
+    --surface2: #1a1a1a;
+    --border: rgba(255,255,255,0.08);
+    --border-hover: rgba(255,255,255,0.18);
+    --accent: #ff3b3b;
+    --text: #f0f0f0;
+    --text-dim: rgba(240,240,240,0.4);
+    --text-mid: rgba(240,240,240,0.65);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    height: 100vh; padding: 16px;
+    display: flex; flex-direction: column; gap: 12px;
+  }
+
+  header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding-bottom: 12px; border-bottom: 1px solid var(--border); flex-shrink: 0;
+  }
+  .logo { display: flex; align-items: center; gap: 10px; }
+  .logo-icon {
+    width: 30px; height: 30px; background: var(--accent);
+    border-radius: 4px; display: flex; align-items: center; justify-content: center;
+  }
+  .logo-text { font-family: 'DM Mono', monospace; font-size: 13px; font-weight: 500; }
+  .logo-sub { font-size: 10px; color: var(--text-dim); font-family: 'DM Mono', monospace; }
+  .header-controls { display: flex; gap: 8px; align-items: center; }
+  .badge {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    color: var(--text-dim); border: 1px solid var(--border);
+    padding: 3px 8px; border-radius: 3px;
+  }
+  .btn {
+    font-family: 'DM Mono', monospace; font-size: 11px;
+    padding: 6px 14px; border-radius: 6px;
+    border: 1px solid var(--border);
+    background: transparent; color: var(--text-mid);
+    cursor: pointer; transition: all 0.15s;
+  }
+  .btn:hover { border-color: var(--border-hover); color: var(--text); background: var(--surface2); }
+  .btn.accent { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .btn.accent:hover { background: #d42e2e; }
+
+  /* how-to guide */
+  .howto {
+    display: flex; align-items: flex-start; gap: 16px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 12px 16px; flex-shrink: 0;
+  }
+  .howto-steps { display: flex; gap: 20px; align-items: center; flex-wrap: wrap; }
+  .step { display: flex; align-items: center; gap: 8px; }
+  .step-num {
+    width: 20px; height: 20px; border-radius: 50%;
+    background: rgba(255,59,59,0.2); color: var(--accent);
+    font-family: 'DM Mono', monospace; font-size: 10px; font-weight: 500;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .step-text { font-size: 11px; color: var(--text-mid); line-height: 1.4; }
+  .step-text strong { color: var(--text); font-weight: 500; }
+  .step-arrow { color: var(--text-dim); font-size: 12px; }
+  .howto-label {
+    font-family: 'DM Mono', monospace; font-size: 9px;
+    color: var(--text-dim); letter-spacing: 0.08em;
+    white-space: nowrap; padding-top: 2px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px; flex: 1; min-height: 0;
+  }
+  .cell {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; overflow: hidden;
+    display: flex; flex-direction: column;
+    transition: border-color 0.2s; min-height: 0;
+  }
+  .cell:hover { border-color: var(--border-hover); }
+  .cell.active { border-color: rgba(255,59,59,0.45); }
+  .cell.is-live { border-color: rgba(255,68,68,0.7); }
+
+  .cell-header {
+    display: flex; align-items: center; gap: 8px;
+    padding: 7px 10px; border-bottom: 1px solid var(--border); flex-shrink: 0;
+  }
+  .cell-num {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    color: var(--accent); min-width: 18px; font-weight: 500;
+  }
+  .embed-input {
+    flex: 1; background: var(--surface2);
+    border: 1px solid var(--border); border-radius: 4px;
+    padding: 5px 10px;
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    color: var(--text); outline: none; transition: border-color 0.15s;
+    resize: none; height: 28px; overflow: hidden;
+  }
+  .embed-input::placeholder { color: var(--text-dim); }
+  .embed-input:focus { border-color: var(--border-hover); height: 52px; overflow: auto; }
+  .load-btn {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    padding: 5px 12px; border-radius: 4px;
+    border: 1px solid var(--border);
+    background: transparent; color: var(--text-mid);
+    cursor: pointer; white-space: nowrap; transition: all 0.15s;
+  }
+  .load-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  .live-tag {
+    display: none; align-items: center; gap: 4px;
+    font-family: 'DM Mono', monospace; font-size: 9px;
+    padding: 2px 6px; border-radius: 3px;
+    background: rgba(255,68,68,0.15); color: #ff6666;
+    border: 1px solid rgba(255,68,68,0.3); white-space: nowrap;
+  }
+  .live-tag.show { display: flex; }
+  .live-tag .dot {
+    width: 4px; height: 4px; border-radius: 50%;
+    background: #ff4444; animation: pulse 1.5s infinite;
+  }
+
+  .video-wrap {
+    flex: 1; position: relative; background: #000; min-height: 0;
+  }
+  .video-wrap > div { position: absolute; inset: 0; }
+  .video-wrap iframe { width: 100% !important; height: 100% !important; border: none; }
+
+  .placeholder {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center; gap: 10px;
+    background: #050505;
+  }
+  .placeholder-ring {
+    width: 44px; height: 44px; border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.1);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .placeholder-label {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    color: rgba(255,255,255,0.2); letter-spacing: 0.08em;
+  }
+  .error-msg {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center; gap: 8px;
+    background: #0d0505; padding: 16px; text-align: center;
+  }
+  .error-text { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--accent); }
+  .error-sub { font-size: 11px; color: rgba(255,255,255,0.3); line-height: 1.6; max-width: 260px; }
+
+  .status-bar {
+    display: flex; align-items: center; gap: 10px;
+    padding-top: 10px; border-top: 1px solid var(--border);
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    color: var(--text-dim); flex-shrink: 0;
+  }
+  .status-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--accent); animation: pulse 2s infinite; flex-shrink: 0;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">
+      <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+        <rect x="2" y="2" width="6" height="6" rx="1" fill="white" opacity="0.9"/>
+        <rect x="10" y="2" width="6" height="6" rx="1" fill="white" opacity="0.9"/>
+        <rect x="2" y="10" width="6" height="6" rx="1" fill="white" opacity="0.9"/>
+        <rect x="10" y="10" width="6" height="6" rx="1" fill="white" opacity="0.9"/>
+      </svg>
+    </div>
+    <div>
+      <div class="logo-text">QUAD PLAYER</div>
+      <div class="logo-sub">YouTube 4画面同時再生 / ライブ対応</div>
+    </div>
+  </div>
+  <div class="header-controls">
+    <span class="badge">埋め込みコード方式</span>
+    <button class="btn" onclick="clearAll()">クリア</button>
+  </div>
+</header>
+
+<!-- 使い方ガイド -->
+<div class="howto">
+  <span class="howto-label">使い方</span>
+  <div class="howto-steps">
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-text">YouTubeで動画を開き<br><strong>「共有」→「埋め込む」</strong>をクリック</div>
+    </div>
+    <span class="step-arrow">›</span>
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-text"><strong>「コピー」</strong>ボタンで<br>埋め込みコードをコピー</div>
+    </div>
+    <span class="step-arrow">›</span>
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-text">下の入力欄に<strong>ペースト</strong>して<br><strong>LOADボタン</strong>を押す</div>
+    </div>
+    <span class="step-arrow">›</span>
+    <div class="step">
+      <div class="step-num">4</div>
+      <div class="step-text">ライブ配信も<strong>同じ手順</strong>で<br>そのままOK</div>
+    </div>
+  </div>
+</div>
+
+<div class="grid">
+
+  <div class="cell" id="cell-0">
+    <div class="cell-header">
+      <span class="cell-num">01</span>
+      <textarea class="embed-input" id="input-0" placeholder='埋め込みコードをペースト　例: <iframe src="https://www.youtube.com/embed/..." ...></iframe>'></textarea>
+      <span class="live-tag" id="tag-0"><span class="dot"></span>LIVE</span>
+      <button class="load-btn" onclick="triggerLoad(0)">LOAD</button>
+    </div>
+    <div class="video-wrap" id="wrap-0"><div class="placeholder"><div class="placeholder-ring"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"><polygon points="7,5 14,9 7,13" fill="rgba(255,255,255,0.3)"/></svg></div><span class="placeholder-label">NO INPUT</span></div></div>
+  </div>
+
+  <div class="cell" id="cell-1">
+    <div class="cell-header">
+      <span class="cell-num">02</span>
+      <textarea class="embed-input" id="input-1" placeholder='埋め込みコードをペースト　例: <iframe src="https://www.youtube.com/embed/..." ...></iframe>'></textarea>
+      <span class="live-tag" id="tag-1"><span class="dot"></span>LIVE</span>
+      <button class="load-btn" onclick="triggerLoad(1)">LOAD</button>
+    </div>
+    <div class="video-wrap" id="wrap-1"><div class="placeholder"><div class="placeholder-ring"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"><polygon points="7,5 14,9 7,13" fill="rgba(255,255,255,0.3)"/></svg></div><span class="placeholder-label">NO INPUT</span></div></div>
+  </div>
+
+  <div class="cell" id="cell-2">
+    <div class="cell-header">
+      <span class="cell-num">03</span>
+      <textarea class="embed-input" id="input-2" placeholder='埋め込みコードをペースト　例: <iframe src="https://www.youtube.com/embed/..." ...></iframe>'></textarea>
+      <span class="live-tag" id="tag-2"><span class="dot"></span>LIVE</span>
+      <button class="load-btn" onclick="triggerLoad(2)">LOAD</button>
+    </div>
+    <div class="video-wrap" id="wrap-2"><div class="placeholder"><div class="placeholder-ring"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"><polygon points="7,5 14,9 7,13" fill="rgba(255,255,255,0.3)"/></svg></div><span class="placeholder-label">NO INPUT</span></div></div>
+  </div>
+
+  <div class="cell" id="cell-3">
+    <div class="cell-header">
+      <span class="cell-num">04</span>
+      <textarea class="embed-input" id="input-3" placeholder='埋め込みコードをペースト　例: <iframe src="https://www.youtube.com/embed/..." ...></iframe>'></textarea>
+      <span class="live-tag" id="tag-3"><span class="dot"></span>LIVE</span>
+      <button class="load-btn" onclick="triggerLoad(3)">LOAD</button>
+    </div>
+    <div class="video-wrap" id="wrap-3"><div class="placeholder"><div class="placeholder-ring"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"><polygon points="7,5 14,9 7,13" fill="rgba(255,255,255,0.3)"/></svg></div><span class="placeholder-label">NO INPUT</span></div></div>
+  </div>
+
+</div>
+
+<div class="status-bar">
+  <div class="status-dot"></div>
+  <span id="status-text">待機中 — YouTubeの「共有 → 埋め込む」からコードをコピーしてペーストしてください</span>
+</div>
+
+<script>
+  function extractSrcFromEmbed(code) {
+    code = code.trim();
+    // <iframe src="..."> からsrcを抽出
+    var m = code.match(/src=["']([^"']+youtube[^"']+)["']/i);
+    if (m) return m[1];
+    // srcだけ貼った場合
+    if (code.indexOf('youtube.com/embed') !== -1 || code.indexOf('youtu.be') !== -1) return code;
+    return null;
+  }
+
+  function isLiveUrl(src) {
+    return src.indexOf('live_stream') !== -1 || src.indexOf('?v=') !== -1;
+  }
+
+  function triggerLoad(index) {
+    var code = document.getElementById('input-' + index).value.trim();
+    if (!code) return;
+
+    var src = extractSrcFromEmbed(code);
+    if (!src) {
+      showError(index, '埋め込みコードが認識できません');
+      return;
+    }
+
+    // autoplayパラメータを追加
+    if (src.indexOf('?') === -1) {
+      src += '?autoplay=1';
+    } else if (src.indexOf('autoplay') === -1) {
+      src += '&autoplay=1';
+    }
+
+    loadFrame(index, src);
+  }
+
+  function loadFrame(index, src) {
+    document.getElementById('cell-' + index).classList.add('active');
+
+    var wrap = document.getElementById('wrap-' + index);
+    var iframe = document.createElement('iframe');
+    iframe.src = src;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    iframe.allowFullscreen = true;
+    iframe.style.cssText = 'position:absolute;inset:0;width:100%;height:100%;border:none;';
+
+    wrap.innerHTML = '';
+    var container = document.createElement('div');
+    container.appendChild(iframe);
+    wrap.appendChild(container);
+
+    // ライブ判定（URLに live や live_stream が含まれる場合）
+    if (isLiveUrl(src)) {
+      document.getElementById('cell-' + index).classList.add('is-live');
+      document.getElementById('tag-' + index).classList.add('show');
+      setStatus('チャンネル ' + (index+1) + ': ライブ配信を受信中');
+    } else {
+      document.getElementById('cell-' + index).classList.remove('is-live');
+      document.getElementById('tag-' + index).classList.remove('show');
+      setStatus('チャンネル ' + (index+1) + ' 読み込み完了');
+    }
+  }
+
+  function showError(index, msg) {
+    document.getElementById('cell-' + index).classList.remove('active', 'is-live');
+    document.getElementById('tag-' + index).classList.remove('show');
+    document.getElementById('wrap-' + index).innerHTML =
+      '<div class="error-msg">' +
+      '<span class="error-text">⚠ ' + msg + '</span>' +
+      '<span class="error-sub">YouTubeの「共有 → 埋め込む」から<br>コピーしたコードをそのまま貼り付けてください。<br><br>' +
+      '例: &lt;iframe src="https://www.youtube.com/embed/XXXX" ...&gt;&lt;/iframe&gt;</span>' +
+      '</div>';
+    setStatus('エラー: ' + msg);
+  }
+
+  function setStatus(msg) {
+    document.getElementById('status-text').textContent = msg;
+  }
+
+  function clearAll() {
+    for (var i = 0; i < 4; i++) {
+      document.getElementById('input-' + i).value = '';
+      document.getElementById('cell-' + i).classList.remove('active', 'is-live');
+      document.getElementById('tag-' + i).classList.remove('show');
+      document.getElementById('wrap-' + i).innerHTML =
+        '<div class="placeholder">' +
+        '<div class="placeholder-ring"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"><polygon points="7,5 14,9 7,13" fill="rgba(255,255,255,0.3)"/></svg></div>' +
+        '<span class="placeholder-label">NO INPUT</span></div>';
+    }
+    setStatus('待機中 — YouTubeの「共有 → 埋め込む」からコードをコピーしてペーストしてください');
+  }
+
+  // Ctrl+Enterでもロード可能
+  for (var i = 0; i < 4; i++) {
+    (function(idx) {
+      document.getElementById('input-' + idx).addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) triggerLoad(idx);
+      });
+    })(i);
+  }
+</script>
+</body>
+</html>
