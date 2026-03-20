@@ -347,7 +347,7 @@
 </header>
 
 <!-- ===== SEARCH PANEL ===== -->
-<div class="search-panel" id="searchPanel">
+<div class="search-panel collapsed" id="searchPanel">
   <div class="search-header" onclick="toggleSearchPanel()">
     <div class="search-title">
       <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
@@ -374,18 +374,56 @@
       <span class="channel-label">CHANNEL</span>
       <select class="channel-select" id="channelSelect">
         <option value="">── チャンネルを選択 ──</option>
-        <!-- ↓ チャンネルリストをここに追加してください -->
-          <option value="UCr4eIfuNdlZWSDMjFwDTabA">ぺーちゃんねる</option>
-          <option value="UC7Ehq9agmTeznt6XjZ5faLw">函館競輪</option>
-          <option value="UCosOaqq60s3QAenTONNxUuQ">青森競輪</option>
-          <option value="UCTrT1fwMS9cOePzW_Z0TQfw">いわき平競輪</option>
-          <option value="UCYOGwSM8IwydT0VLUKv5qKg">弥彦競輪</option>
-          <option value="UCtn0XkksabeXWF2Omyg6JEQ">前橋競輪</option>
-          <option value="UCDeV-cyqnTnoCCjz2Dm7VNA">取手競輪</option>
-          <option value="UCXKIA4ppNI_5lYFS3Eke39A">宇都宮競輪</option>
-          <option value="UCH1CtPd9P_DBK9xMzYH48lw">大宮・西武園</option>
-          <option value="UCPqtPpQwwWArIS_zTl7A9XQ">西武園競輪</option>
-
+        <option value="" disabled>---- 公式 ----</option>
+        <option value="UCr4eIfuNdlZWSDMjFwDTabA">ぺーちゃんねる</option>
+        <option value="" disabled>---- 競輪LIVE ----</option>
+        <option value="UC7Ehq9agmTeznt6XjZ5faLw">函館競輪</option>
+        <option value="UCosOaqq60s3QAenTONNxUuQ">青森競輪</option>
+        <option value="UCTrT1fwMS9cOePzW_Z0TQfw">いわき平競輪</option>
+        <option value="UCYOGwSM8IwydT0VLUKv5qKg">弥彦競輪</option>
+        <option value="UCtn0XkksabeXWF2Omyg6JEQ">前橋競輪</option>
+        <option value="UCDeV-cyqnTnoCCjz2Dm7VNA">取手競輪</option>
+        <option value="UCXKIA4ppNI_5lYFS3Eke39A">宇都宮競輪</option>
+        <option value="UCH1CtPd9P_DBK9xMzYH48lw">大宮・西武園</option>
+        <option value="UCPqtPpQwwWArIS_zTl7A9XQ">西武園競輪</option>
+        <option value="UCOyQSsvzD9qQDgtkeu0n84Q">立川競輪</option>
+        <option value="UCEYoRewzhZWzP9OHaAFE8gA">松戸競輪</option>
+        <option value="UCtU7gR5VCpvQjtVPykL4EUA">川崎競輪</option>
+        <option value="UCvfTQBD1nQ8kAqwdrnTN-_g">平塚競輪</option>
+        <option value="UCNgccovrnvwUqSBaqoqrtfA">小田原競輪</option>
+        <option value="UC3CT-xL9H2UW4PMA2Hg1FjA">伊藤温泉競輪</option>
+        <option value="UCoPaxOy8ch2ydfgL1cpwhvQ">静岡競輪</option>
+        <option value="UCgf3cKAiLdTAset5YVGN4Rw">名古屋競輪</option>
+        <option value="UCs2ed7DZGQ-YKsCOX6NGyZQ">岐阜競輪</option>
+        <option value="UCcDTb_mchV4oxxQ2CfGSHFA">大垣競輪</option>
+        <option value="UC8mS4Ao44gjBbi8nFrP4fNg">豊橋競輪</option>
+        <option value="UCvVIZOHj843xo_QSnjY62Lg">富山競輪</option>
+        <option value="UCOZRGa_L_saD0ObvDtzG22Q">松坂競輪</option>
+        <option value="UCPibXjT_mINGifM1gi7ja0g">四日市競輪</option>
+        <option value="UCypKxtT2sGParvK54JMeWfw">福井競輪</option>
+        <option value="UCAHgvI8-zib9yOA2suyjGcg">奈良競輪</option>
+        <option value="UCdBuL72WRnKDIvAekxS2NxQ">向日町競輪</option>
+        <option value="UCu_WLHra6mfVBHj5qVz5Rbw">和歌山競輪</option>
+        <option value="UChHOZZ-KJgahUia5vxQnvNw">岸和田競輪</option>
+        <option value="UCiKs6agRQVxz1RRPHSX-Oaw">玉野競輪</option>
+        <option value="UCyi7rKGMOJSzCNT8Vt4-Cbg">広島競輪</option>
+        <option value="UC42l0MgmrF_tIfaMAPVvUKA">防府競輪</option>
+        <option value="UCWFvocB4sfX4wVXWaB4-SBg">高松競輪</option>
+        <option value="UCnfVl6Q_xov3Wf45NdWE1Eg">小松島競輪</option>
+        <option value="UCcnE1XfjoFEDL5GeWRk2DgQ">高知競輪</option>
+        <option value="UCX3xb9FwC7jL_ZnVmoyzgDg">松山競輪</option>
+        <option value="UCNOW-bJwHAbkNFQcmgtEuHQ">小倉競輪</option>
+        <option value="UCh7mcNayAkEXneLmnFZwzbQ">久留米競輪</option>
+        <option value="UClqmxHvzzOOWnpNdznfM28A">武雄競輪</option>
+        <option value="UCHsrH9sBqz9uDKggEKGsOFw">佐世保競輪</option>
+        <option value="UCxUAWJYLRXK2GFl9Nz7lJXA">別府競輪</option>
+        <option value="UCQ2CVY3uy6gG1Eg5JMz9hCg">熊本競輪</option>
+        <option value="" disabled>---- オートLIVE ----</option>
+        <option value="UCM3t31-x3BYX9s2xGkIqk8w">川口オート</option>
+        <option value="UCVytM2dZnTp6oOfBpv7_jLg">伊勢崎オート</option>
+        <option value="UCyz8qHMrHB0lSSwoF4S0jsQ">浜松オート</option>
+        <option value="UCUwiFvrK2oCwwSA-1SVtOLA">飯塚オート</option>
+        <option value="UCGercgXIY9l1H5r45XqQPEA">山陽オート</option>
       </select>
     </div>
 
