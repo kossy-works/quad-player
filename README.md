@@ -61,12 +61,76 @@ APIキーを廃止したため、`@handle` URL や `/c/` URL からのチャン�
 `.github/workflows/deploy-pages.yml` が以下のタイミングで実行される。
 
 - `main` ブランチへの push
-- 15分ごとのスケジュール実行
+- 15分ごとのスケジュール実行（毎時 `07` / `22` / `37` / `52` 分）
 - GitHub Actions 画面からの手動実行
 
 ワークフローは `scripts/fetch_youtube_feeds.rb` を実行し、YouTube RSS を取得して `data/latest-videos.json` を生成したうえで、GitHub Pages artifact として `index.html` と `data/` をデプロイする。
 
 GitHub Pages の公開元は **GitHub Actions** に設定する。
+
+GitHub Actions の `schedule` は厳密なリアルタイム実行ではない。混雑状況により数分単位で遅延したり、まれに実行が落ちる場合がある。即時更新したい場合は Actions 画面の **Run workflow** から手動実行する。
+
+---
+
+## ローカル確認
+
+RSS JSON を手元で更新する。
+
+```bash
+ruby scripts/fetch_youtube_feeds.rb
+```
+
+ローカルサーバーを起動する。
+
+```bash
+ruby -run -e httpd . -p 8000
+```
+
+ブラウザで `http://127.0.0.1:8000/` を開く。`file://` で直接開くと静的JSON取得やYouTube埋め込みがブロックされる場合がある。
+
+`8000` 番が使用中の場合は、別ポートを使う。
+
+```bash
+ruby -run -e httpd . -p 8001
+```
+
+起動中のサーバーはターミナルで `Control + C` を押すと停止する。
+
+---
+
+## デプロイ
+
+GitHub Pages の公開元を **GitHub Actions** に設定する。
+
+1. GitHub リポジトリの `Settings` を開く
+2. `Pages` を開く
+3. `Build and deployment` の `Source` を `GitHub Actions` にする
+
+変更を反映する。
+
+```bash
+git add README.md index.html data scripts .github
+git commit -m "Use YouTube RSS feeds without API keys"
+git push origin main
+```
+
+workflow ファイルを追加・更新する push では、Personal Access Token に `Contents: Read and write` と `Workflows: Read and write` が必要。
+
+デプロイ後は `Actions > Deploy GitHub Pages` で成功していることを確認する。定期実行が動くと、workflow run の event は `schedule` と表示される。
+
+---
+
+## RSS更新確認
+
+アプリ下部のステータスに表示される `RSSデータ更新` が `data/latest-videos.json` の生成時刻。
+
+公開URLでも直接確認できる。
+
+```text
+https://<username>.github.io/quad-player/data/latest-videos.json
+```
+
+JSON 先頭の `generatedAt` が更新時刻。値はUTCなので、日本時間は9時間足す。
 
 ---
 
