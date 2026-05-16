@@ -1,0 +1,59 @@
+{
+  "groups": [
+    {
+      "name": "公式",
+      "channels": [
+        { "name": "オートレース", "id": "UCJAPqcMNYk3HMknRuPMNvKA" },
+        { "name": "ぺーちゃんねる", "id": "UCr4eIfuNdlZWSDMjFwDTabA" }
+      ]
+    },
+    {
+      "name": "競輪LIVE",
+      "channels": [
+        { "name": "函館", "id": "UC7Ehq9agmTeznt6XjZ5faLw" },
+        { "name": "青森", "id": "UCosOaqq60s3QAenTONNxUuQ" },
+        { "name": "いわき平", "id": "UCTrT1fwMS9cOePzW_Z0TQfw" },
+        { "name": "弥彦", "id": "UCYOGwSM8IwydT0VLUKv5qKg" },
+        { "name": "前橋", "id": "UCtn0XkksabeXWF2Omyg6JEQ" },
+        { "name": "取手", "id": "UCDeV-cyqnTnoCCjz2Dm7VNA" },
+        { "name": "宇都宮", "id": "UCXKIA4ppNI_5lYFS3Eke39A" },
+        { "name": "大宮", "id": "UCH1CtPd9P_DBK9xMzYH48lw" },
+        { "name": "西武園", "id": "UCH1CtPd9P_DBK9xMzYH48lw" },
+        { "name": "京王閣", "id": "UCHdHXMKeFSZ3PxSUtpp90ng" },
+        { "name": "立川", "id": "UCOyQSsvzD9qQDgtkeu0n84Q" },
+        { "name": "立川サブアカ", "id": "UCvG1ViOoCDUqLrjbJsPhwzg" },
+        { "name": "松戸", "id": "UCEYoRewzhZWzP9OHaAFE8gA" },
+        { "name": "川崎", "id": "UCtU7gR5VCpvQjtVPykL4EUA" },
+        { "name": "平塚", "id": "UCvfTQBD1nQ8kAqwdrnTN-_g" },
+        { "name": "小田原", "id": "UCNgccovrnvwUqSBaqoqrtfA" },
+        { "name": "伊東", "id": "UC3CT-xL9H2UW4PMA2Hg1FjA" },
+        { "name": "静岡", "id": "UCoPaxOy8ch2ydfgL1cpwhvQ" },
+        { "name": "名古屋", "id": "UCgf3cKAiLdTAset5YVGN4Rw" },
+        { "name": "岐阜", "id": "UCs2ed7DZGQ-YKsCOX6NGyZQ" },
+        { "name": "大垣", "id": "UCcDTb_mchV4oxxQ2CfGSHFA" },
+        { "name": "豊橋", "id": "UC8mS4Ao44gjBbi8nFrP4fNg" },
+        { "name": "富山", "id": "UCvVIZOHj843xo_QSnjY62Lg" },
+        { "name": "松阪", "id": "UCOZRGa_L_saD0ObvDtzG22Q" },
+        { "name": "四日市", "id": "UCPibXjT_mINGifM1gi7ja0g" },
+        { "name": "福井", "id": "UCypKxtT2sGParvK54JMeWfw" },
+        { "name": "奈良", "id": "UCAHgvI8-zib9yOA2suyjGcg" },
+        { "name": "向日町", "id": "UCdBuL72WRnKDIvAekxS2NxQ" },
+        { "name": "和歌山", "id": "UCu_WLHra6mfVBHj5qVz5Rbw" },
+        { "name": "岸和田", "id": "UChHOZZ-KJgahUia5vxQnvNw" },
+        { "name": "玉野", "id": "UCiKs6agRQVxz1RRPHSX-Oaw" },
+        { "name": "広島", "id": "UCC-MHu8wH3xWu8M93nzszBQ" },
+        { "name": "防府", "id": "UC42l0MgmrF_tIfaMAPVvUKA" },
+        { "name": "高松", "id": "UCWFvocB4sfX4wVXWaB4-SBg" },
+        { "name": "小松島", "id": "UCnfVl6Q_xov3Wf45NdWE1Eg" },
+        { "name": "高知", "id": "UCcnE1XfjoFEDL5GeWRk2DgQ" },
+        { "name": "松山", "id": "UCX3xb9FwC7jL_ZnVmoyzgDg" },
+        { "name": "小倉", "id": "UCNOW-bJwHAbkNFQcmgtEuHQ" },
+        { "name": "久留米", "id": "UCh7mcNayAkEXneLmnFZwzbQ" },
+        { "name": "武雄", "id": "UClqmxHvzzOOWnpNdznfM28A" },
+        { "name": "佐世保", "id": "UCHsrH9sBqz9uDKggEKGsOFw" },
+        { "name": "別府", "id": "UCxUAWJYLRXK2GFl9Nz7lJXA" },
+        { "name": "熊本", "id": "UCuhDz3wM73NDTg4IPMNlKhQ" }
+      ]
+    }
+  ]
+}

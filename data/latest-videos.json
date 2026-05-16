@@ -1,0 +1,4506 @@
+{
+  "generatedAt": "2026-05-16T04:39:52Z",
+  "source": "youtube-rss",
+  "channels": [
+    {
+      "id": "UCJAPqcMNYk3HMknRuPMNvKA",
+      "name": "オートレース",
+      "group": "公式",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJAPqcMNYk3HMknRuPMNvKA",
+      "fetchedAt": "2026-05-16T04:39:52Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "nl7LnuBiZqU",
+          "title": "川口オートレース中継 2026年5月16日 ＷＩＮＴＩＣKＥＴ杯　ＫＡＷＡＧＵＣＨＩ ＡＵＴＯＲＡＣＥ ＣＬＡＳＳＩＣ ２０２６　3日目",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-04-10T08:43:35+00:00",
+          "updated": "2026-05-15T11:51:16+00:00",
+          "url": "https://www.youtube.com/watch?v=nl7LnuBiZqU",
+          "thumbnail": "https://i3.ytimg.com/vi/nl7LnuBiZqU/hqdefault.jpg"
+        },
+        {
+          "id": "v6CNLgCMXCw",
+          "title": "伊勢崎オートレース中継 2026年5月15日 第9回オートレース成田杯　1日目",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-15T12:12:55+00:00",
+          "updated": "2026-05-15T14:11:45+00:00",
+          "url": "https://www.youtube.com/watch?v=v6CNLgCMXCw",
+          "thumbnail": "https://i3.ytimg.com/vi/v6CNLgCMXCw/hqdefault.jpg"
+        },
+        {
+          "id": "QVcGi5l118Y",
+          "title": "川口オートレース中継 2026年5月15日 ＷＩＮＴＩＣKＥＴ杯　ＫＡＷＡＧＵＣＨＩ ＡＵＴＯＲＡＣＥ ＣＬＡＳＳＩＣ ２０２６　2日目",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-15T08:25:23+00:00",
+          "updated": "2026-05-15T20:59:13+00:00",
+          "url": "https://www.youtube.com/watch?v=QVcGi5l118Y",
+          "thumbnail": "https://i2.ytimg.com/vi/QVcGi5l118Y/hqdefault.jpg"
+        },
+        {
+          "id": "KTqANc1aMXo",
+          "title": "山陽オートレース中継 2026年5月14日 山陽ミッドナイトオートレース　当たるんですＣＵＰ　最終日",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-14T15:13:09+00:00",
+          "updated": "2026-05-16T03:14:12+00:00",
+          "url": "https://www.youtube.com/watch?v=KTqANc1aMXo",
+          "thumbnail": "https://i4.ytimg.com/vi/KTqANc1aMXo/hqdefault.jpg"
+        },
+        {
+          "id": "DeyVsuCEhDw",
+          "title": "川口オートレース中継 2026年5月14日 ＷＩＮＴＩＣKＥＴ杯　ＫＡＷＡＧＵＣＨＩ ＡＵＴＯＲＡＣＥ ＣＬＡＳＳＩＣ ２０２６　1日目",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-14T08:15:58+00:00",
+          "updated": "2026-05-15T12:46:25+00:00",
+          "url": "https://www.youtube.com/watch?v=DeyVsuCEhDw",
+          "thumbnail": "https://i1.ytimg.com/vi/DeyVsuCEhDw/hqdefault.jpg"
+        },
+        {
+          "id": "ydgIePTphKg",
+          "title": "山陽オートレース中継 2026年5月13日 山陽ミッドナイトオートレース　当たるんですＣＵＰ　2日目",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-13T15:20:47+00:00",
+          "updated": "2026-05-15T13:09:00+00:00",
+          "url": "https://www.youtube.com/watch?v=ydgIePTphKg",
+          "thumbnail": "https://i2.ytimg.com/vi/ydgIePTphKg/hqdefault.jpg"
+        },
+        {
+          "id": "2SaxwU41rw8",
+          "title": "飯塚オートレース中継 2026年5月13日 全日警杯争奪戦　最終日",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-13T08:21:00+00:00",
+          "updated": "2026-05-14T00:38:42+00:00",
+          "url": "https://www.youtube.com/watch?v=2SaxwU41rw8",
+          "thumbnail": "https://i3.ytimg.com/vi/2SaxwU41rw8/hqdefault.jpg"
+        },
+        {
+          "id": "wQpe_W2ZXAI",
+          "title": "山陽オートレース中継 2026年5月12日 山陽ミッドナイトオートレース　当たるんですＣＵＰ　1日目",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-12T15:13:47+00:00",
+          "updated": "2026-05-13T22:51:07+00:00",
+          "url": "https://www.youtube.com/watch?v=wQpe_W2ZXAI",
+          "thumbnail": "https://i4.ytimg.com/vi/wQpe_W2ZXAI/hqdefault.jpg"
+        },
+        {
+          "id": "OwfmJyKj_ao",
+          "title": "飯塚オートレース中継 2026年5月12日 全日警杯争奪戦　2日目",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-12T08:10:51+00:00",
+          "updated": "2026-05-13T03:25:19+00:00",
+          "url": "https://www.youtube.com/watch?v=OwfmJyKj_ao",
+          "thumbnail": "https://i4.ytimg.com/vi/OwfmJyKj_ao/hqdefault.jpg"
+        },
+        {
+          "id": "vifmTCc6IIQ",
+          "title": "川口オートレース中継 2026年5月11日 テレ玉presents　川口ナイトレース　最終日",
+          "channelTitle": "オートレース公式 AutoRace official",
+          "published": "2026-05-11T14:10:44+00:00",
+          "updated": "2026-05-13T02:27:43+00:00",
+          "url": "https://www.youtube.com/watch?v=vifmTCc6IIQ",
+          "thumbnail": "https://i3.ytimg.com/vi/vifmTCc6IIQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCr4eIfuNdlZWSDMjFwDTabA",
+      "name": "ぺーちゃんねる",
+      "group": "公式",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr4eIfuNdlZWSDMjFwDTabA",
+      "fetchedAt": "2026-05-16T04:39:53Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "_oQUXiu7BHQ",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/15(金)【2日目】#函館競輪 五稜郭杯争奪戦 [ＧⅢナイター] ～ #小倉競輪 【最終日】 [FⅡ♥ミッドナイト]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-15T15:22:39+00:00",
+          "updated": "2026-05-15T17:35:01+00:00",
+          "url": "https://www.youtube.com/watch?v=_oQUXiu7BHQ",
+          "thumbnail": "https://i4.ytimg.com/vi/_oQUXiu7BHQ/hqdefault.jpg"
+        },
+        {
+          "id": "8dV0KSKSzcY",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/14(木)【初日】#函館競輪 五稜郭杯争奪戦 [ＧⅢナイター]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-14T12:14:11+00:00",
+          "updated": "2026-05-14T13:38:21+00:00",
+          "url": "https://www.youtube.com/watch?v=8dV0KSKSzcY",
+          "thumbnail": "https://i1.ytimg.com/vi/8dV0KSKSzcY/hqdefault.jpg"
+        },
+        {
+          "id": "LhB3oj5lOtI",
+          "title": "回収率130％越え?! チャリロトのAI競輪と予想バトルしてみた",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-13T10:00:11+00:00",
+          "updated": "2026-05-13T23:32:51+00:00",
+          "url": "https://www.youtube.com/watch?v=LhB3oj5lOtI",
+          "thumbnail": "https://i1.ytimg.com/vi/LhB3oj5lOtI/hqdefault.jpg"
+        },
+        {
+          "id": "FjR4PXKhh-Y",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/12(火)【最終日】#松阪競輪 Aquarids Cup [ＧⅢ♥ナイター]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-12T12:20:57+00:00",
+          "updated": "2026-05-14T22:26:56+00:00",
+          "url": "https://www.youtube.com/watch?v=FjR4PXKhh-Y",
+          "thumbnail": "https://i3.ytimg.com/vi/FjR4PXKhh-Y/hqdefault.jpg"
+        },
+        {
+          "id": "HyG4gUsZZx4",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/11(月)【3日目】#松阪競輪 Aquarids Cup [ＧⅢ♥ナイター]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-11T12:02:09+00:00",
+          "updated": "2026-05-14T12:51:43+00:00",
+          "url": "https://www.youtube.com/watch?v=HyG4gUsZZx4",
+          "thumbnail": "https://i1.ytimg.com/vi/HyG4gUsZZx4/hqdefault.jpg"
+        },
+        {
+          "id": "UHmCtUcYsfE",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/10(日)【2日目】#松阪競輪 Aquarids Cup [ＧⅢ♥ナイター] ～ #弥彦競輪 【初日】 [FⅡミッドナイト]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-10T15:35:28+00:00",
+          "updated": "2026-05-10T18:20:28+00:00",
+          "url": "https://www.youtube.com/watch?v=UHmCtUcYsfE",
+          "thumbnail": "https://i2.ytimg.com/vi/UHmCtUcYsfE/hqdefault.jpg"
+        },
+        {
+          "id": "I2POewwg6ek",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/9(土)【初日】#松阪競輪 Aquarids Cup [ＧⅢ♥ナイター] ～ #別府競輪 【最終日】 [FⅡミッドナイト]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-09T15:26:39+00:00",
+          "updated": "2026-05-14T09:37:07+00:00",
+          "url": "https://www.youtube.com/watch?v=I2POewwg6ek",
+          "thumbnail": "https://i2.ytimg.com/vi/I2POewwg6ek/hqdefault.jpg"
+        },
+        {
+          "id": "GZBxLPgUL6g",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/8(金)【2日目】#別府競輪 [FⅡミッドナイト]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-08T14:49:05+00:00",
+          "updated": "2026-05-13T20:26:03+00:00",
+          "url": "https://www.youtube.com/watch?v=GZBxLPgUL6g",
+          "thumbnail": "https://i4.ytimg.com/vi/GZBxLPgUL6g/hqdefault.jpg"
+        },
+        {
+          "id": "CyduC9UjSEo",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/17(日)【最終日】#函館競輪 五稜郭杯争奪戦 [ＧⅢナイター] ～ #岸和田競輪 【2日目】 [FⅡミッドナイト]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-08T03:05:08+00:00",
+          "updated": "2026-05-14T02:38:02+00:00",
+          "url": "https://www.youtube.com/watch?v=CyduC9UjSEo",
+          "thumbnail": "https://i4.ytimg.com/vi/CyduC9UjSEo/hqdefault.jpg"
+        },
+        {
+          "id": "ogQzdmXUPDw",
+          "title": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」5/16(土)【3日目】#函館競輪 五稜郭杯争奪戦 [ＧⅢナイター] ～ #岸和田競輪 【初日】 [FⅡミッドナイト]",
+          "channelTitle": "チャリロト公式競輪番組 加藤慎平の「ぺーちゃんねる」",
+          "published": "2026-05-08T03:04:26+00:00",
+          "updated": "2026-05-14T02:37:51+00:00",
+          "url": "https://www.youtube.com/watch?v=ogQzdmXUPDw",
+          "thumbnail": "https://i4.ytimg.com/vi/ogQzdmXUPDw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UC7Ehq9agmTeznt6XjZ5faLw",
+      "name": "函館",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Ehq9agmTeznt6XjZ5faLw",
+      "fetchedAt": "2026-05-16T04:39:53Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "RdDWlQG3Hos",
+          "title": "【アーカイブ】(2026/05/15)　OP地元選手コーナー、池田牧人アナ＆藤巻昇氏コーナー　函館競輪開設７６周年記念五稜郭杯争奪戦　２日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-15T13:39:32+00:00",
+          "updated": "2026-05-15T13:39:32+00:00",
+          "url": "https://www.youtube.com/watch?v=RdDWlQG3Hos",
+          "thumbnail": "https://i3.ytimg.com/vi/RdDWlQG3Hos/hqdefault.jpg"
+        },
+        {
+          "id": "5T1XuKIcJwc",
+          "title": "(2026/05/15) 　函館競輪開設７６周年記念五稜郭杯争奪戦　２日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-15T12:14:17+00:00",
+          "updated": "2026-05-15T15:37:35+00:00",
+          "url": "https://www.youtube.com/watch?v=5T1XuKIcJwc",
+          "thumbnail": "https://i2.ytimg.com/vi/5T1XuKIcJwc/hqdefault.jpg"
+        },
+        {
+          "id": "D5gLflzjMVs",
+          "title": "(2026/05/15)【ダイジェスト】函館競輪開設７６周年記念五稜郭杯争奪戦　２日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-15T12:02:15+00:00",
+          "updated": "2026-05-15T12:09:27+00:00",
+          "url": "https://www.youtube.com/watch?v=D5gLflzjMVs",
+          "thumbnail": "https://i1.ytimg.com/vi/D5gLflzjMVs/hqdefault.jpg"
+        },
+        {
+          "id": "egSPw0xqtXE",
+          "title": "(2026/05/14) 　函館競輪開設７６周年記念五稜郭杯争奪戦　１日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-14T12:23:34+00:00",
+          "updated": "2026-05-14T14:22:32+00:00",
+          "url": "https://www.youtube.com/watch?v=egSPw0xqtXE",
+          "thumbnail": "https://i2.ytimg.com/vi/egSPw0xqtXE/hqdefault.jpg"
+        },
+        {
+          "id": "L7Prb8lPWw0",
+          "title": "(2026/05/14)【ダイジェスト】函館競輪開設７６周年記念五稜郭杯争奪戦　１日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-14T12:13:19+00:00",
+          "updated": "2026-05-15T07:08:01+00:00",
+          "url": "https://www.youtube.com/watch?v=L7Prb8lPWw0",
+          "thumbnail": "https://i1.ytimg.com/vi/L7Prb8lPWw0/hqdefault.jpg"
+        },
+        {
+          "id": "WxI_pqlJnlA",
+          "title": "(2026/05/09) 　北海道新聞社杯争奪戦＆北海道コンサドーレ札幌カップ　３日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-09T12:17:18+00:00",
+          "updated": "2026-05-13T10:07:54+00:00",
+          "url": "https://www.youtube.com/watch?v=WxI_pqlJnlA",
+          "thumbnail": "https://i4.ytimg.com/vi/WxI_pqlJnlA/hqdefault.jpg"
+        },
+        {
+          "id": "ORDQj5tA1e8",
+          "title": "【解説予想】2026/05/09「めざせテッペン!!」北海道新聞社杯争奪戦＆北海道コンサドーレ札幌カップ＜F2ナイター3日目＞｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-09T12:05:44+00:00",
+          "updated": "2026-05-13T01:27:56+00:00",
+          "url": "https://www.youtube.com/watch?v=ORDQj5tA1e8",
+          "thumbnail": "https://i4.ytimg.com/vi/ORDQj5tA1e8/hqdefault.jpg"
+        },
+        {
+          "id": "mPkdZtRE17M",
+          "title": "(2026/05/09)【ダイジェスト】北海道新聞社杯争奪戦＆北海道コンサドーレ札幌カップ　３日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-09T12:01:22+00:00",
+          "updated": "2026-05-12T13:44:51+00:00",
+          "url": "https://www.youtube.com/watch?v=mPkdZtRE17M",
+          "thumbnail": "https://i2.ytimg.com/vi/mPkdZtRE17M/hqdefault.jpg"
+        },
+        {
+          "id": "DmE3QP8h7h4",
+          "title": "(2026/05/08) 　北海道新聞社杯争奪戦＆北海道コンサドーレ札幌カップ　2日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-08T12:22:46+00:00",
+          "updated": "2026-05-12T10:44:17+00:00",
+          "url": "https://www.youtube.com/watch?v=DmE3QP8h7h4",
+          "thumbnail": "https://i1.ytimg.com/vi/DmE3QP8h7h4/hqdefault.jpg"
+        },
+        {
+          "id": "08gIt9MZ1rc",
+          "title": "(2026/05/08)【ダイジェスト】北海道新聞社杯争奪戦＆北海道コンサドーレ札幌カップ　2日目｜函館競輪",
+          "channelTitle": "函館競輪チャンネル",
+          "published": "2026-05-08T12:16:06+00:00",
+          "updated": "2026-05-12T10:36:11+00:00",
+          "url": "https://www.youtube.com/watch?v=08gIt9MZ1rc",
+          "thumbnail": "https://i1.ytimg.com/vi/08gIt9MZ1rc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCosOaqq60s3QAenTONNxUuQ",
+      "name": "青森",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCosOaqq60s3QAenTONNxUuQ",
+      "fetchedAt": "2026-05-16T04:39:53Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "7Rs_X_cb0l4",
+          "title": "2026.5.6『前検日コメントならウィンチケット杯/ニッカン・コム杯』A級決勝戦",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-05-06T02:30:49+00:00",
+          "updated": "2026-05-13T04:55:08+00:00",
+          "url": "https://www.youtube.com/watch?v=7Rs_X_cb0l4",
+          "thumbnail": "https://i4.ytimg.com/vi/7Rs_X_cb0l4/hqdefault.jpg"
+        },
+        {
+          "id": "IBsbPKx9QPw",
+          "title": "青森競輪3日目　ＦⅡ　モーニング７　前検日コメントならウィンチケット杯/ニッカン・コム杯 　2026.05.06",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-05-06T02:13:00+00:00",
+          "updated": "2026-05-06T03:28:04+00:00",
+          "url": "https://www.youtube.com/watch?v=IBsbPKx9QPw",
+          "thumbnail": "https://i2.ytimg.com/vi/IBsbPKx9QPw/hqdefault.jpg"
+        },
+        {
+          "id": "j6RPwfyZPBE",
+          "title": "2026.5.6『前検日コメントならウィンチケット杯/ニッカン・コム杯』A級 決勝戦インタビュー",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-05-05T05:59:39+00:00",
+          "updated": "2026-05-06T22:24:14+00:00",
+          "url": "https://www.youtube.com/watch?v=j6RPwfyZPBE",
+          "thumbnail": "https://i3.ytimg.com/vi/j6RPwfyZPBE/hqdefault.jpg"
+        },
+        {
+          "id": "VTPTidU0WGU",
+          "title": "青森競輪2日目　ＦⅡ　モーニング７　前検日コメントならウィンチケット杯/ニッカン・コム杯 　2026.05.05",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-05-05T02:22:52+00:00",
+          "updated": "2026-05-08T05:00:32+00:00",
+          "url": "https://www.youtube.com/watch?v=VTPTidU0WGU",
+          "thumbnail": "https://i3.ytimg.com/vi/VTPTidU0WGU/hqdefault.jpg"
+        },
+        {
+          "id": "xU9IGhRxN18",
+          "title": "青森競輪1日目　ＦⅡ　モーニング７　前検日コメントならウィンチケット杯/ニッカン・コム杯 　2026.05.04",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-05-04T02:09:44+00:00",
+          "updated": "2026-05-04T03:22:45+00:00",
+          "url": "https://www.youtube.com/watch?v=xU9IGhRxN18",
+          "thumbnail": "https://i1.ytimg.com/vi/xU9IGhRxN18/hqdefault.jpg"
+        },
+        {
+          "id": "HPXl_BQg6w0",
+          "title": "2026.4.14『スポーツ報知杯／チャリロト杯』S級 決勝戦",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-04-14T13:01:29+00:00",
+          "updated": "2026-04-22T00:02:42+00:00",
+          "url": "https://www.youtube.com/watch?v=HPXl_BQg6w0",
+          "thumbnail": "https://i1.ytimg.com/vi/HPXl_BQg6w0/hqdefault.jpg"
+        },
+        {
+          "id": "n127Kv0igHI",
+          "title": "2026.4.14『スポーツ報知杯／チャリロト杯』A級 決勝戦",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-04-14T12:59:11+00:00",
+          "updated": "2026-04-18T01:59:36+00:00",
+          "url": "https://www.youtube.com/watch?v=n127Kv0igHI",
+          "thumbnail": "https://i3.ytimg.com/vi/n127Kv0igHI/hqdefault.jpg"
+        },
+        {
+          "id": "vM7O00_uoFM",
+          "title": "もりんちゃんねる　青森ナイター競輪３日目　ＦⅠ　スポーツ報知杯　チャリロト杯　2026.4.14",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-04-14T12:21:17+00:00",
+          "updated": "2026-04-18T16:33:43+00:00",
+          "url": "https://www.youtube.com/watch?v=vM7O00_uoFM",
+          "thumbnail": "https://i3.ytimg.com/vi/vM7O00_uoFM/hqdefault.jpg"
+        },
+        {
+          "id": "c31NKvBKRO4",
+          "title": "2026.4.14『スポーツ報知杯／チャリロト杯』S級 決勝戦インタビュー",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-04-13T13:55:45+00:00",
+          "updated": "2026-04-17T17:00:35+00:00",
+          "url": "https://www.youtube.com/watch?v=c31NKvBKRO4",
+          "thumbnail": "https://i4.ytimg.com/vi/c31NKvBKRO4/hqdefault.jpg"
+        },
+        {
+          "id": "RJPDSjnv9es",
+          "title": "もりんちゃんねる　青森ナイター競輪２日目　ＦⅠ　スポーツ報知杯　チャリロト杯　2026.4.13",
+          "channelTitle": "もりんちゃんねる葵 萌輪",
+          "published": "2026-04-13T12:31:08+00:00",
+          "updated": "2026-05-08T01:24:49+00:00",
+          "url": "https://www.youtube.com/watch?v=RJPDSjnv9es",
+          "thumbnail": "https://i3.ytimg.com/vi/RJPDSjnv9es/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCTrT1fwMS9cOePzW_Z0TQfw",
+      "name": "いわき平",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTrT1fwMS9cOePzW_Z0TQfw",
+      "fetchedAt": "2026-05-16T04:39:53Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "Dkv-tUav6Fg",
+          "title": "【いわき平競輪 実況中継】いわき平[FⅡ]ミッドナイト 3日目 5月12日(日)",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-12T15:13:05+00:00",
+          "updated": "2026-05-13T21:17:03+00:00",
+          "url": "https://www.youtube.com/watch?v=Dkv-tUav6Fg",
+          "thumbnail": "https://i1.ytimg.com/vi/Dkv-tUav6Fg/hqdefault.jpg"
+        },
+        {
+          "id": "TxIPIChWRhM",
+          "title": "いわき平競輪 5月11日 L級決勝インタビュー",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-12T07:05:11+00:00",
+          "updated": "2026-05-12T07:08:21+00:00",
+          "url": "https://www.youtube.com/shorts/TxIPIChWRhM",
+          "thumbnail": "https://i1.ytimg.com/vi/TxIPIChWRhM/hqdefault.jpg"
+        },
+        {
+          "id": "MnK9di58VNc",
+          "title": "いわき平競輪 5月11日 A級決勝インタビュー",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-12T07:05:04+00:00",
+          "updated": "2026-05-12T07:08:49+00:00",
+          "url": "https://www.youtube.com/shorts/MnK9di58VNc",
+          "thumbnail": "https://i2.ytimg.com/vi/MnK9di58VNc/hqdefault.jpg"
+        },
+        {
+          "id": "yVj9rfI7QGw",
+          "title": "いわき平競輪 5月11日 L級決勝インタビュー",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-12T07:03:23+00:00",
+          "updated": "2026-05-12T07:04:39+00:00",
+          "url": "https://www.youtube.com/watch?v=yVj9rfI7QGw",
+          "thumbnail": "https://i2.ytimg.com/vi/yVj9rfI7QGw/hqdefault.jpg"
+        },
+        {
+          "id": "aB44EZYsNaE",
+          "title": "いわき平競輪 5月11日 A級決勝インタビュー",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-12T07:01:38+00:00",
+          "updated": "2026-05-12T07:15:00+00:00",
+          "url": "https://www.youtube.com/watch?v=aB44EZYsNaE",
+          "thumbnail": "https://i2.ytimg.com/vi/aB44EZYsNaE/hqdefault.jpg"
+        },
+        {
+          "id": "N-4o5XeCjdc",
+          "title": "【いわき平競輪 実況中継】いわき平[FⅡ]ミッドナイト 2日目 5月11日(月)",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-11T15:13:58+00:00",
+          "updated": "2026-05-14T21:34:36+00:00",
+          "url": "https://www.youtube.com/watch?v=N-4o5XeCjdc",
+          "thumbnail": "https://i3.ytimg.com/vi/N-4o5XeCjdc/hqdefault.jpg"
+        },
+        {
+          "id": "IwAMub6HjiQ",
+          "title": "【いわき平競輪 実況中継】いわき平[FⅡ]ミッドナイト 1日目 5月10日(日)",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-10T15:14:14+00:00",
+          "updated": "2026-05-12T05:39:33+00:00",
+          "url": "https://www.youtube.com/watch?v=IwAMub6HjiQ",
+          "thumbnail": "https://i2.ytimg.com/vi/IwAMub6HjiQ/hqdefault.jpg"
+        },
+        {
+          "id": "H3M9Id81siI",
+          "title": "いわき平競輪 5月9日 L級ガールズ前検インタビュー",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-10T02:25:43+00:00",
+          "updated": "2026-05-13T16:44:24+00:00",
+          "url": "https://www.youtube.com/shorts/H3M9Id81siI",
+          "thumbnail": "https://i1.ytimg.com/vi/H3M9Id81siI/hqdefault.jpg"
+        },
+        {
+          "id": "jrAImg8j1C4",
+          "title": "いわき平競輪 5月9日 L級ガールズ前検インタビュー",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-05-09T08:19:10+00:00",
+          "updated": "2026-05-12T22:21:42+00:00",
+          "url": "https://www.youtube.com/watch?v=jrAImg8j1C4",
+          "thumbnail": "https://i3.ytimg.com/vi/jrAImg8j1C4/hqdefault.jpg"
+        },
+        {
+          "id": "xg22Z5-rYk4",
+          "title": "【いわき平競輪 実況中継】いわき平[FⅡ]ミッドナイト 3日目 4月6日(月)",
+          "channelTitle": "いわき平競輪 -空中バンク- 【公式】",
+          "published": "2026-04-06T15:11:08+00:00",
+          "updated": "2026-04-30T08:23:37+00:00",
+          "url": "https://www.youtube.com/watch?v=xg22Z5-rYk4",
+          "thumbnail": "https://i1.ytimg.com/vi/xg22Z5-rYk4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCYOGwSM8IwydT0VLUKv5qKg",
+      "name": "弥彦",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOGwSM8IwydT0VLUKv5qKg",
+      "fetchedAt": "2026-05-16T04:39:54Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "0QdUZd-iTq0",
+          "title": "【ライブ】デイリースポーツ賞 最終日 【弥彦競輪】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-13T00:45:02+00:00",
+          "updated": "2026-05-13T07:22:52+00:00",
+          "url": "https://www.youtube.com/watch?v=0QdUZd-iTq0",
+          "thumbnail": "https://i1.ytimg.com/vi/0QdUZd-iTq0/hqdefault.jpg"
+        },
+        {
+          "id": "IUwsZIuKPZ8",
+          "title": "【ライブ】デイリースポーツ賞  2日目 【弥彦競輪】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-13T00:44:37+00:00",
+          "updated": "2026-05-13T07:11:14+00:00",
+          "url": "https://www.youtube.com/watch?v=IUwsZIuKPZ8",
+          "thumbnail": "https://i2.ytimg.com/vi/IUwsZIuKPZ8/hqdefault.jpg"
+        },
+        {
+          "id": "FQcCot_BRrQ",
+          "title": "【ライブ】デイリースポーツ賞 初日 【弥彦競輪】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-13T00:44:06+00:00",
+          "updated": "2026-05-13T07:31:25+00:00",
+          "url": "https://www.youtube.com/watch?v=FQcCot_BRrQ",
+          "thumbnail": "https://i3.ytimg.com/vi/FQcCot_BRrQ/hqdefault.jpg"
+        },
+        {
+          "id": "AqPCLQOH69c",
+          "title": "【ライブ】ｅーＳＨＩＮＢＵＮ賞 最終日 【弥彦競輪】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-12T15:24:30+00:00",
+          "updated": "2026-05-13T00:47:53+00:00",
+          "url": "https://www.youtube.com/watch?v=AqPCLQOH69c",
+          "thumbnail": "https://i2.ytimg.com/vi/AqPCLQOH69c/hqdefault.jpg"
+        },
+        {
+          "id": "vUfRgz_ycdI",
+          "title": "【総集編】Ａ級決勝＆優勝者インタビュー【ｅ-ＳＨＩＮＢＵＮ賞】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-12T14:58:54+00:00",
+          "updated": "2026-05-13T07:54:50+00:00",
+          "url": "https://www.youtube.com/watch?v=vUfRgz_ycdI",
+          "thumbnail": "https://i3.ytimg.com/vi/vUfRgz_ycdI/hqdefault.jpg"
+        },
+        {
+          "id": "zt-juVRjf8g",
+          "title": "【総集編】チャレンジ決勝＆優勝者インタビュー【ｅ-ＳＨＩＮＢＵＮ賞】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-12T14:57:07+00:00",
+          "updated": "2026-05-13T07:04:44+00:00",
+          "url": "https://www.youtube.com/watch?v=zt-juVRjf8g",
+          "thumbnail": "https://i3.ytimg.com/vi/zt-juVRjf8g/hqdefault.jpg"
+        },
+        {
+          "id": "64ljGhxHHsQ",
+          "title": "#shorts 用縦配信 ｅーＳＨＩＮＢＵＮ賞  最終日  YELL 【弥彦競輪】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-12T14:54:35+00:00",
+          "updated": "2026-05-13T00:47:33+00:00",
+          "url": "https://www.youtube.com/watch?v=64ljGhxHHsQ",
+          "thumbnail": "https://i3.ytimg.com/vi/64ljGhxHHsQ/hqdefault.jpg"
+        },
+        {
+          "id": "5rbfKKvIKpo",
+          "title": "【🌙YELLライブ】ｅーＳＨＩＮＢＵＮ賞 最終日 弥彦競輪 ＦⅡ【LIVE配信】",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-12T14:48:59+00:00",
+          "updated": "2026-05-13T00:47:32+00:00",
+          "url": "https://www.youtube.com/watch?v=5rbfKKvIKpo",
+          "thumbnail": "https://i2.ytimg.com/vi/5rbfKKvIKpo/hqdefault.jpg"
+        },
+        {
+          "id": "S_wpLozZeXk",
+          "title": "ｅーＳＨＩＮＢＵＮ賞 A級準決勝は「藏本徹二」「川口直人」「片桐善也」が勝利",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-12T03:14:42+00:00",
+          "updated": "2026-05-15T11:04:38+00:00",
+          "url": "https://www.youtube.com/shorts/S_wpLozZeXk",
+          "thumbnail": "https://i4.ytimg.com/vi/S_wpLozZeXk/hqdefault.jpg"
+        },
+        {
+          "id": "PWbkftrZA4A",
+          "title": "ｅーＳＨＩＮＢＵＮ賞 チャレンジ準決勝は「生野優翔」「水澤秀哉」が勝利",
+          "channelTitle": "公式 弥彦競輪チャンネル",
+          "published": "2026-05-12T01:12:08+00:00",
+          "updated": "2026-05-16T02:39:52+00:00",
+          "url": "https://www.youtube.com/shorts/PWbkftrZA4A",
+          "thumbnail": "https://i1.ytimg.com/vi/PWbkftrZA4A/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCtn0XkksabeXWF2Omyg6JEQ",
+      "name": "前橋",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtn0XkksabeXWF2Omyg6JEQ",
+      "fetchedAt": "2026-05-16T04:39:54Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "iZAJQxHJb1A",
+          "title": "【わくわくドームランド】グリーンドーム前橋にある完全無料のキッズスペース！#shorts",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-05-04T03:54:14+00:00",
+          "updated": "2026-05-07T11:25:12+00:00",
+          "url": "https://www.youtube.com/shorts/iZAJQxHJb1A",
+          "thumbnail": "https://i2.ytimg.com/vi/iZAJQxHJb1A/hqdefault.jpg"
+        },
+        {
+          "id": "74fDBFq1cFs",
+          "title": "【前橋競輪】わくわくドームランドへのルート案内（バック側駐車場から）",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-30T04:06:53+00:00",
+          "updated": "2026-05-02T09:12:19+00:00",
+          "url": "https://www.youtube.com/watch?v=74fDBFq1cFs",
+          "thumbnail": "https://i4.ytimg.com/vi/74fDBFq1cFs/hqdefault.jpg"
+        },
+        {
+          "id": "BcaE6kPw_RE",
+          "title": "【前橋競輪】わくわくドームランドへのルート案内（第一駐車場から）",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-30T04:06:49+00:00",
+          "updated": "2026-05-05T01:18:32+00:00",
+          "url": "https://www.youtube.com/watch?v=BcaE6kPw_RE",
+          "thumbnail": "https://i3.ytimg.com/vi/BcaE6kPw_RE/hqdefault.jpg"
+        },
+        {
+          "id": "e-bdsATF8fc",
+          "title": "【前橋競輪】4/24   日刊スポーツNEWS杯・鈴木保巳メモリアル（FⅠ）3日目　レースライブ",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-24T08:15:09+00:00",
+          "updated": "2026-05-11T18:17:36+00:00",
+          "url": "https://www.youtube.com/watch?v=e-bdsATF8fc",
+          "thumbnail": "https://i2.ytimg.com/vi/e-bdsATF8fc/hqdefault.jpg"
+        },
+        {
+          "id": "MGw-88v8J4g",
+          "title": "【前橋競輪】4/23   日刊スポーツNEWS杯・鈴木保巳メモリアル（FⅠ）2日目　レースライブ",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-23T07:52:08+00:00",
+          "updated": "2026-05-03T17:57:18+00:00",
+          "url": "https://www.youtube.com/watch?v=MGw-88v8J4g",
+          "thumbnail": "https://i2.ytimg.com/vi/MGw-88v8J4g/hqdefault.jpg"
+        },
+        {
+          "id": "sOLwWsOUEPM",
+          "title": "【前橋競輪】4/22   日刊スポーツNEWS杯・鈴木保巳メモリアル（FⅠ）1日目　レースライブ",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-22T08:15:14+00:00",
+          "updated": "2026-05-11T18:16:30+00:00",
+          "url": "https://www.youtube.com/watch?v=sOLwWsOUEPM",
+          "thumbnail": "https://i4.ytimg.com/vi/sOLwWsOUEPM/hqdefault.jpg"
+        },
+        {
+          "id": "WE1N4RHZt2I",
+          "title": "【前橋競輪】4/7   報知新聞社杯（FⅠ ナイター）3日目　レースライブ",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-07T12:21:13+00:00",
+          "updated": "2026-05-04T15:36:53+00:00",
+          "url": "https://www.youtube.com/watch?v=WE1N4RHZt2I",
+          "thumbnail": "https://i4.ytimg.com/vi/WE1N4RHZt2I/hqdefault.jpg"
+        },
+        {
+          "id": "86VvreqfIqc",
+          "title": "【前橋競輪】4/6  報知新聞社杯（FⅠ ナイター）2日目　レースライブ",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-06T12:22:36+00:00",
+          "updated": "2026-05-04T21:54:53+00:00",
+          "url": "https://www.youtube.com/watch?v=86VvreqfIqc",
+          "thumbnail": "https://i1.ytimg.com/vi/86VvreqfIqc/hqdefault.jpg"
+        },
+        {
+          "id": "1ePKGQ3SSQQ",
+          "title": "【前橋競輪】4/5  報知新聞社杯（FⅠ ナイター）1日目　レースライブ",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-04-05T12:20:37+00:00",
+          "updated": "2026-05-03T14:54:08+00:00",
+          "url": "https://www.youtube.com/watch?v=1ePKGQ3SSQQ",
+          "thumbnail": "https://i2.ytimg.com/vi/1ePKGQ3SSQQ/hqdefault.jpg"
+        },
+        {
+          "id": "kSP9IAr2lAc",
+          "title": "【前橋競輪場】『日本トーターグリーンドーム前橋』をまえばしめぐみが案内してみた(120秒版)",
+          "channelTitle": "前橋競輪場",
+          "published": "2026-03-31T04:46:49+00:00",
+          "updated": "2026-04-30T15:52:43+00:00",
+          "url": "https://www.youtube.com/watch?v=kSP9IAr2lAc",
+          "thumbnail": "https://i4.ytimg.com/vi/kSP9IAr2lAc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCDeV-cyqnTnoCCjz2Dm7VNA",
+      "name": "取手",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeV-cyqnTnoCCjz2Dm7VNA",
+      "fetchedAt": "2026-05-16T04:39:54Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "ZKuZgaoS_FQ",
+          "title": "取手競輪[FⅠ] 関東カップ・報知新聞社杯　3日目",
+          "channelTitle": "torideBank",
+          "published": "2026-05-10T08:00:51+00:00",
+          "updated": "2026-05-10T10:14:33+00:00",
+          "url": "https://www.youtube.com/watch?v=ZKuZgaoS_FQ",
+          "thumbnail": "https://i3.ytimg.com/vi/ZKuZgaoS_FQ/hqdefault.jpg"
+        },
+        {
+          "id": "08fM_7UlxtA",
+          "title": "取手競輪決勝出場選手インタビュー　高橋　舜 選手　2026年5月10日",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:51:51+00:00",
+          "updated": "2026-05-09T08:51:52+00:00",
+          "url": "https://www.youtube.com/watch?v=08fM_7UlxtA",
+          "thumbnail": "https://i1.ytimg.com/vi/08fM_7UlxtA/hqdefault.jpg"
+        },
+        {
+          "id": "Xg0MjIlhWbU",
+          "title": "取手競輪決勝出場選手インタビュー　川口　聖二 選手  2026年5月10日",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:48:27+00:00",
+          "updated": "2026-05-14T07:12:08+00:00",
+          "url": "https://www.youtube.com/watch?v=Xg0MjIlhWbU",
+          "thumbnail": "https://i1.ytimg.com/vi/Xg0MjIlhWbU/hqdefault.jpg"
+        },
+        {
+          "id": "dRyiWtYzHNg",
+          "title": "取手競輪決勝出場選手インタビュー　太田　竜馬 選手  2026年5月10日",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:34:53+00:00",
+          "updated": "2026-05-13T10:36:44+00:00",
+          "url": "https://www.youtube.com/watch?v=dRyiWtYzHNg",
+          "thumbnail": "https://i1.ytimg.com/vi/dRyiWtYzHNg/hqdefault.jpg"
+        },
+        {
+          "id": "WmXr4bM80Gc",
+          "title": "取手競輪決勝出場選手インタビュー　一丸　尚伍 選手  2026年5月10日",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:32:14+00:00",
+          "updated": "2026-05-09T08:33:52+00:00",
+          "url": "https://www.youtube.com/watch?v=WmXr4bM80Gc",
+          "thumbnail": "https://i4.ytimg.com/vi/WmXr4bM80Gc/hqdefault.jpg"
+        },
+        {
+          "id": "s4E-CA1yOuM",
+          "title": "取手競輪決勝出場選手インタビュー　塩島　嵩一朗 選手  2026年5月10日",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:28:41+00:00",
+          "updated": "2026-05-09T08:28:58+00:00",
+          "url": "https://www.youtube.com/watch?v=s4E-CA1yOuM",
+          "thumbnail": "https://i4.ytimg.com/vi/s4E-CA1yOuM/hqdefault.jpg"
+        },
+        {
+          "id": "z7R6O5Cbiow",
+          "title": "取手競輪決勝出場選手インタビュー　池野　健太 選手  2026年5月10日",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:26:23+00:00",
+          "updated": "2026-05-09T08:26:24+00:00",
+          "url": "https://www.youtube.com/watch?v=z7R6O5Cbiow",
+          "thumbnail": "https://i3.ytimg.com/vi/z7R6O5Cbiow/hqdefault.jpg"
+        },
+        {
+          "id": "AqwJvkFfFJk",
+          "title": "取手競輪決勝出場選手インタビュー　山岸　佳太 選手  2026年5月10日",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:23:21+00:00",
+          "updated": "2026-05-13T22:13:47+00:00",
+          "url": "https://www.youtube.com/watch?v=AqwJvkFfFJk",
+          "thumbnail": "https://i2.ytimg.com/vi/AqwJvkFfFJk/hqdefault.jpg"
+        },
+        {
+          "id": "__MPtcBhrow",
+          "title": "取手競輪[FⅠ] 関東カップ・報知新聞社杯　2日目",
+          "channelTitle": "torideBank",
+          "published": "2026-05-09T08:03:40+00:00",
+          "updated": "2026-05-13T09:52:35+00:00",
+          "url": "https://www.youtube.com/watch?v=__MPtcBhrow",
+          "thumbnail": "https://i4.ytimg.com/vi/__MPtcBhrow/hqdefault.jpg"
+        },
+        {
+          "id": "TMmRrvJcWFU",
+          "title": "取手競輪[FⅠ] 関東カップ・報知新聞社杯　1日目",
+          "channelTitle": "torideBank",
+          "published": "2026-05-08T08:09:10+00:00",
+          "updated": "2026-05-13T17:42:27+00:00",
+          "url": "https://www.youtube.com/watch?v=TMmRrvJcWFU",
+          "thumbnail": "https://i1.ytimg.com/vi/TMmRrvJcWFU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCXKIA4ppNI_5lYFS3Eke39A",
+      "name": "宇都宮",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXKIA4ppNI_5lYFS3Eke39A",
+      "fetchedAt": "2026-05-16T04:39:54Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "NI0bMoCQPr8",
+          "title": "【宇都宮競輪中継】「SPEEDチャンネル・スカパー杯」《ルーキーシリーズ》FⅡ  ２日目",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-05-07T01:50:50+00:00",
+          "updated": "2026-05-14T01:47:52+00:00",
+          "url": "https://www.youtube.com/watch?v=NI0bMoCQPr8",
+          "thumbnail": "https://i3.ytimg.com/vi/NI0bMoCQPr8/hqdefault.jpg"
+        },
+        {
+          "id": "D8ylgHcxsAg",
+          "title": "【宇都宮競輪中継】「SPEEDチャンネル・スカパー杯」《ルーキーシリーズ》FⅡ  1日目",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-05-15T07:57:57+00:00",
+          "updated": "2026-05-15T10:04:21+00:00",
+          "url": "https://www.youtube.com/watch?v=D8ylgHcxsAg",
+          "thumbnail": "https://i1.ytimg.com/vi/D8ylgHcxsAg/hqdefault.jpg"
+        },
+        {
+          "id": "RfpGpYb8st4",
+          "title": "【宇都宮競輪中継】「競輪投票サービスＢetimo杯」モーニング７　 FⅡ ３日目",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-05-10T02:07:26+00:00",
+          "updated": "2026-05-13T23:56:28+00:00",
+          "url": "https://www.youtube.com/watch?v=RfpGpYb8st4",
+          "thumbnail": "https://i3.ytimg.com/vi/RfpGpYb8st4/hqdefault.jpg"
+        },
+        {
+          "id": "dY44yKRDQ8A",
+          "title": "【宇都宮競輪中継】「競輪投票サービスＢetimo杯」モーニング７　 FⅡ ２日目",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-05-09T02:12:12+00:00",
+          "updated": "2026-05-12T13:10:46+00:00",
+          "url": "https://www.youtube.com/watch?v=dY44yKRDQ8A",
+          "thumbnail": "https://i1.ytimg.com/vi/dY44yKRDQ8A/hqdefault.jpg"
+        },
+        {
+          "id": "G1r2vqk57FY",
+          "title": "【宇都宮競輪中継】「競輪投票サービスＢetimo杯」モーニング７　 FⅡ １日目",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-05-08T02:28:21+00:00",
+          "updated": "2026-05-13T17:53:56+00:00",
+          "url": "https://www.youtube.com/watch?v=G1r2vqk57FY",
+          "thumbnail": "https://i4.ytimg.com/vi/G1r2vqk57FY/hqdefault.jpg"
+        },
+        {
+          "id": "sePy427MYRk",
+          "title": "【宇都宮競輪中継】「SPEEDチャンネル・スカパー杯」《ルーキーシリーズ》FⅡ  ３日目",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-05-07T01:51:58+00:00",
+          "updated": "2026-05-14T01:48:07+00:00",
+          "url": "https://www.youtube.com/watch?v=sePy427MYRk",
+          "thumbnail": "https://i4.ytimg.com/vi/sePy427MYRk/hqdefault.jpg"
+        },
+        {
+          "id": "K64I7b9W4U4",
+          "title": "宇都宮競輪　開設７７周年記念　第２回レジェンド神山雄一郎カップ　告知CM",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-05-01T00:49:24+00:00",
+          "updated": "2026-05-13T22:50:51+00:00",
+          "url": "https://www.youtube.com/watch?v=K64I7b9W4U4",
+          "thumbnail": "https://i4.ytimg.com/vi/K64I7b9W4U4/hqdefault.jpg"
+        },
+        {
+          "id": "tC3tDJcc5Tk",
+          "title": "【宇都宮競輪公認】2026/4/3 ミッドナイト3日目 「宇都宮競輪らいとクラブ」 ＦＩＢＡ３×３宇都宮・Ｋドリ杯",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-04-04T04:41:52+00:00",
+          "updated": "2026-04-30T15:57:45+00:00",
+          "url": "https://www.youtube.com/watch?v=tC3tDJcc5Tk",
+          "thumbnail": "https://i1.ytimg.com/vi/tC3tDJcc5Tk/hqdefault.jpg"
+        },
+        {
+          "id": "Oj-6XGF4Yrs",
+          "title": "【宇都宮競輪公認】2026/4/2 ミッドナイト2日目 「宇都宮競輪らいとクラブ」 ＦＩＢＡ３×３宇都宮・Ｋドリ杯",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-04-03T02:51:26+00:00",
+          "updated": "2026-04-30T15:59:16+00:00",
+          "url": "https://www.youtube.com/watch?v=Oj-6XGF4Yrs",
+          "thumbnail": "https://i4.ytimg.com/vi/Oj-6XGF4Yrs/hqdefault.jpg"
+        },
+        {
+          "id": "TqMWsLOVORI",
+          "title": "【宇都宮競輪公認】2026/4/1 ミッドナイト1日目 「宇都宮競輪らいとクラブ」 ＦＩＢＡ３×３宇都宮・Ｋドリ杯",
+          "channelTitle": "UTSUNOMIYA500KEIRIN",
+          "published": "2026-04-02T04:44:41+00:00",
+          "updated": "2026-04-30T15:58:05+00:00",
+          "url": "https://www.youtube.com/watch?v=TqMWsLOVORI",
+          "thumbnail": "https://i1.ytimg.com/vi/TqMWsLOVORI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCH1CtPd9P_DBK9xMzYH48lw",
+      "name": "大宮",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1CtPd9P_DBK9xMzYH48lw",
+      "fetchedAt": "2026-05-16T04:39:54Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "KnEleTu3-8g",
+          "title": "西武園ミッドナイト競輪 仲間と繋がるTIPSTAR杯 F2 3日目最終日【2026年5月3日】#西武園競輪ライブ #西武園競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-05-03T15:16:09+00:00",
+          "updated": "2026-05-06T05:42:02+00:00",
+          "url": "https://www.youtube.com/watch?v=KnEleTu3-8g",
+          "thumbnail": "https://i4.ytimg.com/vi/KnEleTu3-8g/hqdefault.jpg"
+        },
+        {
+          "id": "AcF6VvoFAUU",
+          "title": "西武園ミッドナイト競輪 仲間と繋がるTIPSTAR杯 F2 2日目【2026年5月2日】#西武園競輪ライブ #西武園競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-05-02T15:10:56+00:00",
+          "updated": "2026-05-05T03:05:57+00:00",
+          "url": "https://www.youtube.com/watch?v=AcF6VvoFAUU",
+          "thumbnail": "https://i2.ytimg.com/vi/AcF6VvoFAUU/hqdefault.jpg"
+        },
+        {
+          "id": "CLEkknI1-Ok",
+          "title": "西武園ミッドナイト競輪 仲間と繋がるTIPSTAR杯 F2 1日目【2026年5月1日】#西武園競輪ライブ #西武園競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-05-01T15:19:56+00:00",
+          "updated": "2026-05-01T16:19:44+00:00",
+          "url": "https://www.youtube.com/watch?v=CLEkknI1-Ok",
+          "thumbnail": "https://i4.ytimg.com/vi/CLEkknI1-Ok/hqdefault.jpg"
+        },
+        {
+          "id": "7y11EoU_Gdk",
+          "title": "大宮競輪 第39回デイリースポーツ賞 F1　3日目最終日【2026年4月29日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-29T08:25:21+00:00",
+          "updated": "2026-05-02T19:11:53+00:00",
+          "url": "https://www.youtube.com/watch?v=7y11EoU_Gdk",
+          "thumbnail": "https://i4.ytimg.com/vi/7y11EoU_Gdk/hqdefault.jpg"
+        },
+        {
+          "id": "-eUIGYapXRI",
+          "title": "大宮競輪 第39回デイリースポーツ賞 F1　2日目【2026年4月28日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T08:21:46+00:00",
+          "updated": "2026-04-28T09:26:25+00:00",
+          "url": "https://www.youtube.com/watch?v=-eUIGYapXRI",
+          "thumbnail": "https://i2.ytimg.com/vi/-eUIGYapXRI/hqdefault.jpg"
+        },
+        {
+          "id": "-jIR9rHgCMM",
+          "title": "大宮モーニング競輪 第15回ニッカン・コム杯 F2　3日目最終日【2026年5月24日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T02:52:17+00:00",
+          "updated": "2026-05-05T10:07:37+00:00",
+          "url": "https://www.youtube.com/watch?v=-jIR9rHgCMM",
+          "thumbnail": "https://i2.ytimg.com/vi/-jIR9rHgCMM/hqdefault.jpg"
+        },
+        {
+          "id": "-r2cZnoy-OQ",
+          "title": "大宮モーニング競輪 第15回ニッカン・コム杯 F2　2日目【2026年5月23日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T02:51:23+00:00",
+          "updated": "2026-04-28T02:51:32+00:00",
+          "url": "https://www.youtube.com/watch?v=-r2cZnoy-OQ",
+          "thumbnail": "https://i2.ytimg.com/vi/-r2cZnoy-OQ/hqdefault.jpg"
+        },
+        {
+          "id": "k14jF7LV1ao",
+          "title": "大宮モーニング競輪 第15回ニッカン・コム杯 F2　1日目【2026年5月22日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T02:50:18+00:00",
+          "updated": "2026-04-28T02:50:31+00:00",
+          "url": "https://www.youtube.com/watch?v=k14jF7LV1ao",
+          "thumbnail": "https://i4.ytimg.com/vi/k14jF7LV1ao/hqdefault.jpg"
+        },
+        {
+          "id": "pLT1cfHn0IE",
+          "title": "大宮競輪 第39回デイリースポーツ賞 F1　1日目【2026年4月27日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-27T08:19:21+00:00",
+          "updated": "2026-04-29T10:08:12+00:00",
+          "url": "https://www.youtube.com/watch?v=pLT1cfHn0IE",
+          "thumbnail": "https://i1.ytimg.com/vi/pLT1cfHn0IE/hqdefault.jpg"
+        },
+        {
+          "id": "rMJImp2HE-I",
+          "title": "大宮競輪 第29回アサヒビール＆CTC杯 F2　3日目最終日【2026年4月19日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-19T08:19:38+00:00",
+          "updated": "2026-05-08T01:23:26+00:00",
+          "url": "https://www.youtube.com/watch?v=rMJImp2HE-I",
+          "thumbnail": "https://i3.ytimg.com/vi/rMJImp2HE-I/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCH1CtPd9P_DBK9xMzYH48lw",
+      "name": "西武園",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1CtPd9P_DBK9xMzYH48lw",
+      "fetchedAt": "2026-05-16T04:39:55Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "KnEleTu3-8g",
+          "title": "西武園ミッドナイト競輪 仲間と繋がるTIPSTAR杯 F2 3日目最終日【2026年5月3日】#西武園競輪ライブ #西武園競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-05-03T15:16:09+00:00",
+          "updated": "2026-05-06T05:42:02+00:00",
+          "url": "https://www.youtube.com/watch?v=KnEleTu3-8g",
+          "thumbnail": "https://i4.ytimg.com/vi/KnEleTu3-8g/hqdefault.jpg"
+        },
+        {
+          "id": "AcF6VvoFAUU",
+          "title": "西武園ミッドナイト競輪 仲間と繋がるTIPSTAR杯 F2 2日目【2026年5月2日】#西武園競輪ライブ #西武園競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-05-02T15:10:56+00:00",
+          "updated": "2026-05-05T03:05:57+00:00",
+          "url": "https://www.youtube.com/watch?v=AcF6VvoFAUU",
+          "thumbnail": "https://i2.ytimg.com/vi/AcF6VvoFAUU/hqdefault.jpg"
+        },
+        {
+          "id": "CLEkknI1-Ok",
+          "title": "西武園ミッドナイト競輪 仲間と繋がるTIPSTAR杯 F2 1日目【2026年5月1日】#西武園競輪ライブ #西武園競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-05-01T15:19:56+00:00",
+          "updated": "2026-05-01T16:19:44+00:00",
+          "url": "https://www.youtube.com/watch?v=CLEkknI1-Ok",
+          "thumbnail": "https://i4.ytimg.com/vi/CLEkknI1-Ok/hqdefault.jpg"
+        },
+        {
+          "id": "7y11EoU_Gdk",
+          "title": "大宮競輪 第39回デイリースポーツ賞 F1　3日目最終日【2026年4月29日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-29T08:25:21+00:00",
+          "updated": "2026-05-02T19:11:53+00:00",
+          "url": "https://www.youtube.com/watch?v=7y11EoU_Gdk",
+          "thumbnail": "https://i4.ytimg.com/vi/7y11EoU_Gdk/hqdefault.jpg"
+        },
+        {
+          "id": "-eUIGYapXRI",
+          "title": "大宮競輪 第39回デイリースポーツ賞 F1　2日目【2026年4月28日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T08:21:46+00:00",
+          "updated": "2026-04-28T09:26:25+00:00",
+          "url": "https://www.youtube.com/watch?v=-eUIGYapXRI",
+          "thumbnail": "https://i2.ytimg.com/vi/-eUIGYapXRI/hqdefault.jpg"
+        },
+        {
+          "id": "-jIR9rHgCMM",
+          "title": "大宮モーニング競輪 第15回ニッカン・コム杯 F2　3日目最終日【2026年5月24日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T02:52:17+00:00",
+          "updated": "2026-05-05T10:07:37+00:00",
+          "url": "https://www.youtube.com/watch?v=-jIR9rHgCMM",
+          "thumbnail": "https://i2.ytimg.com/vi/-jIR9rHgCMM/hqdefault.jpg"
+        },
+        {
+          "id": "-r2cZnoy-OQ",
+          "title": "大宮モーニング競輪 第15回ニッカン・コム杯 F2　2日目【2026年5月23日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T02:51:23+00:00",
+          "updated": "2026-04-28T02:51:32+00:00",
+          "url": "https://www.youtube.com/watch?v=-r2cZnoy-OQ",
+          "thumbnail": "https://i2.ytimg.com/vi/-r2cZnoy-OQ/hqdefault.jpg"
+        },
+        {
+          "id": "k14jF7LV1ao",
+          "title": "大宮モーニング競輪 第15回ニッカン・コム杯 F2　1日目【2026年5月22日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-28T02:50:18+00:00",
+          "updated": "2026-04-28T02:50:31+00:00",
+          "url": "https://www.youtube.com/watch?v=k14jF7LV1ao",
+          "thumbnail": "https://i4.ytimg.com/vi/k14jF7LV1ao/hqdefault.jpg"
+        },
+        {
+          "id": "pLT1cfHn0IE",
+          "title": "大宮競輪 第39回デイリースポーツ賞 F1　1日目【2026年4月27日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-27T08:19:21+00:00",
+          "updated": "2026-04-29T10:08:12+00:00",
+          "url": "https://www.youtube.com/watch?v=pLT1cfHn0IE",
+          "thumbnail": "https://i1.ytimg.com/vi/pLT1cfHn0IE/hqdefault.jpg"
+        },
+        {
+          "id": "rMJImp2HE-I",
+          "title": "大宮競輪 第29回アサヒビール＆CTC杯 F2　3日目最終日【2026年4月19日】#大宮競輪ライブ　#大宮競輪中継",
+          "channelTitle": "大宮・西武園競輪ライブ配信チャンネル",
+          "published": "2026-04-19T08:19:38+00:00",
+          "updated": "2026-05-08T01:23:26+00:00",
+          "url": "https://www.youtube.com/watch?v=rMJImp2HE-I",
+          "thumbnail": "https://i3.ytimg.com/vi/rMJImp2HE-I/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCHdHXMKeFSZ3PxSUtpp90ng",
+      "name": "京王閣",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdHXMKeFSZ3PxSUtpp90ng",
+      "fetchedAt": "2026-05-16T04:39:55Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "BrZ3987NXc0",
+          "title": "潤徳会杯＆スポーツニッポン杯(FⅡ) 最終日",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-13T12:12:01+00:00",
+          "updated": "2026-05-15T04:44:52+00:00",
+          "url": "https://www.youtube.com/watch?v=BrZ3987NXc0",
+          "thumbnail": "https://i3.ytimg.com/vi/BrZ3987NXc0/hqdefault.jpg"
+        },
+        {
+          "id": "q9r6Ig_T8Kc",
+          "title": "潤徳会杯＆スポーツニッポン杯(FⅡ) 2日目",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-12T11:51:46+00:00",
+          "updated": "2026-05-15T17:51:23+00:00",
+          "url": "https://www.youtube.com/watch?v=q9r6Ig_T8Kc",
+          "thumbnail": "https://i2.ytimg.com/vi/q9r6Ig_T8Kc/hqdefault.jpg"
+        },
+        {
+          "id": "dmYMDR62F28",
+          "title": "潤徳会杯＆スポーツニッポン杯(FⅡ) 初日",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-11T11:46:30+00:00",
+          "updated": "2026-05-15T18:50:02+00:00",
+          "url": "https://www.youtube.com/watch?v=dmYMDR62F28",
+          "thumbnail": "https://i1.ytimg.com/vi/dmYMDR62F28/hqdefault.jpg"
+        },
+        {
+          "id": "c5ez7N8v4Q4",
+          "title": "恩田繁雄杯＆焼鳥おおしば杯＆スポーツニッポン杯(FⅠ) 最終日",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-07T03:40:25+00:00",
+          "updated": "2026-05-13T05:24:14+00:00",
+          "url": "https://www.youtube.com/watch?v=c5ez7N8v4Q4",
+          "thumbnail": "https://i4.ytimg.com/vi/c5ez7N8v4Q4/hqdefault.jpg"
+        },
+        {
+          "id": "Kk7ynyhFyqM",
+          "title": "恩田繁雄杯＆焼鳥おおしば杯＆スポーツニッポン杯(FⅠ) 2日目",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-07T03:36:51+00:00",
+          "updated": "2026-05-13T05:24:11+00:00",
+          "url": "https://www.youtube.com/watch?v=Kk7ynyhFyqM",
+          "thumbnail": "https://i4.ytimg.com/vi/Kk7ynyhFyqM/hqdefault.jpg"
+        },
+        {
+          "id": "RXzz60PjaOE",
+          "title": "恩田繁雄杯＆焼鳥おおしば杯＆スポーツニッポン杯(FⅠ) 初日",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-07T03:34:25+00:00",
+          "updated": "2026-05-14T06:21:36+00:00",
+          "url": "https://www.youtube.com/watch?v=RXzz60PjaOE",
+          "thumbnail": "https://i3.ytimg.com/vi/RXzz60PjaOE/hqdefault.jpg"
+        },
+        {
+          "id": "4SNJDmaEOx4",
+          "title": "パチンコサイトはパチ７カップ＆デイリースポーツ杯(FⅡ)最終日",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-05T11:52:22+00:00",
+          "updated": "2026-05-08T05:39:52+00:00",
+          "url": "https://www.youtube.com/watch?v=4SNJDmaEOx4",
+          "thumbnail": "https://i1.ytimg.com/vi/4SNJDmaEOx4/hqdefault.jpg"
+        },
+        {
+          "id": "-KraL75WPLA",
+          "title": "パチンコサイトはパチ７カップ＆デイリースポーツ杯(FⅡ)2日目",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-04T11:47:13+00:00",
+          "updated": "2026-05-07T22:16:24+00:00",
+          "url": "https://www.youtube.com/watch?v=-KraL75WPLA",
+          "thumbnail": "https://i2.ytimg.com/vi/-KraL75WPLA/hqdefault.jpg"
+        },
+        {
+          "id": "lcYAtbWs5Xs",
+          "title": "パチンコサイトはパチ７カップ＆デイリースポーツ杯(FⅡ) 初日",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-05-03T11:49:41+00:00",
+          "updated": "2026-05-06T12:16:37+00:00",
+          "url": "https://www.youtube.com/watch?v=lcYAtbWs5Xs",
+          "thumbnail": "https://i1.ytimg.com/vi/lcYAtbWs5Xs/hqdefault.jpg"
+        },
+        {
+          "id": "mZGFviXMx3s",
+          "title": "CTCなら３分前まで買える杯＆トータリゼータエンジニアリング杯＆報知新聞社杯(FⅡ) 最終日",
+          "channelTitle": "京王閣競輪 ライブ配信【公式】",
+          "published": "2026-04-30T11:51:34+00:00",
+          "updated": "2026-05-03T09:50:29+00:00",
+          "url": "https://www.youtube.com/watch?v=mZGFviXMx3s",
+          "thumbnail": "https://i2.ytimg.com/vi/mZGFviXMx3s/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCOyQSsvzD9qQDgtkeu0n84Q",
+      "name": "立川",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyQSsvzD9qQDgtkeu0n84Q",
+      "fetchedAt": "2026-05-16T04:39:55Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "NxUn6DilkJQ",
+          "title": "第1回立川市営 報知ゴールドカップ モーニング（FII）A級決勝 張野幸聖選手優勝！",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:57:11+00:00",
+          "updated": "2026-04-28T22:34:33+00:00",
+          "url": "https://www.youtube.com/watch?v=NxUn6DilkJQ",
+          "thumbnail": "https://i3.ytimg.com/vi/NxUn6DilkJQ/hqdefault.jpg"
+        },
+        {
+          "id": "nIusWmI9DMY",
+          "title": "2026年4月24日 第1回立川市営 報知ゴールドカップ モーニング（FII）7R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:52:41+00:00",
+          "updated": "2026-05-04T19:53:58+00:00",
+          "url": "https://www.youtube.com/watch?v=nIusWmI9DMY",
+          "thumbnail": "https://i3.ytimg.com/vi/nIusWmI9DMY/hqdefault.jpg"
+        },
+        {
+          "id": "6Ry3UqmPHM4",
+          "title": "2026年4月24日 第1回立川市営 報知ゴールドカップ モーニング（FII）6R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:52:37+00:00",
+          "updated": "2026-04-29T03:36:24+00:00",
+          "url": "https://www.youtube.com/watch?v=6Ry3UqmPHM4",
+          "thumbnail": "https://i3.ytimg.com/vi/6Ry3UqmPHM4/hqdefault.jpg"
+        },
+        {
+          "id": "1ov0Dez-bzc",
+          "title": "2026年4月24日 第1回立川市営 報知ゴールドカップ モーニング（FII）5R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:52:32+00:00",
+          "updated": "2026-05-05T04:11:54+00:00",
+          "url": "https://www.youtube.com/watch?v=1ov0Dez-bzc",
+          "thumbnail": "https://i2.ytimg.com/vi/1ov0Dez-bzc/hqdefault.jpg"
+        },
+        {
+          "id": "5a2ekZxnd8I",
+          "title": "2026年4月24日 第1回立川市営 報知ゴールドカップ モーニング（FII）4R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:52:28+00:00",
+          "updated": "2026-04-24T02:52:28+00:00",
+          "url": "https://www.youtube.com/watch?v=5a2ekZxnd8I",
+          "thumbnail": "https://i2.ytimg.com/vi/5a2ekZxnd8I/hqdefault.jpg"
+        },
+        {
+          "id": "nrxX-IqEhGw",
+          "title": "2026年4月24日 第1回立川市営 報知ゴールドカップ モーニング（FII）3R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:52:23+00:00",
+          "updated": "2026-04-24T02:52:24+00:00",
+          "url": "https://www.youtube.com/watch?v=nrxX-IqEhGw",
+          "thumbnail": "https://i3.ytimg.com/vi/nrxX-IqEhGw/hqdefault.jpg"
+        },
+        {
+          "id": "80TsKEeq-5U",
+          "title": "2026年4月24日 第1回立川市営 報知ゴールドカップ モーニング（FII）2R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:52:17+00:00",
+          "updated": "2026-04-24T02:52:18+00:00",
+          "url": "https://www.youtube.com/watch?v=80TsKEeq-5U",
+          "thumbnail": "https://i1.ytimg.com/vi/80TsKEeq-5U/hqdefault.jpg"
+        },
+        {
+          "id": "OfI_5PhA5h4",
+          "title": "2026年4月24日 第1回立川市営 報知ゴールドカップ モーニング（FII）1R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-24T02:52:06+00:00",
+          "updated": "2026-04-28T23:50:26+00:00",
+          "url": "https://www.youtube.com/watch?v=OfI_5PhA5h4",
+          "thumbnail": "https://i4.ytimg.com/vi/OfI_5PhA5h4/hqdefault.jpg"
+        },
+        {
+          "id": "TXQ0fBo4MZc",
+          "title": "2026年4月23日 第1回立川市営 報知ゴールドカップ モーニング（FII）7R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-23T07:09:04+00:00",
+          "updated": "2026-04-28T19:40:25+00:00",
+          "url": "https://www.youtube.com/watch?v=TXQ0fBo4MZc",
+          "thumbnail": "https://i1.ytimg.com/vi/TXQ0fBo4MZc/hqdefault.jpg"
+        },
+        {
+          "id": "irPna-nzV3Q",
+          "title": "2026年4月23日 第1回立川市営 報知ゴールドカップ モーニング（FII）6R",
+          "channelTitle": "たちかわ競輪",
+          "published": "2026-04-23T07:08:58+00:00",
+          "updated": "2026-04-23T07:08:58+00:00",
+          "url": "https://www.youtube.com/watch?v=irPna-nzV3Q",
+          "thumbnail": "https://i2.ytimg.com/vi/irPna-nzV3Q/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCvG1ViOoCDUqLrjbJsPhwzg",
+      "name": "立川サブアカ",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvG1ViOoCDUqLrjbJsPhwzg",
+      "fetchedAt": "2026-05-16T04:39:55Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "nXJRW7wqh_E",
+          "title": "たちかわ競輪  報知ゴールドカップ　モーニング（FⅡ）最終日",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-04-24T14:50:26+00:00",
+          "updated": "2026-05-05T02:24:08+00:00",
+          "url": "https://www.youtube.com/watch?v=nXJRW7wqh_E",
+          "thumbnail": "https://i3.ytimg.com/vi/nXJRW7wqh_E/hqdefault.jpg"
+        },
+        {
+          "id": "Bd4y1oL6WNE",
+          "title": "たちかわ競輪  報知ゴールドカップ　モーニング（FⅡ）2日目",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-04-23T14:41:27+00:00",
+          "updated": "2026-04-27T10:00:31+00:00",
+          "url": "https://www.youtube.com/watch?v=Bd4y1oL6WNE",
+          "thumbnail": "https://i3.ytimg.com/vi/Bd4y1oL6WNE/hqdefault.jpg"
+        },
+        {
+          "id": "xWrl2OHvbYQ",
+          "title": "たちかわ競輪  報知ゴールドカップ　モーニング（FⅡ）初日",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-04-22T14:29:45+00:00",
+          "updated": "2026-05-04T17:11:15+00:00",
+          "url": "https://www.youtube.com/watch?v=xWrl2OHvbYQ",
+          "thumbnail": "https://i1.ytimg.com/vi/xWrl2OHvbYQ/hqdefault.jpg"
+        },
+        {
+          "id": "xwFxknINNJc",
+          "title": "たちかわ競輪  日刊スポーツ&ニッカン・コム杯（FⅠ）最終日",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-03-30T08:24:13+00:00",
+          "updated": "2026-05-08T01:22:22+00:00",
+          "url": "https://www.youtube.com/watch?v=xwFxknINNJc",
+          "thumbnail": "https://i1.ytimg.com/vi/xwFxknINNJc/hqdefault.jpg"
+        },
+        {
+          "id": "WOsdggzZGCw",
+          "title": "たちかわ競輪  日刊スポーツ&ニッカン・コム杯（FⅠ）２日目",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-03-29T08:26:20+00:00",
+          "updated": "2026-05-10T15:30:57+00:00",
+          "url": "https://www.youtube.com/watch?v=WOsdggzZGCw",
+          "thumbnail": "https://i4.ytimg.com/vi/WOsdggzZGCw/hqdefault.jpg"
+        },
+        {
+          "id": "1QyI1qiHOPQ",
+          "title": "たちかわ競輪  日刊スポーツ&ニッカン・コム杯（FⅠ）初日",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-03-28T08:26:56+00:00",
+          "updated": "2026-04-25T15:48:09+00:00",
+          "url": "https://www.youtube.com/watch?v=1QyI1qiHOPQ",
+          "thumbnail": "https://i2.ytimg.com/vi/1QyI1qiHOPQ/hqdefault.jpg"
+        },
+        {
+          "id": "TBeLlfhlZV0",
+          "title": "たちかわ競輪　スポーツニッポン杯　モーニング（FⅡ）最終日",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-03-24T15:08:19+00:00",
+          "updated": "2026-04-19T15:32:32+00:00",
+          "url": "https://www.youtube.com/watch?v=TBeLlfhlZV0",
+          "thumbnail": "https://i1.ytimg.com/vi/TBeLlfhlZV0/hqdefault.jpg"
+        },
+        {
+          "id": "HQ2qQerIKcg",
+          "title": "たちかわ競輪　スポーツニッポン杯　モーニング（FⅡ）2日目",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-03-23T15:35:08+00:00",
+          "updated": "2026-04-28T23:03:44+00:00",
+          "url": "https://www.youtube.com/watch?v=HQ2qQerIKcg",
+          "thumbnail": "https://i1.ytimg.com/vi/HQ2qQerIKcg/hqdefault.jpg"
+        },
+        {
+          "id": "ahozj7a2ilo",
+          "title": "たちかわ競輪　スポーツニッポン杯　モーニング（FⅡ）初日",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-03-22T16:00:22+00:00",
+          "updated": "2026-04-30T03:54:18+00:00",
+          "url": "https://www.youtube.com/watch?v=ahozj7a2ilo",
+          "thumbnail": "https://i2.ytimg.com/vi/ahozj7a2ilo/hqdefault.jpg"
+        },
+        {
+          "id": "lfxZIMPkVO0",
+          "title": "立川競輪_サブアカウント のライブ配信",
+          "channelTitle": "立川競輪_サブアカウント",
+          "published": "2026-03-20T02:44:44+00:00",
+          "updated": "2026-04-30T01:58:28+00:00",
+          "url": "https://www.youtube.com/watch?v=lfxZIMPkVO0",
+          "thumbnail": "https://i1.ytimg.com/vi/lfxZIMPkVO0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCEYoRewzhZWzP9OHaAFE8gA",
+      "name": "松戸",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEYoRewzhZWzP9OHaAFE8gA",
+      "fetchedAt": "2026-05-16T04:39:55Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "HA0VTptEu24",
+          "title": "競輪《いい男》祭！∼イケメン評論家 沖直実 競輪で探してみた∼⑨　#松戸けいりん #松戸 #競輪 #松戸競輪",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-16T03:00:33+00:00",
+          "updated": "2026-05-16T03:00:53+00:00",
+          "url": "https://www.youtube.com/shorts/HA0VTptEu24",
+          "thumbnail": "https://i1.ytimg.com/vi/HA0VTptEu24/hqdefault.jpg"
+        },
+        {
+          "id": "cQlI5e9fDuQ",
+          "title": "【松戸競輪】ロトプレイス杯［FⅡモーニング］ 5/16（土）【最終日】　#松戸競輪中継 #松戸競輪ライブ",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-16T02:08:23+00:00",
+          "updated": "2026-05-16T03:02:07+00:00",
+          "url": "https://www.youtube.com/watch?v=cQlI5e9fDuQ",
+          "thumbnail": "https://i4.ytimg.com/vi/cQlI5e9fDuQ/hqdefault.jpg"
+        },
+        {
+          "id": "FWhiWg-Inzw",
+          "title": "【松戸競輪】ロトプレイス杯［FⅡモーニング］ 5/15（金）【２日目】　#松戸競輪中継 #松戸競輪ライブ",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-15T02:07:44+00:00",
+          "updated": "2026-05-15T04:03:11+00:00",
+          "url": "https://www.youtube.com/watch?v=FWhiWg-Inzw",
+          "thumbnail": "https://i3.ytimg.com/vi/FWhiWg-Inzw/hqdefault.jpg"
+        },
+        {
+          "id": "s9k03vDkmfw",
+          "title": "【松戸競輪】ロトプレイス杯［FⅡモーニング］ 5/14（木）【初日】　#松戸競輪中継 #松戸競輪ライブ",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-14T02:11:22+00:00",
+          "updated": "2026-05-14T04:15:35+00:00",
+          "url": "https://www.youtube.com/watch?v=s9k03vDkmfw",
+          "thumbnail": "https://i4.ytimg.com/vi/s9k03vDkmfw/hqdefault.jpg"
+        },
+        {
+          "id": "ufAPKAvqL4Q",
+          "title": "競輪《いい男》祭！∼イケメン評論家 沖直実 競輪で探してみた∼⑧　#松戸けいりん #松戸 #競輪 #松戸競輪",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-07T09:01:15+00:00",
+          "updated": "2026-05-07T09:01:15+00:00",
+          "url": "https://www.youtube.com/shorts/ufAPKAvqL4Q",
+          "thumbnail": "https://i2.ytimg.com/vi/ufAPKAvqL4Q/hqdefault.jpg"
+        },
+        {
+          "id": "-2LHhRBwCg8",
+          "title": "競輪《いい男》祭！∼イケメン評論家 沖直実 競輪で探してみた∼　#松戸けいりん #松戸 #競輪 #松戸競輪",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-07T03:00:00+00:00",
+          "updated": "2026-05-10T17:18:24+00:00",
+          "url": "https://www.youtube.com/shorts/-2LHhRBwCg8",
+          "thumbnail": "https://i2.ytimg.com/vi/-2LHhRBwCg8/hqdefault.jpg"
+        },
+        {
+          "id": "_h5tyYiH2fs",
+          "title": "競輪《いい男》祭！∼イケメン評論家 沖直実 競輪で探してみた∼　#松戸けいりん #松戸 #競輪 #松戸競輪",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-05T09:00:47+00:00",
+          "updated": "2026-05-10T14:24:39+00:00",
+          "url": "https://www.youtube.com/shorts/_h5tyYiH2fs",
+          "thumbnail": "https://i4.ytimg.com/vi/_h5tyYiH2fs/hqdefault.jpg"
+        },
+        {
+          "id": "IrtfYcxAI3A",
+          "title": "競輪《いい男》祭！∼イケメン評論家 沖直実 競輪で探してみた∼⑤　#松戸けいりん #松戸 #競輪 #松戸競輪",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-05T03:00:17+00:00",
+          "updated": "2026-05-07T23:24:34+00:00",
+          "url": "https://www.youtube.com/shorts/IrtfYcxAI3A",
+          "thumbnail": "https://i2.ytimg.com/vi/IrtfYcxAI3A/hqdefault.jpg"
+        },
+        {
+          "id": "HXHZCIYjup0",
+          "title": "競輪《いい男》祭！∼イケメン評論家 沖直実 競輪で探してみた∼④　#松戸けいりん #松戸 #競輪 #松戸競輪",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-04T09:00:19+00:00",
+          "updated": "2026-05-08T05:01:05+00:00",
+          "url": "https://www.youtube.com/shorts/HXHZCIYjup0",
+          "thumbnail": "https://i1.ytimg.com/vi/HXHZCIYjup0/hqdefault.jpg"
+        },
+        {
+          "id": "vb0z6wjOjrg",
+          "title": "競輪《いい男》祭！∼イケメン評論家 沖直実 競輪で探してみた∼③　#松戸けいりん #松戸 #競輪 #松戸競輪",
+          "channelTitle": "松戸けいりん",
+          "published": "2026-05-04T03:00:53+00:00",
+          "updated": "2026-05-07T11:23:02+00:00",
+          "url": "https://www.youtube.com/shorts/vb0z6wjOjrg",
+          "thumbnail": "https://i3.ytimg.com/vi/vb0z6wjOjrg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCtU7gR5VCpvQjtVPykL4EUA",
+      "name": "川崎",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtU7gR5VCpvQjtVPykL4EUA",
+      "fetchedAt": "2026-05-16T04:39:56Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "FE5T_DNnKW8",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目10Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T11:44:46+00:00",
+          "updated": "2026-05-05T05:49:22+00:00",
+          "url": "https://www.youtube.com/watch?v=FE5T_DNnKW8",
+          "thumbnail": "https://i3.ytimg.com/vi/FE5T_DNnKW8/hqdefault.jpg"
+        },
+        {
+          "id": "-hMvtj0spIU",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　A級優勝インタビュー",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T11:36:15+00:00",
+          "updated": "2026-04-29T06:31:53+00:00",
+          "url": "https://www.youtube.com/watch?v=-hMvtj0spIU",
+          "thumbnail": "https://i2.ytimg.com/vi/-hMvtj0spIU/hqdefault.jpg"
+        },
+        {
+          "id": "1KOEx33M8xs",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　L級優勝インタビュー",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T11:15:29+00:00",
+          "updated": "2026-05-05T07:52:42+00:00",
+          "url": "https://www.youtube.com/watch?v=1KOEx33M8xs",
+          "thumbnail": "https://i2.ytimg.com/vi/1KOEx33M8xs/hqdefault.jpg"
+        },
+        {
+          "id": "gzT4I59r52Q",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目9Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T11:08:11+00:00",
+          "updated": "2026-02-09T12:09:00+00:00",
+          "url": "https://www.youtube.com/watch?v=gzT4I59r52Q",
+          "thumbnail": "https://i4.ytimg.com/vi/gzT4I59r52Q/hqdefault.jpg"
+        },
+        {
+          "id": "e6297ZL3IpY",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目8Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T10:39:05+00:00",
+          "updated": "2026-05-04T22:59:14+00:00",
+          "url": "https://www.youtube.com/watch?v=e6297ZL3IpY",
+          "thumbnail": "https://i2.ytimg.com/vi/e6297ZL3IpY/hqdefault.jpg"
+        },
+        {
+          "id": "hDFaWq8VcEs",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目7Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T10:06:56+00:00",
+          "updated": "2026-05-05T00:45:34+00:00",
+          "url": "https://www.youtube.com/watch?v=hDFaWq8VcEs",
+          "thumbnail": "https://i1.ytimg.com/vi/hDFaWq8VcEs/hqdefault.jpg"
+        },
+        {
+          "id": "qi8AiYkRphk",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目6Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T09:42:30+00:00",
+          "updated": "2026-05-05T01:44:37+00:00",
+          "url": "https://www.youtube.com/watch?v=qi8AiYkRphk",
+          "thumbnail": "https://i2.ytimg.com/vi/qi8AiYkRphk/hqdefault.jpg"
+        },
+        {
+          "id": "N20dtJnCv-A",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目5Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T09:17:15+00:00",
+          "updated": "2026-04-29T07:01:15+00:00",
+          "url": "https://www.youtube.com/watch?v=N20dtJnCv-A",
+          "thumbnail": "https://i3.ytimg.com/vi/N20dtJnCv-A/hqdefault.jpg"
+        },
+        {
+          "id": "hmCYLG3WpLs",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目4Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T08:51:33+00:00",
+          "updated": "2026-04-29T20:06:22+00:00",
+          "url": "https://www.youtube.com/watch?v=hmCYLG3WpLs",
+          "thumbnail": "https://i1.ytimg.com/vi/hmCYLG3WpLs/hqdefault.jpg"
+        },
+        {
+          "id": "D7CnkmSh2oU",
+          "title": "川崎競輪/TIPSTAR杯(FⅡ)　3日目3Ｒ(2025/10/27)",
+          "channelTitle": "川崎競輪場【公式】",
+          "published": "2025-10-27T08:29:55+00:00",
+          "updated": "2026-03-01T23:23:16+00:00",
+          "url": "https://www.youtube.com/watch?v=D7CnkmSh2oU",
+          "thumbnail": "https://i1.ytimg.com/vi/D7CnkmSh2oU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCvfTQBD1nQ8kAqwdrnTN-_g",
+      "name": "平塚",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvfTQBD1nQ8kAqwdrnTN-_g",
+      "fetchedAt": "2026-05-16T04:39:56Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "qJmI1pobvGw",
+          "title": "【バンク内練習ライブ】   第８０回 日本選手権競輪 [GⅠ]５/６（水・休）【最終日】#平塚競輪ライブ #平塚競輪中継",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T12:37:42+00:00",
+          "updated": "2026-05-11T05:58:19+00:00",
+          "url": "https://www.youtube.com/watch?v=qJmI1pobvGw",
+          "thumbnail": "https://i2.ytimg.com/vi/qJmI1pobvGw/hqdefault.jpg"
+        },
+        {
+          "id": "k34N1pJr_EY",
+          "title": "2026.05.6  GⅠ　第80回日本選手権競輪 【平塚競輪】本場開催 最終日【1R～11R】",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T12:23:21+00:00",
+          "updated": "2026-05-06T12:42:57+00:00",
+          "url": "https://www.youtube.com/watch?v=k34N1pJr_EY",
+          "thumbnail": "https://i4.ytimg.com/vi/k34N1pJr_EY/hqdefault.jpg"
+        },
+        {
+          "id": "PgXTS30CqI0",
+          "title": "【平塚競輪】 第８０回 日本選手権競輪 [GⅠ]５/６（水・休）【最終日】#平塚競輪ライブ #平塚競輪中継",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T08:39:09+00:00",
+          "updated": "2026-05-14T02:41:58+00:00",
+          "url": "https://www.youtube.com/watch?v=PgXTS30CqI0",
+          "thumbnail": "https://i1.ytimg.com/vi/PgXTS30CqI0/hqdefault.jpg"
+        },
+        {
+          "id": "o-TYihnH-d0",
+          "title": "2026.05.06 GI第80回日本選手権競輪 表彰式",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T08:14:47+00:00",
+          "updated": "2026-05-10T17:18:37+00:00",
+          "url": "https://www.youtube.com/watch?v=o-TYihnH-d0",
+          "thumbnail": "https://i4.ytimg.com/vi/o-TYihnH-d0/hqdefault.jpg"
+        },
+        {
+          "id": "Z9d_8WRg5z8",
+          "title": "2026.05.06 GI第80回日本選手権競輪 11R Ｓ級決勝",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T07:51:51+00:00",
+          "updated": "2026-05-10T17:19:47+00:00",
+          "url": "https://www.youtube.com/watch?v=Z9d_8WRg5z8",
+          "thumbnail": "https://i3.ytimg.com/vi/Z9d_8WRg5z8/hqdefault.jpg"
+        },
+        {
+          "id": "akhveHhXO_Q",
+          "title": "2026.05.06 GI第80回日本選手権競輪 11R Ｓ級決勝 特別選手紹介",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T04:18:07+00:00",
+          "updated": "2026-05-10T14:22:09+00:00",
+          "url": "https://www.youtube.com/watch?v=akhveHhXO_Q",
+          "thumbnail": "https://i2.ytimg.com/vi/akhveHhXO_Q/hqdefault.jpg"
+        },
+        {
+          "id": "ddL85BovzDI",
+          "title": "女子オールスター競輪ファン投票！！",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T03:22:43+00:00",
+          "updated": "2026-05-06T04:43:49+00:00",
+          "url": "https://www.youtube.com/watch?v=ddL85BovzDI",
+          "thumbnail": "https://i1.ytimg.com/vi/ddL85BovzDI/hqdefault.jpg"
+        },
+        {
+          "id": "GanZiRvBYug",
+          "title": "オールスター競輪ファン投票！！",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-06T02:22:07+00:00",
+          "updated": "2026-05-13T11:43:23+00:00",
+          "url": "https://www.youtube.com/shorts/GanZiRvBYug",
+          "thumbnail": "https://i4.ytimg.com/vi/GanZiRvBYug/hqdefault.jpg"
+        },
+        {
+          "id": "9HIP1OLPJyM",
+          "title": "【バンク内練習ライブ】   第８０回 日本選手権競輪 [GⅠ]５/５（火・祝）【５日目】#平塚競輪ライブ #平塚競輪中継",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-05T13:29:15+00:00",
+          "updated": "2026-05-11T05:58:36+00:00",
+          "url": "https://www.youtube.com/watch?v=9HIP1OLPJyM",
+          "thumbnail": "https://i2.ytimg.com/vi/9HIP1OLPJyM/hqdefault.jpg"
+        },
+        {
+          "id": "Vmer6enkE1o",
+          "title": "2026.05.06 GI第80回日本選手権競輪 11R Ｓ級決勝 選手インタビュー【平塚競輪】本場開催",
+          "channelTitle": "bank shonan",
+          "published": "2026-05-05T11:17:49+00:00",
+          "updated": "2026-05-10T13:55:28+00:00",
+          "url": "https://www.youtube.com/watch?v=Vmer6enkE1o",
+          "thumbnail": "https://i3.ytimg.com/vi/Vmer6enkE1o/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCNgccovrnvwUqSBaqoqrtfA",
+      "name": "小田原",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNgccovrnvwUqSBaqoqrtfA",
+      "fetchedAt": "2026-05-16T04:39:56Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "5uBqc7fQL1Y",
+          "title": "報知新聞社杯争奪戦　FⅠ　2日目【小田原競輪】【公式】オダワライダーと勝利を摑め！  難攻不落の戦国バンク　5/16（土）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-04-20T03:58:58+00:00",
+          "updated": "2026-04-21T16:11:54+00:00",
+          "url": "https://www.youtube.com/watch?v=5uBqc7fQL1Y",
+          "thumbnail": "https://i2.ytimg.com/vi/5uBqc7fQL1Y/hqdefault.jpg"
+        },
+        {
+          "id": "YROIBsFS6bk",
+          "title": "報知新聞社杯争奪戦　FⅠ　初日【小田原競輪】【公式】オダワライダーと勝利を摑め！ 難攻不落の戦国バンク　5/15（金）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-05-15T07:53:57+00:00",
+          "updated": "2026-05-15T12:27:00+00:00",
+          "url": "https://www.youtube.com/watch?v=YROIBsFS6bk",
+          "thumbnail": "https://i2.ytimg.com/vi/YROIBsFS6bk/hqdefault.jpg"
+        },
+        {
+          "id": "_3wSaY7uH0I",
+          "title": "モーニング・ＤＭＭ競輪杯　FⅡ　最終日【小田原競輪】【公式】オダワライダーと勝利を摑め！難攻不落の戦国バンク　5/12（火）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-05-12T02:28:54+00:00",
+          "updated": "2026-05-16T03:30:53+00:00",
+          "url": "https://www.youtube.com/watch?v=_3wSaY7uH0I",
+          "thumbnail": "https://i4.ytimg.com/vi/_3wSaY7uH0I/hqdefault.jpg"
+        },
+        {
+          "id": "UxQEMcGdiiY",
+          "title": "モーニング・ＤＭＭ競輪杯　FⅡ　2日目【小田原競輪】【公式】オダワライダーと勝利を摑め！難攻不落の戦国バンク　5/11（月）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-05-11T02:16:39+00:00",
+          "updated": "2026-05-15T03:44:37+00:00",
+          "url": "https://www.youtube.com/watch?v=UxQEMcGdiiY",
+          "thumbnail": "https://i2.ytimg.com/vi/UxQEMcGdiiY/hqdefault.jpg"
+        },
+        {
+          "id": "2QC0JDJd5gs",
+          "title": "モーニング・ＤＭＭ競輪杯　FⅡ　初日【小田原競輪】【公式】オダワライダーと勝利を摑め！難攻不落の戦国バンク　5/10（日）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-05-10T02:12:22+00:00",
+          "updated": "2026-05-13T17:18:06+00:00",
+          "url": "https://www.youtube.com/watch?v=2QC0JDJd5gs",
+          "thumbnail": "https://i3.ytimg.com/vi/2QC0JDJd5gs/hqdefault.jpg"
+        },
+        {
+          "id": "NEbiPQ-0wD8",
+          "title": "報知新聞社杯争奪戦　FⅠ　最終日【小田原競輪】【公式】オダワライダーと勝利を摑め！  難攻不落の戦国バンク　5/17（日）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-04-20T04:00:47+00:00",
+          "updated": "2026-04-28T19:46:28+00:00",
+          "url": "https://www.youtube.com/watch?v=NEbiPQ-0wD8",
+          "thumbnail": "https://i3.ytimg.com/vi/NEbiPQ-0wD8/hqdefault.jpg"
+        },
+        {
+          "id": "ZcoxbmZ-j4o",
+          "title": "ニッカン・コム杯　FⅡ　最終日【小田原競輪】【公式】オダワライダーと勝利を摑め！難攻不落の戦国バンク　4/11（土）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-04-11T08:08:56+00:00",
+          "updated": "2026-04-27T16:57:42+00:00",
+          "url": "https://www.youtube.com/watch?v=ZcoxbmZ-j4o",
+          "thumbnail": "https://i3.ytimg.com/vi/ZcoxbmZ-j4o/hqdefault.jpg"
+        },
+        {
+          "id": "1DPe3bBNVVI",
+          "title": "ニッカン・コム杯　FⅡ　2日目【小田原競輪】【公式】オダワライダーと勝利を摑め！難攻不落の戦国バンク　4/10（金）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-04-10T07:37:48+00:00",
+          "updated": "2026-05-03T23:00:00+00:00",
+          "url": "https://www.youtube.com/watch?v=1DPe3bBNVVI",
+          "thumbnail": "https://i2.ytimg.com/vi/1DPe3bBNVVI/hqdefault.jpg"
+        },
+        {
+          "id": "USZAIb4Ps2k",
+          "title": "ニッカン・コム杯　FⅡ　初日【小田原競輪】【公式】オダワライダーと勝利を摑め！難攻不落の戦国バンク　4/9（木）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-04-09T07:33:16+00:00",
+          "updated": "2026-04-10T07:00:51+00:00",
+          "url": "https://www.youtube.com/watch?v=USZAIb4Ps2k",
+          "thumbnail": "https://i2.ytimg.com/vi/USZAIb4Ps2k/hqdefault.jpg"
+        },
+        {
+          "id": "j9eju5TJf94",
+          "title": "モーニング・東京スポーツ杯　FⅡ　最終日【小田原競輪】【公式】オダワライダーと勝利を摑め！難攻不落の戦国バンク　4/3（金）",
+          "channelTitle": "小田原競輪解説チャンネル",
+          "published": "2026-04-03T02:43:14+00:00",
+          "updated": "2026-05-04T20:17:59+00:00",
+          "url": "https://www.youtube.com/watch?v=j9eju5TJf94",
+          "thumbnail": "https://i3.ytimg.com/vi/j9eju5TJf94/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UC3CT-xL9H2UW4PMA2Hg1FjA",
+      "name": "伊東",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3CT-xL9H2UW4PMA2Hg1FjA",
+      "fetchedAt": "2026-05-16T04:39:56Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "T6aMF35KFFw",
+          "title": "公式【CS放送サイマル配信】2026/5/13 伊東温泉競輪 デイレース FⅠ スポーツ報知杯　3日目",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-13T08:27:43+00:00",
+          "updated": "2026-05-13T10:00:56+00:00",
+          "url": "https://www.youtube.com/watch?v=T6aMF35KFFw",
+          "thumbnail": "https://i1.ytimg.com/vi/T6aMF35KFFw/hqdefault.jpg"
+        },
+        {
+          "id": "XMnVgdPvr9c",
+          "title": "【伊東温泉競輪（ミカリンTV）】5/13（最終日）スポーツ報知杯（FⅠ） #伊東温泉競輪",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-13T08:02:12+00:00",
+          "updated": "2026-05-13T09:03:11+00:00",
+          "url": "https://www.youtube.com/watch?v=XMnVgdPvr9c",
+          "thumbnail": "https://i1.ytimg.com/vi/XMnVgdPvr9c/hqdefault.jpg"
+        },
+        {
+          "id": "T9ulcvCd-2I",
+          "title": "伊東温泉競輪 スポーツ報知杯（FI）12R S級 決勝（2026.05.13）",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-13T07:47:17+00:00",
+          "updated": "2026-05-13T07:50:20+00:00",
+          "url": "https://www.youtube.com/watch?v=T9ulcvCd-2I",
+          "thumbnail": "https://i1.ytimg.com/vi/T9ulcvCd-2I/hqdefault.jpg"
+        },
+        {
+          "id": "1OjY6ZxAinw",
+          "title": "伊東温泉競輪 スポーツ報知杯（FI）11R A級 決勝（2026.05.13）",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-13T07:21:23+00:00",
+          "updated": "2026-05-13T07:24:59+00:00",
+          "url": "https://www.youtube.com/watch?v=1OjY6ZxAinw",
+          "thumbnail": "https://i2.ytimg.com/vi/1OjY6ZxAinw/hqdefault.jpg"
+        },
+        {
+          "id": "-HSQNL5FteQ",
+          "title": "伊東温泉競輪 スポーツ報知杯（FI）12R S級 決勝 出場選手インタビュー（2026.05.13）",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-12T09:12:15+00:00",
+          "updated": "2026-05-12T09:13:12+00:00",
+          "url": "https://www.youtube.com/watch?v=-HSQNL5FteQ",
+          "thumbnail": "https://i2.ytimg.com/vi/-HSQNL5FteQ/hqdefault.jpg"
+        },
+        {
+          "id": "uPxu59-Eea0",
+          "title": "伊東温泉競輪 スポーツ報知杯（FI）11R A級 決勝 出場選手インタビュー（2026.05.13）",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-12T09:10:59+00:00",
+          "updated": "2026-05-12T09:10:59+00:00",
+          "url": "https://www.youtube.com/watch?v=uPxu59-Eea0",
+          "thumbnail": "https://i2.ytimg.com/vi/uPxu59-Eea0/hqdefault.jpg"
+        },
+        {
+          "id": "RUkeIRDMsGQ",
+          "title": "公式【CS放送サイマル配信】2026/5/12 伊東温泉競輪 デイレース FⅠ スポーツ報知　2日目",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-12T08:35:28+00:00",
+          "updated": "2026-05-12T13:41:28+00:00",
+          "url": "https://www.youtube.com/watch?v=RUkeIRDMsGQ",
+          "thumbnail": "https://i3.ytimg.com/vi/RUkeIRDMsGQ/hqdefault.jpg"
+        },
+        {
+          "id": "2DXiehteEpY",
+          "title": "【伊東温泉競輪（ミカリンTV）】5/12（２日目）スポーツ報知杯（FⅠ） #伊東温泉競輪",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-12T07:59:40+00:00",
+          "updated": "2026-05-12T13:59:17+00:00",
+          "url": "https://www.youtube.com/watch?v=2DXiehteEpY",
+          "thumbnail": "https://i3.ytimg.com/vi/2DXiehteEpY/hqdefault.jpg"
+        },
+        {
+          "id": "EQd2lXrGV40",
+          "title": "公式【CS放送サイマル配信】2026/5/11 伊東温泉競輪 デイレース FⅠ スポーツ報知　初日",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-11T08:27:53+00:00",
+          "updated": "2026-05-15T21:38:41+00:00",
+          "url": "https://www.youtube.com/watch?v=EQd2lXrGV40",
+          "thumbnail": "https://i2.ytimg.com/vi/EQd2lXrGV40/hqdefault.jpg"
+        },
+        {
+          "id": "lYd9spkcf0M",
+          "title": "【伊東温泉競輪（ミカリンTV）】5/11（初日）スポーツ報知杯（FⅠ） #伊東温泉競輪",
+          "channelTitle": "伊東温泉けいりんチャンネル【公式】",
+          "published": "2026-05-11T07:59:51+00:00",
+          "updated": "2026-05-14T23:04:57+00:00",
+          "url": "https://www.youtube.com/watch?v=lYd9spkcf0M",
+          "thumbnail": "https://i1.ytimg.com/vi/lYd9spkcf0M/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCoPaxOy8ch2ydfgL1cpwhvQ",
+      "name": "静岡",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoPaxOy8ch2ydfgL1cpwhvQ",
+      "fetchedAt": "2026-05-16T04:39:57Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "e3dj0lqxKkQ",
+          "title": "【LIVE・最終日】６／２ Kドリームス杯【FⅡ・ミッドナイト】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-05-05T04:44:45+00:00",
+          "updated": "2026-05-05T04:44:47+00:00",
+          "url": "https://www.youtube.com/watch?v=e3dj0lqxKkQ",
+          "thumbnail": "https://i2.ytimg.com/vi/e3dj0lqxKkQ/hqdefault.jpg"
+        },
+        {
+          "id": "7cqtPYN3dhg",
+          "title": "【LIVE・２日目】６／１ Kドリームス杯【FⅡ・ミッドナイト】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-05-05T04:43:20+00:00",
+          "updated": "2026-05-05T04:43:22+00:00",
+          "url": "https://www.youtube.com/watch?v=7cqtPYN3dhg",
+          "thumbnail": "https://i4.ytimg.com/vi/7cqtPYN3dhg/hqdefault.jpg"
+        },
+        {
+          "id": "Sm8VBFdrgAA",
+          "title": "【LIVE・初日】５／３１ Kドリームス杯【FⅡ・ミッドナイト】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-05-05T04:41:46+00:00",
+          "updated": "2026-05-05T04:41:47+00:00",
+          "url": "https://www.youtube.com/watch?v=Sm8VBFdrgAA",
+          "thumbnail": "https://i4.ytimg.com/vi/Sm8VBFdrgAA/hqdefault.jpg"
+        },
+        {
+          "id": "LgGHK5i9s4w",
+          "title": "【LIVE・最終日】５／２６ 用宗港しらすのマルナカ水産杯【FⅡガールズ】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-05-05T04:24:53+00:00",
+          "updated": "2026-05-05T04:24:55+00:00",
+          "url": "https://www.youtube.com/watch?v=LgGHK5i9s4w",
+          "thumbnail": "https://i1.ytimg.com/vi/LgGHK5i9s4w/hqdefault.jpg"
+        },
+        {
+          "id": "q2VztylKmfs",
+          "title": "【LIVE・２日目】５／２５ 用宗港しらすのマルナカ水産杯【FⅡガールズ】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-05-05T04:23:19+00:00",
+          "updated": "2026-05-05T04:23:21+00:00",
+          "url": "https://www.youtube.com/watch?v=q2VztylKmfs",
+          "thumbnail": "https://i2.ytimg.com/vi/q2VztylKmfs/hqdefault.jpg"
+        },
+        {
+          "id": "k7X6ujl-GJc",
+          "title": "【LIVE・初日】５／２４ 用宗港しらすのマルナカ水産杯【FⅡガールズ】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-05-05T04:21:25+00:00",
+          "updated": "2026-05-05T04:21:27+00:00",
+          "url": "https://www.youtube.com/watch?v=k7X6ujl-GJc",
+          "thumbnail": "https://i4.ytimg.com/vi/k7X6ujl-GJc/hqdefault.jpg"
+        },
+        {
+          "id": "iHyJoPVvgAI",
+          "title": "【LIVE・最終日】４／２３ CTCなら3分前まで買える杯【FⅠナイター 】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-04-23T12:25:27+00:00",
+          "updated": "2026-05-09T07:51:34+00:00",
+          "url": "https://www.youtube.com/watch?v=iHyJoPVvgAI",
+          "thumbnail": "https://i2.ytimg.com/vi/iHyJoPVvgAI/hqdefault.jpg"
+        },
+        {
+          "id": "4HGf-apf8dU",
+          "title": "４月２１日～４月２３日 静岡競輪【ＦⅠ】ナイター「ＣＴＣなら３分前まで買える杯」Ｓ級決勝インタビュー",
+          "channelTitle": "静岡競輪",
+          "published": "2026-04-23T03:39:53+00:00",
+          "updated": "2026-05-05T08:29:52+00:00",
+          "url": "https://www.youtube.com/watch?v=4HGf-apf8dU",
+          "thumbnail": "https://i1.ytimg.com/vi/4HGf-apf8dU/hqdefault.jpg"
+        },
+        {
+          "id": "daQ4TKTA5AU",
+          "title": "【LIVE・２日目】４／２２ CTCなら3分前まで買える杯【FⅠナイター 】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-04-22T12:14:42+00:00",
+          "updated": "2026-04-25T05:18:31+00:00",
+          "url": "https://www.youtube.com/watch?v=daQ4TKTA5AU",
+          "thumbnail": "https://i1.ytimg.com/vi/daQ4TKTA5AU/hqdefault.jpg"
+        },
+        {
+          "id": "QgE01Y4dsR4",
+          "title": "【LIVE・初日】４／２１ CTCなら3分前まで買える杯【FⅠナイター 】大予想会",
+          "channelTitle": "静岡競輪",
+          "published": "2026-04-21T12:17:54+00:00",
+          "updated": "2026-04-22T12:09:05+00:00",
+          "url": "https://www.youtube.com/watch?v=QgE01Y4dsR4",
+          "thumbnail": "https://i2.ytimg.com/vi/QgE01Y4dsR4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCgf3cKAiLdTAset5YVGN4Rw",
+      "name": "名古屋",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgf3cKAiLdTAset5YVGN4Rw",
+      "fetchedAt": "2026-05-16T04:39:57Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "q_4nKp8slxs",
+          "title": "名古屋けいりんまつり2026は5月23日(土)実施！ステージ出演するAMOmillion/祝盃踊ってみた！",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-05-15T08:01:00+00:00",
+          "updated": "2026-05-15T08:01:25+00:00",
+          "url": "https://www.youtube.com/shorts/q_4nKp8slxs",
+          "thumbnail": "https://i2.ytimg.com/vi/q_4nKp8slxs/hqdefault.jpg"
+        },
+        {
+          "id": "AMeZfbnAEl8",
+          "title": "小塚選手愛車紹介！#名古屋 #名古屋競輪 #小塚潤 選手",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-05-08T08:00:10+00:00",
+          "updated": "2026-05-12T10:33:54+00:00",
+          "url": "https://www.youtube.com/shorts/AMeZfbnAEl8",
+          "thumbnail": "https://i2.ytimg.com/vi/AMeZfbnAEl8/hqdefault.jpg"
+        },
+        {
+          "id": "QUn_Tjxqfpk",
+          "title": "【プロ育成】春の追い込み！！愛知支部アマチュア合宿に密着！！",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-05-01T08:00:25+00:00",
+          "updated": "2026-05-05T00:46:35+00:00",
+          "url": "https://www.youtube.com/watch?v=QUn_Tjxqfpk",
+          "thumbnail": "https://i2.ytimg.com/vi/QUn_Tjxqfpk/hqdefault.jpg"
+        },
+        {
+          "id": "gGLKQIWqA3A",
+          "title": "名古屋競輪GⅢ 第2回愛知・名古屋アジア・アジアパラ競技大会協賛競輪 第4日",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-04-26T07:37:49+00:00",
+          "updated": "2026-04-29T04:44:45+00:00",
+          "url": "https://www.youtube.com/watch?v=gGLKQIWqA3A",
+          "thumbnail": "https://i4.ytimg.com/vi/gGLKQIWqA3A/hqdefault.jpg"
+        },
+        {
+          "id": "98cW05g4JQU",
+          "title": "名古屋競輪 第２回愛知・名古屋アジア・アジアパラ競技大会協賛競輪GⅢ 第４日",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-04-26T07:25:04+00:00",
+          "updated": "2026-05-05T04:23:51+00:00",
+          "url": "https://www.youtube.com/watch?v=98cW05g4JQU",
+          "thumbnail": "https://i2.ytimg.com/vi/98cW05g4JQU/hqdefault.jpg"
+        },
+        {
+          "id": "ChNhK_YYEqo",
+          "title": "名古屋競輪GⅢ 第2回愛知・名古屋アジア・アジアパラ競技大会協賛競輪 第3日",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-04-25T07:20:57+00:00",
+          "updated": "2026-05-05T05:56:27+00:00",
+          "url": "https://www.youtube.com/watch?v=ChNhK_YYEqo",
+          "thumbnail": "https://i4.ytimg.com/vi/ChNhK_YYEqo/hqdefault.jpg"
+        },
+        {
+          "id": "x8QflaDSHzw",
+          "title": "名古屋競輪 第２回愛知・名古屋アジア・アジアパラ競技大会協賛競輪GⅢ 第３日",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-04-25T07:05:52+00:00",
+          "updated": "2026-04-28T12:38:05+00:00",
+          "url": "https://www.youtube.com/watch?v=x8QflaDSHzw",
+          "thumbnail": "https://i1.ytimg.com/vi/x8QflaDSHzw/hqdefault.jpg"
+        },
+        {
+          "id": "mjDNfUSXXXM",
+          "title": "名古屋競輪 第２回愛知・名古屋アジア・アジアパラ競技大会協賛競輪GⅢ 第２日",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-04-24T07:19:54+00:00",
+          "updated": "2026-05-04T19:22:36+00:00",
+          "url": "https://www.youtube.com/watch?v=mjDNfUSXXXM",
+          "thumbnail": "https://i2.ytimg.com/vi/mjDNfUSXXXM/hqdefault.jpg"
+        },
+        {
+          "id": "p7kIRbRZ7tw",
+          "title": "名古屋競輪GⅢ 第2回愛知・名古屋アジア・アジアパラ競技大会協賛競輪 第2日",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-04-24T07:18:42+00:00",
+          "updated": "2026-04-26T11:40:05+00:00",
+          "url": "https://www.youtube.com/watch?v=p7kIRbRZ7tw",
+          "thumbnail": "https://i1.ytimg.com/vi/p7kIRbRZ7tw/hqdefault.jpg"
+        },
+        {
+          "id": "RpZ-fuExFwA",
+          "title": "名古屋競輪GⅢ 第2回愛知・名古屋アジア・アジアパラ競技大会協賛競輪 第1日",
+          "channelTitle": "名古屋けいりんくるくるチャンネル",
+          "published": "2026-04-23T08:22:31+00:00",
+          "updated": "2026-04-26T00:49:27+00:00",
+          "url": "https://www.youtube.com/watch?v=RpZ-fuExFwA",
+          "thumbnail": "https://i3.ytimg.com/vi/RpZ-fuExFwA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCs2ed7DZGQ-YKsCOX6NGyZQ",
+      "name": "岐阜",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs2ed7DZGQ-YKsCOX6NGyZQ",
+      "fetchedAt": "2026-05-16T04:39:57Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "rcWTt7W_t9o",
+          "title": "５月２４日 岐阜競輪FⅡ 前検日コメントならウィンチケット杯【第３日】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-12T08:44:22+00:00",
+          "updated": "2026-05-12T08:46:06+00:00",
+          "url": "https://www.youtube.com/watch?v=rcWTt7W_t9o",
+          "thumbnail": "https://i3.ytimg.com/vi/rcWTt7W_t9o/hqdefault.jpg"
+        },
+        {
+          "id": "J5eyIcs-rxw",
+          "title": "５月２３日 岐阜競輪FⅡ 前検日コメントならウィンチケット杯 【2日目】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-12T08:43:41+00:00",
+          "updated": "2026-05-12T08:43:43+00:00",
+          "url": "https://www.youtube.com/watch?v=J5eyIcs-rxw",
+          "thumbnail": "https://i3.ytimg.com/vi/J5eyIcs-rxw/hqdefault.jpg"
+        },
+        {
+          "id": "Wnq_p1TrohM",
+          "title": "５月２２日 岐阜競輪FⅡ 前検日コメントならウィンチケット杯【1日目】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-12T08:42:57+00:00",
+          "updated": "2026-05-12T08:42:59+00:00",
+          "url": "https://www.youtube.com/watch?v=Wnq_p1TrohM",
+          "thumbnail": "https://i4.ytimg.com/vi/Wnq_p1TrohM/hqdefault.jpg"
+        },
+        {
+          "id": "w7wO2_IdHMA",
+          "title": "５月１８日 岐阜競輪FⅡ 仲間と繋がるTIPSTAR杯【第３日】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-12T08:42:06+00:00",
+          "updated": "2026-05-12T08:42:09+00:00",
+          "url": "https://www.youtube.com/watch?v=w7wO2_IdHMA",
+          "thumbnail": "https://i4.ytimg.com/vi/w7wO2_IdHMA/hqdefault.jpg"
+        },
+        {
+          "id": "UqEAgWHjzMk",
+          "title": "５月１７日 岐阜競輪FⅡ 仲間と繋がるTIPSTAR杯 【2日目】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-12T08:41:11+00:00",
+          "updated": "2026-05-12T08:41:13+00:00",
+          "url": "https://www.youtube.com/watch?v=UqEAgWHjzMk",
+          "thumbnail": "https://i2.ytimg.com/vi/UqEAgWHjzMk/hqdefault.jpg"
+        },
+        {
+          "id": "nrDWZX2m0_w",
+          "title": "５月１６日 岐阜競輪FⅡ 仲間と繋がるTIPSTAR杯【1日目】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-12T08:40:16+00:00",
+          "updated": "2026-05-12T08:40:18+00:00",
+          "url": "https://www.youtube.com/watch?v=nrDWZX2m0_w",
+          "thumbnail": "https://i3.ytimg.com/vi/nrDWZX2m0_w/hqdefault.jpg"
+        },
+        {
+          "id": "-lx35lpg-b4",
+          "title": "5月7日 岐阜競輪FⅡ 前検日コメントならウィンチケット杯【3日目】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-07T02:45:47+00:00",
+          "updated": "2026-05-07T05:12:45+00:00",
+          "url": "https://www.youtube.com/watch?v=-lx35lpg-b4",
+          "thumbnail": "https://i2.ytimg.com/vi/-lx35lpg-b4/hqdefault.jpg"
+        },
+        {
+          "id": "HMD35gCBRj0",
+          "title": "5月6日 岐阜競輪FⅡ 前検日コメントならウィンチケット杯【2日目】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-06T02:28:14+00:00",
+          "updated": "2026-05-06T07:09:14+00:00",
+          "url": "https://www.youtube.com/watch?v=HMD35gCBRj0",
+          "thumbnail": "https://i1.ytimg.com/vi/HMD35gCBRj0/hqdefault.jpg"
+        },
+        {
+          "id": "KZC9YhohbfE",
+          "title": "5月5日 岐阜競輪FⅡ 前検日コメントならウィンチケット杯【1日目】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-05-05T02:30:38+00:00",
+          "updated": "2026-05-07T06:43:23+00:00",
+          "url": "https://www.youtube.com/watch?v=KZC9YhohbfE",
+          "thumbnail": "https://i4.ytimg.com/vi/KZC9YhohbfE/hqdefault.jpg"
+        },
+        {
+          "id": "QmYK93fd0t4",
+          "title": "４月２９日 岐阜競輪FⅠGet the GIooooory!!ナイトレース 西日本カップ　中日スポーツ杯・JPF賞【第３日】",
+          "channelTitle": "岐阜けいりん",
+          "published": "2026-04-29T12:36:06+00:00",
+          "updated": "2026-05-02T11:34:54+00:00",
+          "url": "https://www.youtube.com/watch?v=QmYK93fd0t4",
+          "thumbnail": "https://i2.ytimg.com/vi/QmYK93fd0t4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCcDTb_mchV4oxxQ2CfGSHFA",
+      "name": "大垣",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcDTb_mchV4oxxQ2CfGSHFA",
+      "fetchedAt": "2026-05-16T04:39:57Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "eMl167iMjUo",
+          "title": "2026.05.15 Kドリームス杯・サテライト姫路賞 FⅡ【３日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-05-15T16:38:05+00:00",
+          "updated": "2026-05-15T18:17:09+00:00",
+          "url": "https://www.youtube.com/watch?v=eMl167iMjUo",
+          "thumbnail": "https://i2.ytimg.com/vi/eMl167iMjUo/hqdefault.jpg"
+        },
+        {
+          "id": "Jxh1gYModBM",
+          "title": "2026/5/13~15 Kドリームス杯・サテライト姫路賞 FⅡ 決勝進出選手インタビュー",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-05-15T10:00:13+00:00",
+          "updated": "2026-05-15T10:22:36+00:00",
+          "url": "https://www.youtube.com/watch?v=Jxh1gYModBM",
+          "thumbnail": "https://i3.ytimg.com/vi/Jxh1gYModBM/hqdefault.jpg"
+        },
+        {
+          "id": "JzK3Qc4cBRQ",
+          "title": "2026.05.14 Kドリームス杯・サテライト姫路賞 FⅡ【２日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-05-14T15:55:02+00:00",
+          "updated": "2026-05-14T18:11:44+00:00",
+          "url": "https://www.youtube.com/watch?v=JzK3Qc4cBRQ",
+          "thumbnail": "https://i3.ytimg.com/vi/JzK3Qc4cBRQ/hqdefault.jpg"
+        },
+        {
+          "id": "BS_OfdnPLSA",
+          "title": "中日スポーツ杯 ・「海津温泉・水晶の湯」賞・第1回水都杯争奪戦  FⅠ【３日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-05-14T09:59:53+00:00",
+          "updated": "2026-05-15T07:10:51+00:00",
+          "url": "https://www.youtube.com/watch?v=BS_OfdnPLSA",
+          "thumbnail": "https://i3.ytimg.com/vi/BS_OfdnPLSA/hqdefault.jpg"
+        },
+        {
+          "id": "MO4lSWbMPi8",
+          "title": "中日スポーツ杯 ・「海津温泉・水晶の湯」賞・第1回水都杯争奪戦  FⅠ【２日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-05-14T09:58:56+00:00",
+          "updated": "2026-05-15T07:34:59+00:00",
+          "url": "https://www.youtube.com/watch?v=MO4lSWbMPi8",
+          "thumbnail": "https://i2.ytimg.com/vi/MO4lSWbMPi8/hqdefault.jpg"
+        },
+        {
+          "id": "rdqchXdSj9k",
+          "title": "中日スポーツ杯 ・「海津温泉・水晶の湯」賞・第1回水都杯争奪戦  FⅠ【１日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-05-14T09:57:31+00:00",
+          "updated": "2026-05-15T08:09:38+00:00",
+          "url": "https://www.youtube.com/watch?v=rdqchXdSj9k",
+          "thumbnail": "https://i3.ytimg.com/vi/rdqchXdSj9k/hqdefault.jpg"
+        },
+        {
+          "id": "RlxYjtZLGtA",
+          "title": "2026.05.13 Kドリームス杯・サテライト姫路賞 FⅡ【１日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-05-13T15:46:28+00:00",
+          "updated": "2026-05-15T06:04:12+00:00",
+          "url": "https://www.youtube.com/watch?v=RlxYjtZLGtA",
+          "thumbnail": "https://i3.ytimg.com/vi/RlxYjtZLGtA/hqdefault.jpg"
+        },
+        {
+          "id": "_aSHujRRhWI",
+          "title": "2026.04.21 前検日コメントならウィンチケット杯・サテライト姫路賞  FⅡ【３日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-04-21T15:13:44+00:00",
+          "updated": "2026-05-04T17:59:46+00:00",
+          "url": "https://www.youtube.com/watch?v=_aSHujRRhWI",
+          "thumbnail": "https://i4.ytimg.com/vi/_aSHujRRhWI/hqdefault.jpg"
+        },
+        {
+          "id": "cLW6VDBY9ro",
+          "title": "2026/4/19~21 前検日コメントならウィンチケット杯・サテライト姫路賞 FⅡ 決勝進出選手インタビュー",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-04-21T10:16:22+00:00",
+          "updated": "2026-04-24T16:35:56+00:00",
+          "url": "https://www.youtube.com/watch?v=cLW6VDBY9ro",
+          "thumbnail": "https://i4.ytimg.com/vi/cLW6VDBY9ro/hqdefault.jpg"
+        },
+        {
+          "id": "bk2-w155UkI",
+          "title": "2026.04.20 前検日コメントならウィンチケット杯・サテライト姫路賞  FⅡ【 ２日目】",
+          "channelTitle": "大垣けいりんチャンネル",
+          "published": "2026-04-20T15:18:58+00:00",
+          "updated": "2026-05-09T03:15:10+00:00",
+          "url": "https://www.youtube.com/watch?v=bk2-w155UkI",
+          "thumbnail": "https://i3.ytimg.com/vi/bk2-w155UkI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UC8mS4Ao44gjBbi8nFrP4fNg",
+      "name": "豊橋",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8mS4Ao44gjBbi8nFrP4fNg",
+      "fetchedAt": "2026-05-16T04:39:57Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "RSwVHwSzx0c",
+          "title": "豊橋競輪【4月29日/最終日】FⅡモーニング ガールズケイリン「リンカイ！豊橋契杯」",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-29T02:16:46+00:00",
+          "updated": "2026-04-29T04:22:39+00:00",
+          "url": "https://www.youtube.com/watch?v=RSwVHwSzx0c",
+          "thumbnail": "https://i3.ytimg.com/vi/RSwVHwSzx0c/hqdefault.jpg"
+        },
+        {
+          "id": "MjWiLwBvvZo",
+          "title": "豊橋競輪【4月28日/2日目】FⅡモーニング ガールズケイリン「リンカイ！豊橋契杯」",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-28T03:03:48+00:00",
+          "updated": "2026-05-05T00:05:55+00:00",
+          "url": "https://www.youtube.com/watch?v=MjWiLwBvvZo",
+          "thumbnail": "https://i2.ytimg.com/vi/MjWiLwBvvZo/hqdefault.jpg"
+        },
+        {
+          "id": "Slq-Nmjvdbk",
+          "title": "豊橋競輪【4月27日/初日】FⅡモーニング ガールズケイリン「リンカイ！豊橋契杯」",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-27T02:23:59+00:00",
+          "updated": "2026-04-28T17:10:55+00:00",
+          "url": "https://www.youtube.com/watch?v=Slq-Nmjvdbk",
+          "thumbnail": "https://i4.ytimg.com/vi/Slq-Nmjvdbk/hqdefault.jpg"
+        },
+        {
+          "id": "X_DL_Sdffh8",
+          "title": "豊橋競輪【4月17日/最終日】FⅠ「ジャパンカップ×HPCJC・中日スポーツ昇龍杯」",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-17T08:17:01+00:00",
+          "updated": "2026-05-08T05:05:07+00:00",
+          "url": "https://www.youtube.com/watch?v=X_DL_Sdffh8",
+          "thumbnail": "https://i1.ytimg.com/vi/X_DL_Sdffh8/hqdefault.jpg"
+        },
+        {
+          "id": "HV7Og4cPuHM",
+          "title": "【実録！豊橋けいりん】 #11 #豊橋けいりん #好きにしりん #ドキュメンタリー",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-17T03:58:16+00:00",
+          "updated": "2026-04-20T03:42:45+00:00",
+          "url": "https://www.youtube.com/shorts/HV7Og4cPuHM",
+          "thumbnail": "https://i1.ytimg.com/vi/HV7Og4cPuHM/hqdefault.jpg"
+        },
+        {
+          "id": "aSaX13h4pd4",
+          "title": "【実録！豊橋けいりん】 #11 #豊橋けいりん #好きにしりん #ドキュメンタリー",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-17T03:54:09+00:00",
+          "updated": "2026-04-18T18:25:04+00:00",
+          "url": "https://www.youtube.com/watch?v=aSaX13h4pd4",
+          "thumbnail": "https://i2.ytimg.com/vi/aSaX13h4pd4/hqdefault.jpg"
+        },
+        {
+          "id": "_FDe4HAoVnk",
+          "title": "4/15～4/17　豊橋競輪FⅠ「ジャパンカップ×HPCJC・中日スポーツ昇龍杯」S級決勝戦出場選手インタビュー",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-16T10:52:09+00:00",
+          "updated": "2026-04-29T22:28:17+00:00",
+          "url": "https://www.youtube.com/watch?v=_FDe4HAoVnk",
+          "thumbnail": "https://i4.ytimg.com/vi/_FDe4HAoVnk/hqdefault.jpg"
+        },
+        {
+          "id": "iOIFGdwJW5g",
+          "title": "豊橋競輪【4月16日/2日目】FⅠ「ジャパンカップ×HPCJC・中日スポーツ昇龍杯」",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-16T08:16:59+00:00",
+          "updated": "2026-04-30T01:11:57+00:00",
+          "url": "https://www.youtube.com/watch?v=iOIFGdwJW5g",
+          "thumbnail": "https://i2.ytimg.com/vi/iOIFGdwJW5g/hqdefault.jpg"
+        },
+        {
+          "id": "ktIaKLq1q-s",
+          "title": "豊橋競輪【4月15日/初日】FⅠ「ジャパンカップ×HPCJC・中日スポーツ昇龍杯」",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-15T08:22:51+00:00",
+          "updated": "2026-05-05T06:08:44+00:00",
+          "url": "https://www.youtube.com/watch?v=ktIaKLq1q-s",
+          "thumbnail": "https://i4.ytimg.com/vi/ktIaKLq1q-s/hqdefault.jpg"
+        },
+        {
+          "id": "k4xE32ruT48",
+          "title": "【実録！豊橋けいりん】 #10",
+          "channelTitle": "豊橋競輪公式",
+          "published": "2026-04-07T11:38:18+00:00",
+          "updated": "2026-05-08T01:22:12+00:00",
+          "url": "https://www.youtube.com/watch?v=k4xE32ruT48",
+          "thumbnail": "https://i4.ytimg.com/vi/k4xE32ruT48/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCvVIZOHj843xo_QSnjY62Lg",
+      "name": "富山",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvVIZOHj843xo_QSnjY62Lg",
+      "fetchedAt": "2026-05-16T04:39:58Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "Nhr8MtYMvrE",
+          "title": "【優勝インタビュー】富山競輪Ⅱ❤「競輪するならみんなの競輪杯」2026/4/30(木)～5/2（土)",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-05-02T08:08:05+00:00",
+          "updated": "2026-05-04T23:07:35+00:00",
+          "url": "https://www.youtube.com/watch?v=Nhr8MtYMvrE",
+          "thumbnail": "https://i3.ytimg.com/vi/Nhr8MtYMvrE/hqdefault.jpg"
+        },
+        {
+          "id": "8PHNdMaanWM",
+          "title": "【TOYAMA KEIRIN THE LIVE!!】5月2日  富山けいりん 　ＦⅡ　ガールズケイリン　3日目",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-05-02T07:53:45+00:00",
+          "updated": "2026-05-04T04:33:58+00:00",
+          "url": "https://www.youtube.com/watch?v=8PHNdMaanWM",
+          "thumbnail": "https://i1.ytimg.com/vi/8PHNdMaanWM/hqdefault.jpg"
+        },
+        {
+          "id": "c8DLBZST7vU",
+          "title": "【決勝インタビュー】富山競輪ＦⅡ 競輪するならみんなの競輪杯　A級決勝インタビュー",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-05-01T10:54:21+00:00",
+          "updated": "2026-05-05T00:50:55+00:00",
+          "url": "https://www.youtube.com/watch?v=c8DLBZST7vU",
+          "thumbnail": "https://i4.ytimg.com/vi/c8DLBZST7vU/hqdefault.jpg"
+        },
+        {
+          "id": "9FrEHrMauRo",
+          "title": "【決勝インタビュー】富山競輪ＦⅡ 競輪するならみんなの競輪杯　L級ガールズ決勝インタビュー",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-05-01T10:48:16+00:00",
+          "updated": "2026-05-05T00:56:01+00:00",
+          "url": "https://www.youtube.com/watch?v=9FrEHrMauRo",
+          "thumbnail": "https://i2.ytimg.com/vi/9FrEHrMauRo/hqdefault.jpg"
+        },
+        {
+          "id": "D85QVk_lINI",
+          "title": "【TOYAMA KEIRIN THE LIVE!!】5月1日  富山けいりん 　ＦⅡ　ガールズケイリン　2日目",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-05-01T07:54:29+00:00",
+          "updated": "2026-05-01T09:23:03+00:00",
+          "url": "https://www.youtube.com/watch?v=D85QVk_lINI",
+          "thumbnail": "https://i1.ytimg.com/vi/D85QVk_lINI/hqdefault.jpg"
+        },
+        {
+          "id": "CSr7gkp2mgQ",
+          "title": "【TOYAMA KEIRIN THE LIVE!!】4月30日  富山けいりん 　ＦⅡ　ガールズケイリン　1日目",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-04-30T07:39:01+00:00",
+          "updated": "2026-05-03T11:42:56+00:00",
+          "url": "https://www.youtube.com/watch?v=CSr7gkp2mgQ",
+          "thumbnail": "https://i4.ytimg.com/vi/CSr7gkp2mgQ/hqdefault.jpg"
+        },
+        {
+          "id": "P4XkzldDKio",
+          "title": "【新人インタビュー】富山支部新人　129期　白井　輝（しらい　てる）選手（石川）",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-04-20T06:35:51+00:00",
+          "updated": "2026-04-28T10:46:19+00:00",
+          "url": "https://www.youtube.com/watch?v=P4XkzldDKio",
+          "thumbnail": "https://i1.ytimg.com/vi/P4XkzldDKio/hqdefault.jpg"
+        },
+        {
+          "id": "FCKtMA-6C6Y",
+          "title": "【優勝インタビュー】富山競輪FⅠ「チャリロト杯」2026/4/12(日)～14(火)",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-04-14T08:40:57+00:00",
+          "updated": "2026-05-04T22:17:23+00:00",
+          "url": "https://www.youtube.com/watch?v=FCKtMA-6C6Y",
+          "thumbnail": "https://i3.ytimg.com/vi/FCKtMA-6C6Y/hqdefault.jpg"
+        },
+        {
+          "id": "6gdHkF1eL84",
+          "title": "【TOYAMA KEIRIN THE LIVE!!】4月14日　チャリロト杯　 ＦⅠ　最終日",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-04-14T08:26:25+00:00",
+          "updated": "2026-04-18T03:32:40+00:00",
+          "url": "https://www.youtube.com/watch?v=6gdHkF1eL84",
+          "thumbnail": "https://i3.ytimg.com/vi/6gdHkF1eL84/hqdefault.jpg"
+        },
+        {
+          "id": "Dq1Fnga_40c",
+          "title": "【決勝インタビュー】富山競輪FⅠ　チャリロト杯　S級決勝インタビュー",
+          "channelTitle": "富山競輪チャンネル【公式】",
+          "published": "2026-04-13T09:25:05+00:00",
+          "updated": "2026-04-17T20:28:52+00:00",
+          "url": "https://www.youtube.com/watch?v=Dq1Fnga_40c",
+          "thumbnail": "https://i1.ytimg.com/vi/Dq1Fnga_40c/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCOZRGa_L_saD0ObvDtzG22Q",
+      "name": "松阪",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOZRGa_L_saD0ObvDtzG22Q",
+      "fetchedAt": "2026-05-16T04:39:58Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "Li9C_IbGSIo",
+          "title": "【Jun's Bar】松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』最終日",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-12T12:20:27+00:00",
+          "updated": "2026-05-15T20:58:55+00:00",
+          "url": "https://www.youtube.com/watch?v=Li9C_IbGSIo",
+          "thumbnail": "https://i1.ytimg.com/vi/Li9C_IbGSIo/hqdefault.jpg"
+        },
+        {
+          "id": "411EHCYZQ8o",
+          "title": "松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』最終日",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-12T12:18:00+00:00",
+          "updated": "2026-05-15T02:44:30+00:00",
+          "url": "https://www.youtube.com/watch?v=411EHCYZQ8o",
+          "thumbnail": "https://i1.ytimg.com/vi/411EHCYZQ8o/hqdefault.jpg"
+        },
+        {
+          "id": "IEWY5o_3TnU",
+          "title": "【S級決勝インタビュー】松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』（2026.5.9～12）",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-11T14:15:13+00:00",
+          "updated": "2026-05-14T18:47:30+00:00",
+          "url": "https://www.youtube.com/watch?v=IEWY5o_3TnU",
+          "thumbnail": "https://i2.ytimg.com/vi/IEWY5o_3TnU/hqdefault.jpg"
+        },
+        {
+          "id": "opUyb1jIPdg",
+          "title": "【ガールズ決勝インタビュー】松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』（2026.5.9～12）",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-11T12:58:39+00:00",
+          "updated": "2026-05-14T22:58:34+00:00",
+          "url": "https://www.youtube.com/watch?v=opUyb1jIPdg",
+          "thumbnail": "https://i4.ytimg.com/vi/opUyb1jIPdg/hqdefault.jpg"
+        },
+        {
+          "id": "5_NFYpaDj8o",
+          "title": "松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』３日目",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-11T12:20:17+00:00",
+          "updated": "2026-05-14T23:22:33+00:00",
+          "url": "https://www.youtube.com/watch?v=5_NFYpaDj8o",
+          "thumbnail": "https://i2.ytimg.com/vi/5_NFYpaDj8o/hqdefault.jpg"
+        },
+        {
+          "id": "RqqEvfApyZs",
+          "title": "【Jun's Bar】松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』３日目",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-11T12:12:32+00:00",
+          "updated": "2026-05-15T18:44:18+00:00",
+          "url": "https://www.youtube.com/watch?v=RqqEvfApyZs",
+          "thumbnail": "https://i3.ytimg.com/vi/RqqEvfApyZs/hqdefault.jpg"
+        },
+        {
+          "id": "2gRQEbfw46Y",
+          "title": "松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』２日目",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-10T12:18:22+00:00",
+          "updated": "2026-05-13T21:32:13+00:00",
+          "url": "https://www.youtube.com/watch?v=2gRQEbfw46Y",
+          "thumbnail": "https://i3.ytimg.com/vi/2gRQEbfw46Y/hqdefault.jpg"
+        },
+        {
+          "id": "PWUxlfiMjgg",
+          "title": "【Jun's Bar】松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』２日目",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-10T12:11:19+00:00",
+          "updated": "2026-05-12T19:42:49+00:00",
+          "url": "https://www.youtube.com/watch?v=PWUxlfiMjgg",
+          "thumbnail": "https://i1.ytimg.com/vi/PWUxlfiMjgg/hqdefault.jpg"
+        },
+        {
+          "id": "W302Y7tiKi0",
+          "title": "松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』初日",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-09T12:16:26+00:00",
+          "updated": "2026-05-13T23:32:29+00:00",
+          "url": "https://www.youtube.com/watch?v=W302Y7tiKi0",
+          "thumbnail": "https://i4.ytimg.com/vi/W302Y7tiKi0/hqdefault.jpg"
+        },
+        {
+          "id": "oyKKHRi4p48",
+          "title": "【Jun's Bar】松阪競輪ＧⅢ♥ナイター『Aquarids Cup ＧⅢ ～５月の女神賞ＦⅡ～ WINTICKET杯』初日",
+          "channelTitle": "松阪けいりんライブ",
+          "published": "2026-05-09T12:09:43+00:00",
+          "updated": "2026-05-13T12:48:51+00:00",
+          "url": "https://www.youtube.com/watch?v=oyKKHRi4p48",
+          "thumbnail": "https://i4.ytimg.com/vi/oyKKHRi4p48/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCPibXjT_mINGifM1gi7ja0g",
+      "name": "四日市",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPibXjT_mINGifM1gi7ja0g",
+      "fetchedAt": "2026-05-16T04:39:58Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "CpSFMje2gJ4",
+          "title": "四日市競輪LIVE　最終日（トゥー・ワン　プロモーション杯　中京スポーツ賞　FⅡ）",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-30T12:02:55+00:00",
+          "updated": "2026-04-22T00:56:49+00:00",
+          "url": "https://www.youtube.com/watch?v=CpSFMje2gJ4",
+          "thumbnail": "https://i4.ytimg.com/vi/CpSFMje2gJ4/hqdefault.jpg"
+        },
+        {
+          "id": "uqtB0BRKq1o",
+          "title": "2026.01.30 四日市ＦⅡナイター A級決勝出場選手インタビュー",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-30T02:26:55+00:00",
+          "updated": "2026-05-05T06:19:42+00:00",
+          "url": "https://www.youtube.com/watch?v=uqtB0BRKq1o",
+          "thumbnail": "https://i2.ytimg.com/vi/uqtB0BRKq1o/hqdefault.jpg"
+        },
+        {
+          "id": "VNkVFDmQbLE",
+          "title": "四日市競輪LIVE　2日目（トゥー・ワン　プロモーション杯　中京スポーツ賞　FⅡ）",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-29T12:01:23+00:00",
+          "updated": "2026-03-26T20:29:54+00:00",
+          "url": "https://www.youtube.com/watch?v=VNkVFDmQbLE",
+          "thumbnail": "https://i3.ytimg.com/vi/VNkVFDmQbLE/hqdefault.jpg"
+        },
+        {
+          "id": "x5fe28dzWtU",
+          "title": "四日市競輪LIVE　初日（トゥー・ワン　プロモーション杯　中京スポーツ賞　FⅡ）",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-28T12:01:40+00:00",
+          "updated": "2026-05-05T06:16:15+00:00",
+          "url": "https://www.youtube.com/watch?v=x5fe28dzWtU",
+          "thumbnail": "https://i1.ytimg.com/vi/x5fe28dzWtU/hqdefault.jpg"
+        },
+        {
+          "id": "I0YNQSz4V50",
+          "title": "四日市競輪LIVE　最終日（ウィンターナイトレースカップ　CTC杯　スポーツ報知賞　FⅠ）",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-26T12:20:13+00:00",
+          "updated": "2026-04-28T16:27:18+00:00",
+          "url": "https://www.youtube.com/watch?v=I0YNQSz4V50",
+          "thumbnail": "https://i2.ytimg.com/vi/I0YNQSz4V50/hqdefault.jpg"
+        },
+        {
+          "id": "oGKrn9EZMeY",
+          "title": "2026.01.26 四日市ＦⅠナイター S級決勝出場選手インタビュー",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-26T00:23:12+00:00",
+          "updated": "2026-02-25T15:24:11+00:00",
+          "url": "https://www.youtube.com/watch?v=oGKrn9EZMeY",
+          "thumbnail": "https://i4.ytimg.com/vi/oGKrn9EZMeY/hqdefault.jpg"
+        },
+        {
+          "id": "JaEBvep8wEA",
+          "title": "四日市競輪LIVE　2日目（ウィンターナイトレースカップ　CTC杯　スポーツ報知賞　FⅠ）",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-25T12:18:42+00:00",
+          "updated": "2026-04-22T01:06:19+00:00",
+          "url": "https://www.youtube.com/watch?v=JaEBvep8wEA",
+          "thumbnail": "https://i3.ytimg.com/vi/JaEBvep8wEA/hqdefault.jpg"
+        },
+        {
+          "id": "lN7-1Znd8Hg",
+          "title": "四日市競輪LIVE　初日（ウィンターナイトレースカップ　CTC杯　スポーツ報知賞　FⅠ）",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-24T12:18:32+00:00",
+          "updated": "2026-04-30T05:22:20+00:00",
+          "url": "https://www.youtube.com/watch?v=lN7-1Znd8Hg",
+          "thumbnail": "https://i1.ytimg.com/vi/lN7-1Znd8Hg/hqdefault.jpg"
+        },
+        {
+          "id": "cgkxVqWgSbo",
+          "title": "2026.1.23 四日市FⅠナイター 前検インタビュー",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2026-01-23T08:29:56+00:00",
+          "updated": "2026-04-13T19:29:18+00:00",
+          "url": "https://www.youtube.com/watch?v=cgkxVqWgSbo",
+          "thumbnail": "https://i4.ytimg.com/vi/cgkxVqWgSbo/hqdefault.jpg"
+        },
+        {
+          "id": "YZ7gsI5-P8E",
+          "title": "四日市競輪LIVE　最終日（四日市萬古焼協賛　中日スポーツ賞　FⅠ）",
+          "channelTitle": "Keirin Yokkaichi",
+          "published": "2025-12-24T12:23:46+00:00",
+          "updated": "2026-03-26T20:31:43+00:00",
+          "url": "https://www.youtube.com/watch?v=YZ7gsI5-P8E",
+          "thumbnail": "https://i2.ytimg.com/vi/YZ7gsI5-P8E/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCypKxtT2sGParvK54JMeWfw",
+      "name": "福井",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCypKxtT2sGParvK54JMeWfw",
+      "fetchedAt": "2026-05-16T04:39:59Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "3yDOO2GvbvE",
+          "title": "福井競輪129期 片岡遼真選手 新人紹介式",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2026-05-05T10:08:00+00:00",
+          "updated": "2026-05-10T13:55:21+00:00",
+          "url": "https://www.youtube.com/watch?v=3yDOO2GvbvE",
+          "thumbnail": "https://i4.ytimg.com/vi/3yDOO2GvbvE/hqdefault.jpg"
+        },
+        {
+          "id": "zU9yzTrgt4E",
+          "title": "KEIRINグランプリ 2025 in 平塚 密着VTR",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2026-01-03T01:33:08+00:00",
+          "updated": "2026-02-02T16:58:43+00:00",
+          "url": "https://www.youtube.com/watch?v=zU9yzTrgt4E",
+          "thumbnail": "https://i3.ytimg.com/vi/zU9yzTrgt4E/hqdefault.jpg"
+        },
+        {
+          "id": "fl89V9P8ABM",
+          "title": "KEIRINグランプリ2025壮行会　脇本雄太選手・寺﨑浩平選手",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-12-03T03:13:57+00:00",
+          "updated": "2026-05-04T16:03:44+00:00",
+          "url": "https://www.youtube.com/watch?v=fl89V9P8ABM",
+          "thumbnail": "https://i3.ytimg.com/vi/fl89V9P8ABM/hqdefault.jpg"
+        },
+        {
+          "id": "X5FqndKPlh8",
+          "title": "福井けいりんライブ　９月２４日　最終日　７車立てならＴＩＰＳＴＡＲ杯",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-09-24T04:29:42+00:00",
+          "updated": "2026-04-22T19:01:28+00:00",
+          "url": "https://www.youtube.com/watch?v=X5FqndKPlh8",
+          "thumbnail": "https://i1.ytimg.com/vi/X5FqndKPlh8/hqdefault.jpg"
+        },
+        {
+          "id": "_1nagdAOPqo",
+          "title": "福井けいりんライブ　９月２４日　最終日　７車立てならＴＩＰＳＴＡＲ杯",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-09-24T02:17:52+00:00",
+          "updated": "2026-05-04T15:43:59+00:00",
+          "url": "https://www.youtube.com/watch?v=_1nagdAOPqo",
+          "thumbnail": "https://i4.ytimg.com/vi/_1nagdAOPqo/hqdefault.jpg"
+        },
+        {
+          "id": "nB2kynkvhc4",
+          "title": "2025 7車立てならTIPSTAR杯　決勝インタビュー",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-09-23T04:21:47+00:00",
+          "updated": "2026-05-05T03:23:23+00:00",
+          "url": "https://www.youtube.com/watch?v=nB2kynkvhc4",
+          "thumbnail": "https://i3.ytimg.com/vi/nB2kynkvhc4/hqdefault.jpg"
+        },
+        {
+          "id": "BqHkEBjeBV0",
+          "title": "福井けいりんライブ　９月２３日　２日目　７車立てならＴＩＰＳＴＡＲ杯",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-09-23T02:02:44+00:00",
+          "updated": "2026-04-28T17:37:39+00:00",
+          "url": "https://www.youtube.com/watch?v=BqHkEBjeBV0",
+          "thumbnail": "https://i3.ytimg.com/vi/BqHkEBjeBV0/hqdefault.jpg"
+        },
+        {
+          "id": "csGzRh2FYAo",
+          "title": "福井けいりんライブ　９月２２日　１日目　７車立てならＴＩＰＳＴＡＲ杯",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-09-22T01:59:54+00:00",
+          "updated": "2026-04-30T05:17:07+00:00",
+          "url": "https://www.youtube.com/watch?v=csGzRh2FYAo",
+          "thumbnail": "https://i4.ytimg.com/vi/csGzRh2FYAo/hqdefault.jpg"
+        },
+        {
+          "id": "NxCSrltTNUY",
+          "title": "20250921 ７車立てならTIPSTAR杯 前検インタビュー",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-09-21T07:26:05+00:00",
+          "updated": "2026-05-05T07:56:09+00:00",
+          "url": "https://www.youtube.com/watch?v=NxCSrltTNUY",
+          "thumbnail": "https://i3.ytimg.com/vi/NxCSrltTNUY/hqdefault.jpg"
+        },
+        {
+          "id": "UzbjEPHSHwE",
+          "title": "福井けいりんライブ　９月１５日　最終日　第４１回共同通信社杯競輪",
+          "channelTitle": "福井けいりんてれび",
+          "published": "2025-09-15T08:33:57+00:00",
+          "updated": "2026-04-15T00:19:21+00:00",
+          "url": "https://www.youtube.com/watch?v=UzbjEPHSHwE",
+          "thumbnail": "https://i2.ytimg.com/vi/UzbjEPHSHwE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCAHgvI8-zib9yOA2suyjGcg",
+      "name": "奈良",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAHgvI8-zib9yOA2suyjGcg",
+      "fetchedAt": "2026-05-16T04:39:59Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "Tt3GUsAk27g",
+          "title": "奈良競輪【和歌山県営ＦⅡミッドナイト】　前検日コメントならウィンチケット杯　３日目　2026/5/9",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-09T16:07:50+00:00",
+          "updated": "2026-05-13T18:57:23+00:00",
+          "url": "https://www.youtube.com/watch?v=Tt3GUsAk27g",
+          "thumbnail": "https://i1.ytimg.com/vi/Tt3GUsAk27g/hqdefault.jpg"
+        },
+        {
+          "id": "LfPlXTVScsk",
+          "title": "2026/5/9　和歌山県営　前検日コメントならウィンチケット杯　3日目",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-09T14:50:18+00:00",
+          "updated": "2026-05-13T06:31:04+00:00",
+          "url": "https://www.youtube.com/watch?v=LfPlXTVScsk",
+          "thumbnail": "https://i1.ytimg.com/vi/LfPlXTVScsk/hqdefault.jpg"
+        },
+        {
+          "id": "b4GxkSxuGDc",
+          "title": "和歌山県営　前検日コメントならウィンチケット杯　A級決勝戦インタビュー",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-09T07:33:27+00:00",
+          "updated": "2026-05-13T00:18:40+00:00",
+          "url": "https://www.youtube.com/watch?v=b4GxkSxuGDc",
+          "thumbnail": "https://i3.ytimg.com/vi/b4GxkSxuGDc/hqdefault.jpg"
+        },
+        {
+          "id": "Fnp2uq_YOwg",
+          "title": "奈良競輪【和歌山県営ＦⅡミッドナイト】　前検日コメントならウィンチケット杯　２日目　2026/5/8",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-08T16:42:34+00:00",
+          "updated": "2026-05-13T15:38:06+00:00",
+          "url": "https://www.youtube.com/watch?v=Fnp2uq_YOwg",
+          "thumbnail": "https://i3.ytimg.com/vi/Fnp2uq_YOwg/hqdefault.jpg"
+        },
+        {
+          "id": "vM1AvyO940Y",
+          "title": "2026/5/8　和歌山県営　前検日コメントならウィンチケット杯　2日目",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-08T14:52:38+00:00",
+          "updated": "2026-05-12T10:29:41+00:00",
+          "url": "https://www.youtube.com/watch?v=vM1AvyO940Y",
+          "thumbnail": "https://i3.ytimg.com/vi/vM1AvyO940Y/hqdefault.jpg"
+        },
+        {
+          "id": "f2WWRzYX8-k",
+          "title": "奈良競輪【和歌山県営ＦⅡミッドナイト】　前検日コメントならウィンチケット杯　１日目　2026/5/7",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-07T17:27:55+00:00",
+          "updated": "2026-05-13T04:12:20+00:00",
+          "url": "https://www.youtube.com/watch?v=f2WWRzYX8-k",
+          "thumbnail": "https://i3.ytimg.com/vi/f2WWRzYX8-k/hqdefault.jpg"
+        },
+        {
+          "id": "fCXVKHVKh1M",
+          "title": "2026/5/7　和歌山県営　前検日コメントならウィンチケット杯　1日目",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-07T14:50:55+00:00",
+          "updated": "2026-05-11T13:31:42+00:00",
+          "url": "https://www.youtube.com/watch?v=fCXVKHVKh1M",
+          "thumbnail": "https://i3.ytimg.com/vi/fCXVKHVKh1M/hqdefault.jpg"
+        },
+        {
+          "id": "BQe1_7tWIOM",
+          "title": "奈良競輪【ＦⅠナイター】　関西スポーツ新聞５社後援　青垣賞争覇戦　３日目　2026/5/3",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-03T12:20:02+00:00",
+          "updated": "2026-05-06T16:28:31+00:00",
+          "url": "https://www.youtube.com/watch?v=BQe1_7tWIOM",
+          "thumbnail": "https://i3.ytimg.com/vi/BQe1_7tWIOM/hqdefault.jpg"
+        },
+        {
+          "id": "cs1qCBgzb80",
+          "title": "2026/5/3　関西スポーツ新聞5社後援　青垣賞争覇戦　3日目",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-03T12:00:21+00:00",
+          "updated": "2026-05-07T11:25:02+00:00",
+          "url": "https://www.youtube.com/watch?v=cs1qCBgzb80",
+          "thumbnail": "https://i4.ytimg.com/vi/cs1qCBgzb80/hqdefault.jpg"
+        },
+        {
+          "id": "jm_RnJJPsTk",
+          "title": "関西スポーツ新聞5社後援　青垣賞争覇戦　S級決勝戦インタビュー",
+          "channelTitle": "奈良けいりん",
+          "published": "2026-05-03T01:48:24+00:00",
+          "updated": "2026-05-06T01:00:25+00:00",
+          "url": "https://www.youtube.com/watch?v=jm_RnJJPsTk",
+          "thumbnail": "https://i3.ytimg.com/vi/jm_RnJJPsTk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCdBuL72WRnKDIvAekxS2NxQ",
+      "name": "向日町",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdBuL72WRnKDIvAekxS2NxQ",
+      "fetchedAt": "2026-05-16T04:39:59Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "N0QP48VV4D8",
+          "title": "【おさパンゲスト切り抜き】ムコリン・ムッチー登場！！",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-30T04:41:13+00:00",
+          "updated": "2026-04-29T16:20:49+00:00",
+          "url": "https://www.youtube.com/watch?v=N0QP48VV4D8",
+          "thumbnail": "https://i3.ytimg.com/vi/N0QP48VV4D8/hqdefault.jpg"
+        },
+        {
+          "id": "0vNMqTNY_DI",
+          "title": "おさいふパンパン！けいりん！マダムッシュ★　最終日",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-16T07:42:52+00:00",
+          "updated": "2026-04-08T16:44:33+00:00",
+          "url": "https://www.youtube.com/watch?v=0vNMqTNY_DI",
+          "thumbnail": "https://i1.ytimg.com/vi/0vNMqTNY_DI/hqdefault.jpg"
+        },
+        {
+          "id": "l6eVM2JDztM",
+          "title": "おさいふパンパン！けいりん！マダムッシュ★　2日目",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-15T06:56:15+00:00",
+          "updated": "2026-04-22T17:18:45+00:00",
+          "url": "https://www.youtube.com/watch?v=l6eVM2JDztM",
+          "thumbnail": "https://i1.ytimg.com/vi/l6eVM2JDztM/hqdefault.jpg"
+        },
+        {
+          "id": "57bsgyJLDzs",
+          "title": "おさいふパンパン！けいりん！マダムッシュ★　初日",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-14T06:48:12+00:00",
+          "updated": "2026-04-08T16:45:35+00:00",
+          "url": "https://www.youtube.com/watch?v=57bsgyJLDzs",
+          "thumbnail": "https://i2.ytimg.com/vi/57bsgyJLDzs/hqdefault.jpg"
+        },
+        {
+          "id": "jZuMRz7j7XU",
+          "title": "ゆるーい前検日インタビューin奈良競輪！！　「TIPSTARリニューアル杯　京白梅賞in奈良　♥ガールズケイリン【FⅡ】」",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-13T10:46:06+00:00",
+          "updated": "2026-05-05T04:21:46+00:00",
+          "url": "https://www.youtube.com/watch?v=jZuMRz7j7XU",
+          "thumbnail": "https://i3.ytimg.com/vi/jZuMRz7j7XU/hqdefault.jpg"
+        },
+        {
+          "id": "sahxRTagDKg",
+          "title": "おさいふパンパン！けいりん！マダムッシュ★　最終日",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-03T14:51:29+00:00",
+          "updated": "2026-03-26T20:35:26+00:00",
+          "url": "https://www.youtube.com/watch?v=sahxRTagDKg",
+          "thumbnail": "https://i4.ytimg.com/vi/sahxRTagDKg/hqdefault.jpg"
+        },
+        {
+          "id": "x6yZ1vXw3WU",
+          "title": "おさいふパンパン！けいりん！マダムッシュ★　2日目",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-02T14:54:48+00:00",
+          "updated": "2026-05-05T02:31:01+00:00",
+          "url": "https://www.youtube.com/watch?v=x6yZ1vXw3WU",
+          "thumbnail": "https://i1.ytimg.com/vi/x6yZ1vXw3WU/hqdefault.jpg"
+        },
+        {
+          "id": "sRLRvtPom6s",
+          "title": "おさいふパンパン！けいりん！マダムッシュ★　初日",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-03-01T14:50:28+00:00",
+          "updated": "2026-04-13T18:06:37+00:00",
+          "url": "https://www.youtube.com/watch?v=sRLRvtPom6s",
+          "thumbnail": "https://i4.ytimg.com/vi/sRLRvtPom6s/hqdefault.jpg"
+        },
+        {
+          "id": "4HqisfUrS5Y",
+          "title": "ゆるーい前検日インタビューin岸和田競輪！！　「みんなの競輪カップ ムッチーナイトレースin岸和田　FⅡ」",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-02-28T11:52:38+00:00",
+          "updated": "2026-04-29T01:12:18+00:00",
+          "url": "https://www.youtube.com/watch?v=4HqisfUrS5Y",
+          "thumbnail": "https://i1.ytimg.com/vi/4HqisfUrS5Y/hqdefault.jpg"
+        },
+        {
+          "id": "6sKuX6O61k8",
+          "title": "【京都支部】127期　川村峻輝選手初優勝おめでとう初インタビュー！",
+          "channelTitle": "むちTUBEチャンネル",
+          "published": "2026-02-12T08:04:12+00:00",
+          "updated": "2026-03-14T19:36:26+00:00",
+          "url": "https://www.youtube.com/watch?v=6sKuX6O61k8",
+          "thumbnail": "https://i3.ytimg.com/vi/6sKuX6O61k8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCu_WLHra6mfVBHj5qVz5Rbw",
+      "name": "和歌山",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu_WLHra6mfVBHj5qVz5Rbw",
+      "fetchedAt": "2026-05-16T04:40:00Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "Wt3k8j_0oRw",
+          "title": "【和歌山競輪ライブ】Ｋドリームス杯   ＦⅠ 3日目 【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-05-13T11:13:52+00:00",
+          "updated": "2026-05-13T11:13:54+00:00",
+          "url": "https://www.youtube.com/watch?v=Wt3k8j_0oRw",
+          "thumbnail": "https://i4.ytimg.com/vi/Wt3k8j_0oRw/hqdefault.jpg"
+        },
+        {
+          "id": "xJwVWMl4SYo",
+          "title": "【和歌山競輪ライブ】Ｋドリームス杯   ＦⅠ 2日目 【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-05-13T11:13:05+00:00",
+          "updated": "2026-05-13T11:13:06+00:00",
+          "url": "https://www.youtube.com/watch?v=xJwVWMl4SYo",
+          "thumbnail": "https://i1.ytimg.com/vi/xJwVWMl4SYo/hqdefault.jpg"
+        },
+        {
+          "id": "2RvmV3DcVP0",
+          "title": "【和歌山競輪ライブ】Ｋドリームス杯   ＦⅠ 1日目 【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-05-13T11:11:11+00:00",
+          "updated": "2026-05-13T11:13:21+00:00",
+          "url": "https://www.youtube.com/watch?v=2RvmV3DcVP0",
+          "thumbnail": "https://i3.ytimg.com/vi/2RvmV3DcVP0/hqdefault.jpg"
+        },
+        {
+          "id": "YS4B0ObBbFg",
+          "title": "【和歌山競輪ライブ】モーニング競輪 チャリロト杯 3日目【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-04-25T02:29:19+00:00",
+          "updated": "2026-05-04T17:58:34+00:00",
+          "url": "https://www.youtube.com/watch?v=YS4B0ObBbFg",
+          "thumbnail": "https://i2.ytimg.com/vi/YS4B0ObBbFg/hqdefault.jpg"
+        },
+        {
+          "id": "-Qtp4Kb_HMg",
+          "title": "【和歌山競輪ライブ】モーニング競輪 チャリロト杯 2日目【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-04-24T15:59:43+00:00",
+          "updated": "2026-04-26T05:29:02+00:00",
+          "url": "https://www.youtube.com/watch?v=-Qtp4Kb_HMg",
+          "thumbnail": "https://i2.ytimg.com/vi/-Qtp4Kb_HMg/hqdefault.jpg"
+        },
+        {
+          "id": "3GCFUF-YGQ4",
+          "title": "【和歌山競輪ライブ】モーニング競輪 チャリロト杯 1日目【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-04-23T16:04:40+00:00",
+          "updated": "2026-04-24T17:03:17+00:00",
+          "url": "https://www.youtube.com/watch?v=3GCFUF-YGQ4",
+          "thumbnail": "https://i4.ytimg.com/vi/3GCFUF-YGQ4/hqdefault.jpg"
+        },
+        {
+          "id": "2xZ57HdrkLk",
+          "title": "【和歌山競輪ライブ】モーニング競輪 チャリロト杯 3日目【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-03-19T15:21:20+00:00",
+          "updated": "2026-04-09T19:28:14+00:00",
+          "url": "https://www.youtube.com/watch?v=2xZ57HdrkLk",
+          "thumbnail": "https://i3.ytimg.com/vi/2xZ57HdrkLk/hqdefault.jpg"
+        },
+        {
+          "id": "0VrpSN833K0",
+          "title": "【和歌山競輪ライブ】モーニング競輪 チャリロト杯 2日目【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-03-18T07:16:29+00:00",
+          "updated": "2026-04-29T07:35:28+00:00",
+          "url": "https://www.youtube.com/watch?v=0VrpSN833K0",
+          "thumbnail": "https://i1.ytimg.com/vi/0VrpSN833K0/hqdefault.jpg"
+        },
+        {
+          "id": "Q1jtHziLfXc",
+          "title": "【和歌山競輪ライブ】モーニング競輪 チャリロト杯 1日目【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-03-17T02:53:39+00:00",
+          "updated": "2026-04-21T21:14:58+00:00",
+          "url": "https://www.youtube.com/watch?v=Q1jtHziLfXc",
+          "thumbnail": "https://i2.ytimg.com/vi/Q1jtHziLfXc/hqdefault.jpg"
+        },
+        {
+          "id": "ijSj9Yfyhqw",
+          "title": "【和歌山競輪ライブ】モーニング競輪 日本ベンダーネット杯 3日目【オレンジちゅーぶ】",
+          "channelTitle": "【和歌山競輪】オレンジちゅーぶ",
+          "published": "2026-03-14T03:15:33+00:00",
+          "updated": "2026-04-09T19:29:31+00:00",
+          "url": "https://www.youtube.com/watch?v=ijSj9Yfyhqw",
+          "thumbnail": "https://i2.ytimg.com/vi/ijSj9Yfyhqw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UChHOZZ-KJgahUia5vxQnvNw",
+      "name": "岸和田",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UChHOZZ-KJgahUia5vxQnvNw",
+      "fetchedAt": "2026-05-16T04:40:00Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "wmMRwv-kEPI",
+          "title": "岸和田けいりん　前検日コメントならWINTICKET杯 3日目 #岸和田競輪ライブ #井上薫 #白井美早子 #日本トーターブッキースタジアム岸和田",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-13T07:42:12+00:00",
+          "updated": "2026-05-13T10:29:40+00:00",
+          "url": "https://www.youtube.com/watch?v=wmMRwv-kEPI",
+          "thumbnail": "https://i4.ytimg.com/vi/wmMRwv-kEPI/hqdefault.jpg"
+        },
+        {
+          "id": "CosncMJ4Wy0",
+          "title": "【岸和田競輪】令和８年５月13日 前検日コメントならウィンチケット杯 FⅡ３日目【ブッキースタジアム岸和田】",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-13T07:38:43+00:00",
+          "updated": "2026-05-13T10:26:04+00:00",
+          "url": "https://www.youtube.com/watch?v=CosncMJ4Wy0",
+          "thumbnail": "https://i4.ytimg.com/vi/CosncMJ4Wy0/hqdefault.jpg"
+        },
+        {
+          "id": "IsZnogKPDxE",
+          "title": "【岸和田競輪場】令和８年５月１３日 前検日コメントならウィンチケット杯 FⅡ 全レース ３日目【ブッキースタジアム岸和田】",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-13T07:30:38+00:00",
+          "updated": "2026-05-13T07:42:00+00:00",
+          "url": "https://www.youtube.com/watch?v=IsZnogKPDxE",
+          "thumbnail": "https://i2.ytimg.com/vi/IsZnogKPDxE/hqdefault.jpg"
+        },
+        {
+          "id": "je89gKK85YQ",
+          "title": "【岸和田競輪】令和８年５月12日 前検日コメントならウィンチケット杯 FⅡ２日目【ブッキースタジアム岸和田】",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-12T07:33:20+00:00",
+          "updated": "2026-05-12T08:51:20+00:00",
+          "url": "https://www.youtube.com/watch?v=je89gKK85YQ",
+          "thumbnail": "https://i3.ytimg.com/vi/je89gKK85YQ/hqdefault.jpg"
+        },
+        {
+          "id": "4AC9IHTMxJg",
+          "title": "岸和田けいりん　前検日コメントならWINTICKET杯 2日目 #岸和田競輪ライブ #井上薫 #白井美早子 #日本トーターブッキースタジアム岸和田",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-12T07:33:19+00:00",
+          "updated": "2026-05-12T10:41:08+00:00",
+          "url": "https://www.youtube.com/watch?v=4AC9IHTMxJg",
+          "thumbnail": "https://i1.ytimg.com/vi/4AC9IHTMxJg/hqdefault.jpg"
+        },
+        {
+          "id": "bRMqZFcWCtU",
+          "title": "【岸和田競輪場】令和８年５月12日 前検日コメントならウィンチケット杯 FⅡ 全レース ２日目【ブッキースタジアム岸和田】",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-12T07:21:17+00:00",
+          "updated": "2026-05-12T07:35:23+00:00",
+          "url": "https://www.youtube.com/watch?v=bRMqZFcWCtU",
+          "thumbnail": "https://i3.ytimg.com/vi/bRMqZFcWCtU/hqdefault.jpg"
+        },
+        {
+          "id": "yeiegIHqw6I",
+          "title": "【岸和田競輪】令和８年５月11日 前検日コメントならウィンチケット杯 FⅡ１日目【ブッキースタジアム岸和田】",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-11T07:27:29+00:00",
+          "updated": "2026-05-16T01:38:23+00:00",
+          "url": "https://www.youtube.com/watch?v=yeiegIHqw6I",
+          "thumbnail": "https://i2.ytimg.com/vi/yeiegIHqw6I/hqdefault.jpg"
+        },
+        {
+          "id": "-0rkFQMcXIw",
+          "title": "岸和田けいりん　前検日コメントならWINTICKET杯 1日目 #岸和田競輪ライブ #井上薫 #白井美早子 #日本トーターブッキースタジアム岸和田",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-11T07:24:27+00:00",
+          "updated": "2026-05-15T13:46:38+00:00",
+          "url": "https://www.youtube.com/watch?v=-0rkFQMcXIw",
+          "thumbnail": "https://i2.ytimg.com/vi/-0rkFQMcXIw/hqdefault.jpg"
+        },
+        {
+          "id": "KiphLKhY8vA",
+          "title": "【岸和田競輪場】令和８年５月11日 前検日コメントならウィンチケット杯 FⅡ 全レース １日目【ブッキースタジアム岸和田】",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-11T07:23:32+00:00",
+          "updated": "2026-05-15T12:13:39+00:00",
+          "url": "https://www.youtube.com/watch?v=KiphLKhY8vA",
+          "thumbnail": "https://i4.ytimg.com/vi/KiphLKhY8vA/hqdefault.jpg"
+        },
+        {
+          "id": "ABJ5egAU4eM",
+          "title": "【岸和田競輪】令和８年５月６日 前検日コメントならウィンチケット杯 FⅠ３日目【ブッキースタジアム岸和田】",
+          "channelTitle": "日本トーターブッキースタジアム岸和田【岸和田競輪】",
+          "published": "2026-05-06T08:02:00+00:00",
+          "updated": "2026-05-06T18:15:42+00:00",
+          "url": "https://www.youtube.com/watch?v=ABJ5egAU4eM",
+          "thumbnail": "https://i2.ytimg.com/vi/ABJ5egAU4eM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCiKs6agRQVxz1RRPHSX-Oaw",
+      "name": "玉野",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiKs6agRQVxz1RRPHSX-Oaw",
+      "fetchedAt": "2026-05-16T04:40:00Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "gw0WTFN3IIY",
+          "title": "【玉野競輪】仲間と繋がるTIPSTAR杯 [ FⅡミッドナイト] 5/27（水）【最終日】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-05-04T07:09:21+00:00",
+          "updated": "2026-05-04T07:19:18+00:00",
+          "url": "https://www.youtube.com/watch?v=gw0WTFN3IIY",
+          "thumbnail": "https://i4.ytimg.com/vi/gw0WTFN3IIY/hqdefault.jpg"
+        },
+        {
+          "id": "zOUZn1gRF20",
+          "title": "【玉野競輪】仲間と繋がるTIPSTAR杯 [ FⅡミッドナイト] 5/26（火）【2日目】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-05-04T07:08:10+00:00",
+          "updated": "2026-05-04T07:19:10+00:00",
+          "url": "https://www.youtube.com/watch?v=zOUZn1gRF20",
+          "thumbnail": "https://i3.ytimg.com/vi/zOUZn1gRF20/hqdefault.jpg"
+        },
+        {
+          "id": "_tNgTTTjE-I",
+          "title": "【玉野競輪】仲間と繋がるTIPSTAR杯 [ FⅡミッドナイト] 5/25（月）【初日】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-05-04T07:06:33+00:00",
+          "updated": "2026-05-04T07:19:02+00:00",
+          "url": "https://www.youtube.com/watch?v=_tNgTTTjE-I",
+          "thumbnail": "https://i4.ytimg.com/vi/_tNgTTTjE-I/hqdefault.jpg"
+        },
+        {
+          "id": "YKTPZ5EoHh4",
+          "title": "【玉野競輪】高松市長杯＆ＦＭ香川杯 [FⅠデイ] 4/30（木）【最終日】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-04-30T08:22:57+00:00",
+          "updated": "2026-05-03T14:51:39+00:00",
+          "url": "https://www.youtube.com/watch?v=YKTPZ5EoHh4",
+          "thumbnail": "https://i2.ytimg.com/vi/YKTPZ5EoHh4/hqdefault.jpg"
+        },
+        {
+          "id": "c5gSgX_Wh4s",
+          "title": "【玉野競輪】高松市長杯＆ＦＭ香川杯 [FⅠデイ] 4/29（水）【2日目】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-04-29T08:12:29+00:00",
+          "updated": "2026-05-05T03:58:47+00:00",
+          "url": "https://www.youtube.com/watch?v=c5gSgX_Wh4s",
+          "thumbnail": "https://i4.ytimg.com/vi/c5gSgX_Wh4s/hqdefault.jpg"
+        },
+        {
+          "id": "87NTEpYoifM",
+          "title": "【玉野競輪】高松市長杯＆ＦＭ香川杯 [FⅠデイ] 4/28（火）【初日】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-04-28T08:14:47+00:00",
+          "updated": "2026-05-05T09:01:30+00:00",
+          "url": "https://www.youtube.com/watch?v=87NTEpYoifM",
+          "thumbnail": "https://i1.ytimg.com/vi/87NTEpYoifM/hqdefault.jpg"
+        },
+        {
+          "id": "Z5UpDGZcwYs",
+          "title": "【玉野競輪】ＣＴＣなら３分前まで買える杯 [FⅡナイター] 4/25（土）【最終日】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-04-25T12:15:24+00:00",
+          "updated": "2026-04-26T11:11:01+00:00",
+          "url": "https://www.youtube.com/watch?v=Z5UpDGZcwYs",
+          "thumbnail": "https://i3.ytimg.com/vi/Z5UpDGZcwYs/hqdefault.jpg"
+        },
+        {
+          "id": "Kr9c6n-yme8",
+          "title": "【玉野競輪】ＣＴＣなら３分前まで買える杯 [FⅡナイター] 4/24（金）【2日目】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-04-24T12:18:00+00:00",
+          "updated": "2026-04-26T11:51:22+00:00",
+          "url": "https://www.youtube.com/watch?v=Kr9c6n-yme8",
+          "thumbnail": "https://i4.ytimg.com/vi/Kr9c6n-yme8/hqdefault.jpg"
+        },
+        {
+          "id": "KlZLn-VzHBc",
+          "title": "【玉野競輪】ＣＴＣなら３分前まで買える杯 [FⅡナイター] 4/23（木）【初日】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-04-23T12:24:24+00:00",
+          "updated": "2026-04-27T10:23:31+00:00",
+          "url": "https://www.youtube.com/watch?v=KlZLn-VzHBc",
+          "thumbnail": "https://i4.ytimg.com/vi/KlZLn-VzHBc/hqdefault.jpg"
+        },
+        {
+          "id": "gWdNtBzDrvc",
+          "title": "【玉野競輪】競輪投票サービスＢｅｔｉｍｏ杯 [FⅡミッドナイト] 4/9（木）【最終日】#玉野競輪ライブ #玉野競輪予想 #玉野競輪中継",
+          "channelTitle": "玉野けいりんLIVE中継",
+          "published": "2026-04-09T15:12:51+00:00",
+          "updated": "2026-05-06T18:41:59+00:00",
+          "url": "https://www.youtube.com/watch?v=gWdNtBzDrvc",
+          "thumbnail": "https://i4.ytimg.com/vi/gWdNtBzDrvc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCC-MHu8wH3xWu8M93nzszBQ",
+      "name": "広島",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC-MHu8wH3xWu8M93nzszBQ",
+      "fetchedAt": "2026-05-16T04:40:00Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "7PYPoi154rM",
+          "title": "広島競輪ライブ中継  5/8（金）【広島競輪】 芸州鯉城賞／ウィンチケット杯  [ FⅠ] ナイター競輪 【最終日】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-08T12:20:46+00:00",
+          "updated": "2026-05-13T01:07:20+00:00",
+          "url": "https://www.youtube.com/watch?v=7PYPoi154rM",
+          "thumbnail": "https://i4.ytimg.com/vi/7PYPoi154rM/hqdefault.jpg"
+        },
+        {
+          "id": "0vH8YLXhub8",
+          "title": "広島競輪ライブ中継  5/7（木）【広島競輪】 芸州鯉城賞／ウィンチケット杯  [ FⅠ] ナイター競輪 【2日目】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-07T12:19:51+00:00",
+          "updated": "2026-05-07T15:11:34+00:00",
+          "url": "https://www.youtube.com/watch?v=0vH8YLXhub8",
+          "thumbnail": "https://i1.ytimg.com/vi/0vH8YLXhub8/hqdefault.jpg"
+        },
+        {
+          "id": "fGKmLn9O1iY",
+          "title": "広島競輪ライブ中継  5/6（水）【広島競輪】 芸州鯉城賞／ウィンチケット杯  [ FⅠ] ナイター競輪 【初日】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-06T12:20:15+00:00",
+          "updated": "2026-05-06T13:11:03+00:00",
+          "url": "https://www.youtube.com/watch?v=fGKmLn9O1iY",
+          "thumbnail": "https://i3.ytimg.com/vi/fGKmLn9O1iY/hqdefault.jpg"
+        },
+        {
+          "id": "qHhx2vRiZbk",
+          "title": "広島競輪ライブ中継  5/30（土）【広島競輪】 サンフレッチェ広島カップ  [ FⅠ] デイ競輪 【最終日】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-01T02:38:22+00:00",
+          "updated": "2026-05-01T02:45:23+00:00",
+          "url": "https://www.youtube.com/watch?v=qHhx2vRiZbk",
+          "thumbnail": "https://i2.ytimg.com/vi/qHhx2vRiZbk/hqdefault.jpg"
+        },
+        {
+          "id": "sMdlkGNUwjo",
+          "title": "広島競輪ライブ中継  5/29（金）【広島競輪】 サンフレッチェ広島カップ  [ FⅠ] デイ競輪 【2日目】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-01T02:36:38+00:00",
+          "updated": "2026-05-01T02:45:14+00:00",
+          "url": "https://www.youtube.com/watch?v=sMdlkGNUwjo",
+          "thumbnail": "https://i4.ytimg.com/vi/sMdlkGNUwjo/hqdefault.jpg"
+        },
+        {
+          "id": "AzUAnDJS7i8",
+          "title": "広島競輪ライブ中継  5/28（木）【広島競輪】 サンフレッチェ広島カップ  [ FⅠ] デイ競輪 【初日】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-01T02:34:19+00:00",
+          "updated": "2026-05-01T02:45:05+00:00",
+          "url": "https://www.youtube.com/watch?v=AzUAnDJS7i8",
+          "thumbnail": "https://i2.ytimg.com/vi/AzUAnDJS7i8/hqdefault.jpg"
+        },
+        {
+          "id": "r8pZpdy4YLo",
+          "title": "広島競輪ライブ中継  5/24（日）【広島競輪】 チャリロトぺーちゃんねる杯  [ FⅡ] ミッドナイト競輪 【最終日】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-01T02:30:21+00:00",
+          "updated": "2026-05-01T02:44:56+00:00",
+          "url": "https://www.youtube.com/watch?v=r8pZpdy4YLo",
+          "thumbnail": "https://i3.ytimg.com/vi/r8pZpdy4YLo/hqdefault.jpg"
+        },
+        {
+          "id": "zUWgWEsltgo",
+          "title": "広島競輪ライブ中継  5/23（土）【広島競輪】 チャリロトぺーちゃんねる杯  [ FⅡ] ミッドナイト競輪 【2日目】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-01T02:29:02+00:00",
+          "updated": "2026-05-01T02:44:46+00:00",
+          "url": "https://www.youtube.com/watch?v=zUWgWEsltgo",
+          "thumbnail": "https://i3.ytimg.com/vi/zUWgWEsltgo/hqdefault.jpg"
+        },
+        {
+          "id": "jXC4JjAElNM",
+          "title": "広島競輪ライブ中継  5/22（金）【広島競輪】 チャリロトぺーちゃんねる杯  [ FⅡ] ミッドナイト競輪 【初日】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-05-01T02:25:45+00:00",
+          "updated": "2026-05-01T02:44:37+00:00",
+          "url": "https://www.youtube.com/watch?v=jXC4JjAElNM",
+          "thumbnail": "https://i3.ytimg.com/vi/jXC4JjAElNM/hqdefault.jpg"
+        },
+        {
+          "id": "-j914Ys9N1A",
+          "title": "広島競輪ライブ中継  4/30（木）【広島競輪】 前検日コメならウィンチケット杯  [ FⅡ] ミッドナイト競輪 【最終日】 #広島競輪ライブ #広島競輪予想 #広島競輪CS中継",
+          "channelTitle": "ひろしまけいりんぴーすけチャンネル",
+          "published": "2026-04-30T15:19:06+00:00",
+          "updated": "2026-05-04T15:55:10+00:00",
+          "url": "https://www.youtube.com/watch?v=-j914Ys9N1A",
+          "thumbnail": "https://i2.ytimg.com/vi/-j914Ys9N1A/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UC42l0MgmrF_tIfaMAPVvUKA",
+      "name": "防府",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC42l0MgmrF_tIfaMAPVvUKA",
+      "fetchedAt": "2026-05-16T04:40:00Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "kGFHc4AheZQ",
+          "title": "防府競輪研究所 モーニング競輪　ミコーミートギャラリーカップ　ガールズケイリン第５０回幸せますカップ　３日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-05-03T02:44:05+00:00",
+          "updated": "2026-05-05T02:56:11+00:00",
+          "url": "https://www.youtube.com/watch?v=kGFHc4AheZQ",
+          "thumbnail": "https://i4.ytimg.com/vi/kGFHc4AheZQ/hqdefault.jpg"
+        },
+        {
+          "id": "M6B1RvKKOMY",
+          "title": "防府競輪研究所 モーニング競輪　ミコーミートギャラリーカップ　ガールズケイリン第５０回幸せますカップ　２日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-05-02T02:55:11+00:00",
+          "updated": "2026-05-03T08:46:44+00:00",
+          "url": "https://www.youtube.com/watch?v=M6B1RvKKOMY",
+          "thumbnail": "https://i2.ytimg.com/vi/M6B1RvKKOMY/hqdefault.jpg"
+        },
+        {
+          "id": "-u4kZObj37E",
+          "title": "防府競輪研究所 モーニング競輪　ミコーミートギャラリーカップ　ガールズケイリン第５０回幸せますカップ　１日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-05-01T02:28:49+00:00",
+          "updated": "2026-05-03T13:47:11+00:00",
+          "url": "https://www.youtube.com/watch?v=-u4kZObj37E",
+          "thumbnail": "https://i2.ytimg.com/vi/-u4kZObj37E/hqdefault.jpg"
+        },
+        {
+          "id": "dPOAUVXkoME",
+          "title": "防府競輪研究所 モーニング競輪　日刊スポーツ杯争奪戦　３日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-04-20T02:31:16+00:00",
+          "updated": "2026-05-04T21:47:39+00:00",
+          "url": "https://www.youtube.com/watch?v=dPOAUVXkoME",
+          "thumbnail": "https://i1.ytimg.com/vi/dPOAUVXkoME/hqdefault.jpg"
+        },
+        {
+          "id": "R_RdL9DkEW8",
+          "title": "防府競輪研究所 モーニング競輪　日刊スポーツ杯争奪戦　２日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-04-19T02:25:49+00:00",
+          "updated": "2026-05-05T03:52:32+00:00",
+          "url": "https://www.youtube.com/watch?v=R_RdL9DkEW8",
+          "thumbnail": "https://i3.ytimg.com/vi/R_RdL9DkEW8/hqdefault.jpg"
+        },
+        {
+          "id": "dEUtXTao_Vw",
+          "title": "防府競輪研究所 モーニング競輪　日刊スポーツ杯争奪戦　１日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-04-18T02:23:22+00:00",
+          "updated": "2026-04-21T10:33:33+00:00",
+          "url": "https://www.youtube.com/watch?v=dEUtXTao_Vw",
+          "thumbnail": "https://i1.ytimg.com/vi/dEUtXTao_Vw/hqdefault.jpg"
+        },
+        {
+          "id": "ZM7roFDN_tg",
+          "title": "防府競輪研究所 モーニング競輪　トータリゼータエンジニアリング防府杯　３日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-04-12T02:31:33+00:00",
+          "updated": "2026-05-09T17:09:56+00:00",
+          "url": "https://www.youtube.com/watch?v=ZM7roFDN_tg",
+          "thumbnail": "https://i3.ytimg.com/vi/ZM7roFDN_tg/hqdefault.jpg"
+        },
+        {
+          "id": "WUI4rWQvd6k",
+          "title": "防府競輪研究所 モーニング競輪　トータリゼータエンジニアリング防府杯　２日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-04-11T02:11:21+00:00",
+          "updated": "2026-05-09T17:08:05+00:00",
+          "url": "https://www.youtube.com/watch?v=WUI4rWQvd6k",
+          "thumbnail": "https://i4.ytimg.com/vi/WUI4rWQvd6k/hqdefault.jpg"
+        },
+        {
+          "id": "wcIDKgb_jK8",
+          "title": "防府競輪研究所 モーニング競輪　トータリゼータエンジニアリング防府杯　１日目",
+          "channelTitle": "防府けいりん",
+          "published": "2026-04-10T02:28:18+00:00",
+          "updated": "2026-05-09T17:08:43+00:00",
+          "url": "https://www.youtube.com/watch?v=wcIDKgb_jK8",
+          "thumbnail": "https://i4.ytimg.com/vi/wcIDKgb_jK8/hqdefault.jpg"
+        },
+        {
+          "id": "gPxsfDUFq4k",
+          "title": "【防府競輪】第10回ウィナーズカップGⅡ ハイライト『最終日』",
+          "channelTitle": "防府けいりん",
+          "published": "2026-03-28T07:55:00+00:00",
+          "updated": "2026-04-30T07:40:53+00:00",
+          "url": "https://www.youtube.com/watch?v=gPxsfDUFq4k",
+          "thumbnail": "https://i4.ytimg.com/vi/gPxsfDUFq4k/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCWFvocB4sfX4wVXWaB4-SBg",
+      "name": "高松",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFvocB4sfX4wVXWaB4-SBg",
+      "fetchedAt": "2026-05-16T04:40:01Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "xe3oyRRuCN8",
+          "title": "【ＦⅡ】[最終日] モーニング競輪　香川オリーブガイナーズ杯in松山",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-05-01T02:48:08+00:00",
+          "updated": "2026-05-01T02:48:12+00:00",
+          "url": "https://www.youtube.com/watch?v=xe3oyRRuCN8",
+          "thumbnail": "https://i1.ytimg.com/vi/xe3oyRRuCN8/hqdefault.jpg"
+        },
+        {
+          "id": "xHgRfPV4oZQ",
+          "title": "【ＦⅡ】[２日目] モーニング競輪　香川オリーブガイナーズ杯in松山",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-05-01T02:45:35+00:00",
+          "updated": "2026-05-01T02:45:37+00:00",
+          "url": "https://www.youtube.com/watch?v=xHgRfPV4oZQ",
+          "thumbnail": "https://i1.ytimg.com/vi/xHgRfPV4oZQ/hqdefault.jpg"
+        },
+        {
+          "id": "rOcSHsrQLw8",
+          "title": "【ＦⅡ】[１日目] モーニング競輪　香川オリーブガイナーズ杯in松山",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-05-01T02:44:08+00:00",
+          "updated": "2026-05-01T02:44:12+00:00",
+          "url": "https://www.youtube.com/watch?v=rOcSHsrQLw8",
+          "thumbnail": "https://i3.ytimg.com/vi/rOcSHsrQLw8/hqdefault.jpg"
+        },
+        {
+          "id": "lT9o7NAqDew",
+          "title": "【ＦⅠ】[最終日]  高松市長杯＆ＦＭ香川杯in玉野",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-04-30T08:16:45+00:00",
+          "updated": "2026-05-04T16:38:45+00:00",
+          "url": "https://www.youtube.com/watch?v=lT9o7NAqDew",
+          "thumbnail": "https://i1.ytimg.com/vi/lT9o7NAqDew/hqdefault.jpg"
+        },
+        {
+          "id": "M5_zU8XKGZ8",
+          "title": "【ＦⅠ】[２日目]  高松市長杯＆ＦＭ香川杯in玉野",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-04-29T08:09:31+00:00",
+          "updated": "2026-05-02T06:29:36+00:00",
+          "url": "https://www.youtube.com/watch?v=M5_zU8XKGZ8",
+          "thumbnail": "https://i2.ytimg.com/vi/M5_zU8XKGZ8/hqdefault.jpg"
+        },
+        {
+          "id": "Z4ht45BAlIA",
+          "title": "【ＦⅠ】[１日目]  高松市長杯＆ＦＭ香川杯in玉野",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-04-28T08:13:00+00:00",
+          "updated": "2026-04-28T10:47:00+00:00",
+          "url": "https://www.youtube.com/watch?v=Z4ht45BAlIA",
+          "thumbnail": "https://i3.ytimg.com/vi/Z4ht45BAlIA/hqdefault.jpg"
+        },
+        {
+          "id": "i7mz5L2qcPE",
+          "title": "【ＦⅡ】[最終日] ミッドナイト競輪　競輪投票サービスＢｅｔｉｍｏ杯in玉野",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-04-10T03:48:56+00:00",
+          "updated": "2026-05-02T19:03:47+00:00",
+          "url": "https://www.youtube.com/watch?v=i7mz5L2qcPE",
+          "thumbnail": "https://i2.ytimg.com/vi/i7mz5L2qcPE/hqdefault.jpg"
+        },
+        {
+          "id": "OJTMN39SUvA",
+          "title": "【ＦⅡ】[２日目]ミッドナイト競輪　競輪投票サービスＢｅｔｉｍｏ杯in玉野",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-04-08T15:00:10+00:00",
+          "updated": "2026-05-04T22:58:59+00:00",
+          "url": "https://www.youtube.com/watch?v=OJTMN39SUvA",
+          "thumbnail": "https://i4.ytimg.com/vi/OJTMN39SUvA/hqdefault.jpg"
+        },
+        {
+          "id": "Z3P_5_0z3XA",
+          "title": "【ＦⅡ】[１日目] ミッドナイト競輪　競輪投票サービスＢｅｔｉｍｏ杯in玉野",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-04-07T15:02:05+00:00",
+          "updated": "2026-05-04T16:42:02+00:00",
+          "url": "https://www.youtube.com/watch?v=Z3P_5_0z3XA",
+          "thumbnail": "https://i3.ytimg.com/vi/Z3P_5_0z3XA/hqdefault.jpg"
+        },
+        {
+          "id": "yqNJ6ywaphM",
+          "title": "選手のルーティン篇",
+          "channelTitle": "高松けいりんチャンネル",
+          "published": "2026-03-23T06:58:52+00:00",
+          "updated": "2026-04-23T00:03:56+00:00",
+          "url": "https://www.youtube.com/shorts/yqNJ6ywaphM",
+          "thumbnail": "https://i2.ytimg.com/vi/yqNJ6ywaphM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCnfVl6Q_xov3Wf45NdWE1Eg",
+      "name": "小松島",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnfVl6Q_xov3Wf45NdWE1Eg",
+      "fetchedAt": "2026-05-16T04:40:01Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "Pngd3CRtBbQ",
+          "title": "新人選手インタビュー 寺本愛花(テラモト マナカ)選手",
+          "channelTitle": "小松島競輪",
+          "published": "2026-05-16T02:26:37+00:00",
+          "updated": "2026-05-16T02:58:19+00:00",
+          "url": "https://www.youtube.com/shorts/Pngd3CRtBbQ",
+          "thumbnail": "https://i1.ytimg.com/vi/Pngd3CRtBbQ/hqdefault.jpg"
+        },
+        {
+          "id": "Z7I9Sj3nF2c",
+          "title": "【３日目】スピードチャンネル・スカパー杯[FⅠ] 5/15（金）#小松島競輪ライブ #小松島競輪中継 #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-05-15T08:19:36+00:00",
+          "updated": "2026-05-15T09:19:15+00:00",
+          "url": "https://www.youtube.com/watch?v=Z7I9Sj3nF2c",
+          "thumbnail": "https://i3.ytimg.com/vi/Z7I9Sj3nF2c/hqdefault.jpg"
+        },
+        {
+          "id": "m3ZuDkwh8Jk",
+          "title": "【２日目】スピードチャンネル・スカパー杯[FⅠ] 5/14（木）#小松島競輪ライブ #小松島競輪中継 #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-05-14T08:18:26+00:00",
+          "updated": "2026-05-14T09:03:38+00:00",
+          "url": "https://www.youtube.com/watch?v=m3ZuDkwh8Jk",
+          "thumbnail": "https://i2.ytimg.com/vi/m3ZuDkwh8Jk/hqdefault.jpg"
+        },
+        {
+          "id": "1Go67cKpJvI",
+          "title": "【１日目】スピードチャンネル・スカパー杯[FⅠ] 5/13（水）#小松島競輪ライブ #小松島競輪中継 #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-05-13T08:27:22+00:00",
+          "updated": "2026-05-13T10:59:11+00:00",
+          "url": "https://www.youtube.com/watch?v=1Go67cKpJvI",
+          "thumbnail": "https://i2.ytimg.com/vi/1Go67cKpJvI/hqdefault.jpg"
+        },
+        {
+          "id": "F6zurgD83_g",
+          "title": "【3日目】こんにちはチャリロト杯[ＦⅡ] 4/22（水）#小松島競輪ライブ #小松島競輪中継 #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-04-22T08:06:33+00:00",
+          "updated": "2026-04-25T18:43:26+00:00",
+          "url": "https://www.youtube.com/watch?v=F6zurgD83_g",
+          "thumbnail": "https://i3.ytimg.com/vi/F6zurgD83_g/hqdefault.jpg"
+        },
+        {
+          "id": "XR8x1xX8IZw",
+          "title": "【2日目】こんにちはチャリロト杯[ＦⅡ] 4/21（火）#小松島競輪ライブ #小松島競輪中継 #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-04-21T07:52:28+00:00",
+          "updated": "2026-04-24T06:54:27+00:00",
+          "url": "https://www.youtube.com/watch?v=XR8x1xX8IZw",
+          "thumbnail": "https://i1.ytimg.com/vi/XR8x1xX8IZw/hqdefault.jpg"
+        },
+        {
+          "id": "eBe8-PpXwUw",
+          "title": "【1日目】こんにちはチャリロト杯[ＦⅡ] 4/20（月）#小松島競輪ライブ #小松島競輪中継 #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-04-20T07:55:50+00:00",
+          "updated": "2026-04-23T03:06:47+00:00",
+          "url": "https://www.youtube.com/watch?v=eBe8-PpXwUw",
+          "thumbnail": "https://i2.ytimg.com/vi/eBe8-PpXwUw/hqdefault.jpg"
+        },
+        {
+          "id": "SHEoEEQ_mug",
+          "title": "【３日目】KEIRIN ADVANCE 前検日コメントならウィンチケット杯[FⅠ]ミッドナイト競輪【小松島競輪】4/15（水） #小松島競輪ライブ #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-04-15T15:19:36+00:00",
+          "updated": "2026-05-12T21:55:37+00:00",
+          "url": "https://www.youtube.com/watch?v=SHEoEEQ_mug",
+          "thumbnail": "https://i4.ytimg.com/vi/SHEoEEQ_mug/hqdefault.jpg"
+        },
+        {
+          "id": "8sJmfVd4p8A",
+          "title": "【２日目】KEIRIN ADVANCE 前検日コメントならウィンチケット杯[FⅠ]ミッドナイト競輪【小松島競輪】4/14（火） #小松島競輪ライブ #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-04-14T15:12:06+00:00",
+          "updated": "2026-05-12T21:55:49+00:00",
+          "url": "https://www.youtube.com/watch?v=8sJmfVd4p8A",
+          "thumbnail": "https://i1.ytimg.com/vi/8sJmfVd4p8A/hqdefault.jpg"
+        },
+        {
+          "id": "Q9X9RYqo5JU",
+          "title": "【１日目】KEIRIN ADVANCE 前検日コメントならウィンチケット杯[FⅠ]ミッドナイト競輪【小松島競輪】4/13（月） #小松島競輪ライブ #小松島競輪予想 #小松島競輪CS中継",
+          "channelTitle": "小松島競輪",
+          "published": "2026-04-13T15:19:42+00:00",
+          "updated": "2026-05-12T21:58:40+00:00",
+          "url": "https://www.youtube.com/watch?v=Q9X9RYqo5JU",
+          "thumbnail": "https://i2.ytimg.com/vi/Q9X9RYqo5JU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCcnE1XfjoFEDL5GeWRk2DgQ",
+      "name": "高知",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcnE1XfjoFEDL5GeWRk2DgQ",
+      "fetchedAt": "2026-05-16T04:40:01Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "vS_cFHMQfK4",
+          "title": "デビュー戦を終えて　松本悠平",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-11T08:30:35+00:00",
+          "updated": "2026-05-15T23:44:38+00:00",
+          "url": "https://www.youtube.com/shorts/vS_cFHMQfK4",
+          "thumbnail": "https://i3.ytimg.com/vi/vS_cFHMQfK4/hqdefault.jpg"
+        },
+        {
+          "id": "VOIWqjaQ3IE",
+          "title": "デビュー戦を終えて　露谷菜々花",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-11T08:30:13+00:00",
+          "updated": "2026-05-15T02:25:54+00:00",
+          "url": "https://www.youtube.com/shorts/VOIWqjaQ3IE",
+          "thumbnail": "https://i3.ytimg.com/vi/VOIWqjaQ3IE/hqdefault.jpg"
+        },
+        {
+          "id": "I6P6YNOyHQA",
+          "title": "JJが行く！負ければ罰ゲーム静岡記念＃４",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-10T01:00:15+00:00",
+          "updated": "2026-05-13T11:14:22+00:00",
+          "url": "https://www.youtube.com/watch?v=I6P6YNOyHQA",
+          "thumbnail": "https://i2.ytimg.com/vi/I6P6YNOyHQA/hqdefault.jpg"
+        },
+        {
+          "id": "MNHE2GZHmKc",
+          "title": "[高知競輪]  ケイリンアドバンス·CTC杯 (FⅡ)【３日目】",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-06T16:06:38+00:00",
+          "updated": "2026-05-06T19:27:52+00:00",
+          "url": "https://www.youtube.com/watch?v=MNHE2GZHmKc",
+          "thumbnail": "https://i2.ytimg.com/vi/MNHE2GZHmKc/hqdefault.jpg"
+        },
+        {
+          "id": "L051BCeegAE",
+          "title": "松本悠平選手　デビュー戦に向けて",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-06T04:00:16+00:00",
+          "updated": "2026-05-10T13:59:12+00:00",
+          "url": "https://www.youtube.com/shorts/L051BCeegAE",
+          "thumbnail": "https://i1.ytimg.com/vi/L051BCeegAE/hqdefault.jpg"
+        },
+        {
+          "id": "3eTdcdi78KA",
+          "title": "露谷菜々花選手　デビュー戦に向けて",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-06T04:00:03+00:00",
+          "updated": "2026-05-10T14:23:38+00:00",
+          "url": "https://www.youtube.com/shorts/3eTdcdi78KA",
+          "thumbnail": "https://i4.ytimg.com/vi/3eTdcdi78KA/hqdefault.jpg"
+        },
+        {
+          "id": "h4vyHvjgC5M",
+          "title": "[高知競輪] ケイリンアドバンス·CTC杯 (FⅡ)【2日目】",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-05T16:34:30+00:00",
+          "updated": "2026-05-06T01:40:15+00:00",
+          "url": "https://www.youtube.com/watch?v=h4vyHvjgC5M",
+          "thumbnail": "https://i1.ytimg.com/vi/h4vyHvjgC5M/hqdefault.jpg"
+        },
+        {
+          "id": "whrTnT4WD3c",
+          "title": "[高知競輪]  ケイリンアドバンス·CTC杯 (FⅡ)【1日目】",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-04T16:14:31+00:00",
+          "updated": "2026-05-07T19:43:22+00:00",
+          "url": "https://www.youtube.com/watch?v=whrTnT4WD3c",
+          "thumbnail": "https://i4.ytimg.com/vi/whrTnT4WD3c/hqdefault.jpg"
+        },
+        {
+          "id": "Z0SrA9O09FA",
+          "title": "JJが行く！負ければ罰ゲーム静岡記念＃３",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-05-03T01:00:29+00:00",
+          "updated": "2026-05-05T16:30:46+00:00",
+          "url": "https://www.youtube.com/watch?v=Z0SrA9O09FA",
+          "thumbnail": "https://i3.ytimg.com/vi/Z0SrA9O09FA/hqdefault.jpg"
+        },
+        {
+          "id": "yIkso4-fJ6E",
+          "title": "JJが行く！負ければ罰ゲーム静岡記念＃２",
+          "channelTitle": "高知競輪ちゃんねる【公式】",
+          "published": "2026-04-26T01:00:56+00:00",
+          "updated": "2026-04-28T19:34:16+00:00",
+          "url": "https://www.youtube.com/watch?v=yIkso4-fJ6E",
+          "thumbnail": "https://i2.ytimg.com/vi/yIkso4-fJ6E/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCX3xb9FwC7jL_ZnVmoyzgDg",
+      "name": "松山",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX3xb9FwC7jL_ZnVmoyzgDg",
+      "fetchedAt": "2026-05-16T04:40:01Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "HipTvrZUxoQ",
+          "title": "【2026.05.10】SPEEDチャンネル・スカパー杯 CTCなら3分前まで買える杯（ＦⅡ）３日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-05-10T07:57:48+00:00",
+          "updated": "2026-05-10T10:03:09+00:00",
+          "url": "https://www.youtube.com/watch?v=HipTvrZUxoQ",
+          "thumbnail": "https://i1.ytimg.com/vi/HipTvrZUxoQ/hqdefault.jpg"
+        },
+        {
+          "id": "vEW0evFtoZ8",
+          "title": "【2026.05.09】SPEEDチャンネル・スカパー杯 CTCなら3分前まで買える杯（ＦⅡ）２日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-05-09T07:58:33+00:00",
+          "updated": "2026-05-13T04:54:37+00:00",
+          "url": "https://www.youtube.com/watch?v=vEW0evFtoZ8",
+          "thumbnail": "https://i3.ytimg.com/vi/vEW0evFtoZ8/hqdefault.jpg"
+        },
+        {
+          "id": "iN1fH6qpBNE",
+          "title": "【2026.05.08】SPEEDチャンネル・スカパー杯 CTCなら3分前まで買える杯（ＦⅡ）１日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-05-08T07:43:17+00:00",
+          "updated": "2026-05-12T17:47:39+00:00",
+          "url": "https://www.youtube.com/watch?v=iN1fH6qpBNE",
+          "thumbnail": "https://i2.ytimg.com/vi/iN1fH6qpBNE/hqdefault.jpg"
+        },
+        {
+          "id": "PQ2nsLaQ420",
+          "title": "【2026.05.03】オッズパーク杯（ＦⅡ）３日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-05-03T15:27:14+00:00",
+          "updated": "2026-05-04T15:57:48+00:00",
+          "url": "https://www.youtube.com/watch?v=PQ2nsLaQ420",
+          "thumbnail": "https://i1.ytimg.com/vi/PQ2nsLaQ420/hqdefault.jpg"
+        },
+        {
+          "id": "3RXC088fTBs",
+          "title": "【2026.05.02】オッズパーク杯（ＦⅡ）２日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-05-02T15:14:18+00:00",
+          "updated": "2026-05-04T14:43:59+00:00",
+          "url": "https://www.youtube.com/watch?v=3RXC088fTBs",
+          "thumbnail": "https://i4.ytimg.com/vi/3RXC088fTBs/hqdefault.jpg"
+        },
+        {
+          "id": "NdHrkVimrYQ",
+          "title": "【2026.05.01】オッズパーク杯（ＦⅡ）１日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-05-01T16:42:35+00:00",
+          "updated": "2026-05-03T07:23:18+00:00",
+          "url": "https://www.youtube.com/watch?v=NdHrkVimrYQ",
+          "thumbnail": "https://i3.ytimg.com/vi/NdHrkVimrYQ/hqdefault.jpg"
+        },
+        {
+          "id": "zAGFJ5uZPkc",
+          "title": "【下剋上かっちゃんねる】スポーツニッポン杯争奪戦　前検日コメントならウィンチケット杯 最終日",
+          "channelTitle": "松山競輪",
+          "published": "2026-04-22T12:23:11+00:00",
+          "updated": "2026-04-24T11:32:00+00:00",
+          "url": "https://www.youtube.com/watch?v=zAGFJ5uZPkc",
+          "thumbnail": "https://i3.ytimg.com/vi/zAGFJ5uZPkc/hqdefault.jpg"
+        },
+        {
+          "id": "4DMl7vqytsY",
+          "title": "【2026.04.22】スポーツニッポン杯争奪戦　前検日コメントならウィンチケット杯（ＦⅠ）３日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-04-22T12:22:28+00:00",
+          "updated": "2026-04-24T22:23:04+00:00",
+          "url": "https://www.youtube.com/watch?v=4DMl7vqytsY",
+          "thumbnail": "https://i1.ytimg.com/vi/4DMl7vqytsY/hqdefault.jpg"
+        },
+        {
+          "id": "36CJj0HMp6Y",
+          "title": "【下剋上かっちゃんねる】スポーツニッポン杯争奪戦　前検日コメントならウィンチケット杯 2日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-04-21T12:20:55+00:00",
+          "updated": "2026-04-22T17:15:20+00:00",
+          "url": "https://www.youtube.com/watch?v=36CJj0HMp6Y",
+          "thumbnail": "https://i4.ytimg.com/vi/36CJj0HMp6Y/hqdefault.jpg"
+        },
+        {
+          "id": "2OnUzaLIuiE",
+          "title": "【2026.04.21】スポーツニッポン杯争奪戦　前検日コメントならウィンチケット杯（ＦⅠ）２日目",
+          "channelTitle": "松山競輪",
+          "published": "2026-04-21T12:20:48+00:00",
+          "updated": "2026-05-05T03:40:25+00:00",
+          "url": "https://www.youtube.com/watch?v=2OnUzaLIuiE",
+          "thumbnail": "https://i3.ytimg.com/vi/2OnUzaLIuiE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCNOW-bJwHAbkNFQcmgtEuHQ",
+      "name": "小倉",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNOW-bJwHAbkNFQcmgtEuHQ",
+      "fetchedAt": "2026-05-16T04:40:02Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "5_fZEEA1MtE",
+          "title": "ミッドナイトケイリンin小倉　前検日コメントならウィンチケット杯　2026/5/15",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-15T15:21:38+00:00",
+          "updated": "2026-05-15T16:14:07+00:00",
+          "url": "https://www.youtube.com/watch?v=5_fZEEA1MtE",
+          "thumbnail": "https://i2.ytimg.com/vi/5_fZEEA1MtE/hqdefault.jpg"
+        },
+        {
+          "id": "oCO9lYtxv6E",
+          "title": "ミッドナイトケイリンin小倉　前検日コメントならウィンチケット杯　2026/5/14",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-14T15:13:20+00:00",
+          "updated": "2026-05-14T15:38:17+00:00",
+          "url": "https://www.youtube.com/watch?v=oCO9lYtxv6E",
+          "thumbnail": "https://i4.ytimg.com/vi/oCO9lYtxv6E/hqdefault.jpg"
+        },
+        {
+          "id": "kVqkELkMNP0",
+          "title": "ミッドナイトケイリンin小倉　前検日コメントならウィンチケット杯　2026/5/13",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-13T15:13:54+00:00",
+          "updated": "2026-05-13T16:41:30+00:00",
+          "url": "https://www.youtube.com/watch?v=kVqkELkMNP0",
+          "thumbnail": "https://i4.ytimg.com/vi/kVqkELkMNP0/hqdefault.jpg"
+        },
+        {
+          "id": "TIqVkzzvbCE",
+          "title": "小倉けいりんの中にもパワースポット！！#小倉けいりん #競輪 #KEIRIN #競輪女子 #ショート動画 #YouTubeShorts #推し #福岡 #北九州",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-11T04:00:39+00:00",
+          "updated": "2026-05-11T04:00:42+00:00",
+          "url": "https://www.youtube.com/shorts/TIqVkzzvbCE",
+          "thumbnail": "https://i1.ytimg.com/vi/TIqVkzzvbCE/hqdefault.jpg"
+        },
+        {
+          "id": "1ASyi5pmaqk",
+          "title": "小倉競輪場にはあのスポットが！？#小倉けいりん #競輪 #KEIRIN #競輪女子 #ショート動画 #YouTubeShorts #推し #福岡 #北九州",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-11T04:00:38+00:00",
+          "updated": "2026-05-11T04:00:39+00:00",
+          "url": "https://www.youtube.com/shorts/1ASyi5pmaqk",
+          "thumbnail": "https://i2.ytimg.com/vi/1ASyi5pmaqk/hqdefault.jpg"
+        },
+        {
+          "id": "IzPuaq3HKpQ",
+          "title": "ナイター開催時の100円夜市楽しいよ！#小倉けいりん #競輪 #KEIRIN #競輪女子 #ショート動画 #YouTubeShorts #推し #福岡 #北九州",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-11T04:00:38+00:00",
+          "updated": "2026-05-11T04:00:41+00:00",
+          "url": "https://www.youtube.com/shorts/IzPuaq3HKpQ",
+          "thumbnail": "https://i2.ytimg.com/vi/IzPuaq3HKpQ/hqdefault.jpg"
+        },
+        {
+          "id": "zEO4-KgaXXo",
+          "title": "小倉けいりんのパワースポット知ってる？？#小倉けいりん #競輪 #KEIRIN #競輪女子 #ショート動画 #YouTubeShorts #推し #福岡 #北九州",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-11T04:00:33+00:00",
+          "updated": "2026-05-11T04:00:36+00:00",
+          "url": "https://www.youtube.com/shorts/zEO4-KgaXXo",
+          "thumbnail": "https://i3.ytimg.com/vi/zEO4-KgaXXo/hqdefault.jpg"
+        },
+        {
+          "id": "7XQjfWzG0TE",
+          "title": "名物？？名人でしょ！#小倉けいりん #競輪 #KEIRIN #競輪女子 #ショート動画 #YouTubeShorts #推し #福岡 #北九州",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-11T04:00:32+00:00",
+          "updated": "2026-05-11T04:00:37+00:00",
+          "url": "https://www.youtube.com/shorts/7XQjfWzG0TE",
+          "thumbnail": "https://i4.ytimg.com/vi/7XQjfWzG0TE/hqdefault.jpg"
+        },
+        {
+          "id": "NPJeDfgDfdA",
+          "title": "開催時には１００円夜市やってます。#小倉けいりん #競輪 #KEIRIN #競輪女子 #ショート動画 #YouTubeShorts #推し #福岡 #北九州",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-11T04:00:22+00:00",
+          "updated": "2026-05-11T04:00:23+00:00",
+          "url": "https://www.youtube.com/shorts/NPJeDfgDfdA",
+          "thumbnail": "https://i3.ytimg.com/vi/NPJeDfgDfdA/hqdefault.jpg"
+        },
+        {
+          "id": "tGKdEqqCfOU",
+          "title": "Natsuに会いにきてねー！#小倉けいりん #競輪 #KEIRIN #競輪女子 #ショート動画 #YouTubeShorts #推し #福岡 #北九州",
+          "channelTitle": "小倉競輪公式チャンネル",
+          "published": "2026-05-11T04:00:21+00:00",
+          "updated": "2026-05-11T04:00:26+00:00",
+          "url": "https://www.youtube.com/shorts/tGKdEqqCfOU",
+          "thumbnail": "https://i1.ytimg.com/vi/tGKdEqqCfOU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCh7mcNayAkEXneLmnFZwzbQ",
+      "name": "久留米",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh7mcNayAkEXneLmnFZwzbQ",
+      "fetchedAt": "2026-05-16T04:40:02Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "WTqsy0S9V7k",
+          "title": "2026年5月3日　久留米　ＦⅡミッドナイト　前検日コメントならウィンチケット杯　3日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-05-03T15:14:40+00:00",
+          "updated": "2026-05-14T22:59:57+00:00",
+          "url": "https://www.youtube.com/watch?v=WTqsy0S9V7k",
+          "thumbnail": "https://i4.ytimg.com/vi/WTqsy0S9V7k/hqdefault.jpg"
+        },
+        {
+          "id": "Lx-yEEBnoO4",
+          "title": "2026年5月2日　久留米　ＦⅡミッドナイト　前検日コメントならウィンチケット杯　2日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-05-02T15:22:18+00:00",
+          "updated": "2026-05-05T00:10:30+00:00",
+          "url": "https://www.youtube.com/watch?v=Lx-yEEBnoO4",
+          "thumbnail": "https://i1.ytimg.com/vi/Lx-yEEBnoO4/hqdefault.jpg"
+        },
+        {
+          "id": "xdB59s4SCmM",
+          "title": "2026年5月1日　久留米　ＦⅡミッドナイト　前検日コメントならウィンチケット杯　1日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-05-01T15:16:17+00:00",
+          "updated": "2026-05-02T01:35:45+00:00",
+          "url": "https://www.youtube.com/watch?v=xdB59s4SCmM",
+          "thumbnail": "https://i1.ytimg.com/vi/xdB59s4SCmM/hqdefault.jpg"
+        },
+        {
+          "id": "qXdS-9i2Wuk",
+          "title": "2026年5月19日　久留米ＦⅡナイター　楽天ケイドリームス杯　3日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-04-29T07:20:38+00:00",
+          "updated": "2026-04-29T07:20:40+00:00",
+          "url": "https://www.youtube.com/watch?v=qXdS-9i2Wuk",
+          "thumbnail": "https://i2.ytimg.com/vi/qXdS-9i2Wuk/hqdefault.jpg"
+        },
+        {
+          "id": "HErxu0XLP0Y",
+          "title": "2026年5月18日　久留米ＦⅡナイター　楽天ケイドリームス杯　2日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-04-29T07:15:30+00:00",
+          "updated": "2026-04-29T07:15:33+00:00",
+          "url": "https://www.youtube.com/watch?v=HErxu0XLP0Y",
+          "thumbnail": "https://i1.ytimg.com/vi/HErxu0XLP0Y/hqdefault.jpg"
+        },
+        {
+          "id": "Pgm1VakgWjo",
+          "title": "2026年5月17日　久留米ＦⅡナイター　楽天ケイドリームス杯　1日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-04-29T07:12:55+00:00",
+          "updated": "2026-04-29T07:12:59+00:00",
+          "url": "https://www.youtube.com/watch?v=Pgm1VakgWjo",
+          "thumbnail": "https://i1.ytimg.com/vi/Pgm1VakgWjo/hqdefault.jpg"
+        },
+        {
+          "id": "O6H2iR8qYfU",
+          "title": "2026年4月24日　久留米　ＦⅡミッドナイト　オッズパーク杯　3日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-04-24T15:12:12+00:00",
+          "updated": "2026-05-14T17:07:39+00:00",
+          "url": "https://www.youtube.com/watch?v=O6H2iR8qYfU",
+          "thumbnail": "https://i4.ytimg.com/vi/O6H2iR8qYfU/hqdefault.jpg"
+        },
+        {
+          "id": "_prjRIOjpZ0",
+          "title": "2026年4月23日　久留米　ＦⅡミッドナイト　オッズパーク杯　2日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-04-23T15:08:09+00:00",
+          "updated": "2026-05-12T21:53:51+00:00",
+          "url": "https://www.youtube.com/watch?v=_prjRIOjpZ0",
+          "thumbnail": "https://i4.ytimg.com/vi/_prjRIOjpZ0/hqdefault.jpg"
+        },
+        {
+          "id": "glA3It-5y6o",
+          "title": "2026年4月22日　久留米　ＦⅡミッドナイト　オッズパーク杯　1日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-04-22T15:09:53+00:00",
+          "updated": "2026-05-10T15:32:16+00:00",
+          "url": "https://www.youtube.com/watch?v=glA3It-5y6o",
+          "thumbnail": "https://i4.ytimg.com/vi/glA3It-5y6o/hqdefault.jpg"
+        },
+        {
+          "id": "iwugTkHqeUw",
+          "title": "2026年4月12日　久留米　ＦⅠナイター　CTC3分前杯×HPCJC　3日目",
+          "channelTitle": "久留米けいりんチャンネル【公式】",
+          "published": "2026-04-12T12:15:40+00:00",
+          "updated": "2026-05-05T02:11:40+00:00",
+          "url": "https://www.youtube.com/watch?v=iwugTkHqeUw",
+          "thumbnail": "https://i2.ytimg.com/vi/iwugTkHqeUw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UClqmxHvzzOOWnpNdznfM28A",
+      "name": "武雄",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UClqmxHvzzOOWnpNdznfM28A",
+      "fetchedAt": "2026-05-16T04:40:02Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "r6r1E0Io-KI",
+          "title": "5/15【たけお競輪 公式】モーニング競輪 オッズ・パーク杯 3日目",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-15T02:25:44+00:00",
+          "updated": "2026-05-15T02:45:33+00:00",
+          "url": "https://www.youtube.com/watch?v=r6r1E0Io-KI",
+          "thumbnail": "https://i3.ytimg.com/vi/r6r1E0Io-KI/hqdefault.jpg"
+        },
+        {
+          "id": "cG7pj3E8xuE",
+          "title": "5/14 武雄競輪 モーニング競輪 A級決勝出場選手インタビュー",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-14T03:08:36+00:00",
+          "updated": "2026-05-14T03:08:36+00:00",
+          "url": "https://www.youtube.com/watch?v=cG7pj3E8xuE",
+          "thumbnail": "https://i4.ytimg.com/vi/cG7pj3E8xuE/hqdefault.jpg"
+        },
+        {
+          "id": "ogHw9visx2M",
+          "title": "5/14【たけお競輪 公式】モーニング競輪 オッズ・パーク杯 2日目",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-14T02:24:44+00:00",
+          "updated": "2026-05-14T03:12:35+00:00",
+          "url": "https://www.youtube.com/watch?v=ogHw9visx2M",
+          "thumbnail": "https://i4.ytimg.com/vi/ogHw9visx2M/hqdefault.jpg"
+        },
+        {
+          "id": "hC9cSBc0Brk",
+          "title": "5/13【たけお競輪 公式】モーニング競輪 オッズ・パーク杯 1日目",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-13T02:26:16+00:00",
+          "updated": "2026-05-13T03:49:09+00:00",
+          "url": "https://www.youtube.com/watch?v=hC9cSBc0Brk",
+          "thumbnail": "https://i1.ytimg.com/vi/hC9cSBc0Brk/hqdefault.jpg"
+        },
+        {
+          "id": "B_P-F3fxXi0",
+          "title": "5/12 武雄競輪 モーニング競輪 前検日インタビュー",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-12T07:55:28+00:00",
+          "updated": "2026-05-12T07:58:43+00:00",
+          "url": "https://www.youtube.com/watch?v=B_P-F3fxXi0",
+          "thumbnail": "https://i3.ytimg.com/vi/B_P-F3fxXi0/hqdefault.jpg"
+        },
+        {
+          "id": "5RE2e7JI8vc",
+          "title": "5/25【たけお競輪 公式】第73回全日本プロ選手権 自転車競技大会",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-11T08:20:28+00:00",
+          "updated": "2026-05-11T08:32:18+00:00",
+          "url": "https://www.youtube.com/watch?v=5RE2e7JI8vc",
+          "thumbnail": "https://i2.ytimg.com/vi/5RE2e7JI8vc/hqdefault.jpg"
+        },
+        {
+          "id": "NRqacAwy4J8",
+          "title": "5/24【たけお競輪 公式】2026年度全日本プロ選手権自転車競技大会記念競輪 全プロ記念競輪in武雄 2日目",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-11T08:02:53+00:00",
+          "updated": "2026-05-11T08:23:22+00:00",
+          "url": "https://www.youtube.com/watch?v=NRqacAwy4J8",
+          "thumbnail": "https://i3.ytimg.com/vi/NRqacAwy4J8/hqdefault.jpg"
+        },
+        {
+          "id": "faRPJSEe3q0",
+          "title": "5/23【たけお競輪 公式】2026年度全日本プロ選手権自転車競技大会記念競輪 全プロ記念競輪in武雄 1日目",
+          "channelTitle": "武雄競輪",
+          "published": "2026-05-11T08:01:07+00:00",
+          "updated": "2026-05-11T08:22:27+00:00",
+          "url": "https://www.youtube.com/watch?v=faRPJSEe3q0",
+          "thumbnail": "https://i3.ytimg.com/vi/faRPJSEe3q0/hqdefault.jpg"
+        },
+        {
+          "id": "1qdwglE1qFA",
+          "title": "4/21【たけお競輪 公式】武雄市制20周年 開設76周年記念 たけお競輪 大楠賞争奪戦GⅢ 4日目",
+          "channelTitle": "武雄競輪",
+          "published": "2026-04-21T08:25:36+00:00",
+          "updated": "2026-05-10T15:30:19+00:00",
+          "url": "https://www.youtube.com/watch?v=1qdwglE1qFA",
+          "thumbnail": "https://i2.ytimg.com/vi/1qdwglE1qFA/hqdefault.jpg"
+        },
+        {
+          "id": "6_V6QyElnco",
+          "title": "4/20 武雄市制20周年 開設76周年記念たけお競輪 大楠賞争奪戦GⅢ決勝戦出場選手インタビュー",
+          "channelTitle": "武雄競輪",
+          "published": "2026-04-20T10:00:45+00:00",
+          "updated": "2026-04-22T11:35:53+00:00",
+          "url": "https://www.youtube.com/watch?v=6_V6QyElnco",
+          "thumbnail": "https://i3.ytimg.com/vi/6_V6QyElnco/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCHsrH9sBqz9uDKggEKGsOFw",
+      "name": "佐世保",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHsrH9sBqz9uDKggEKGsOFw",
+      "fetchedAt": "2026-05-16T04:40:03Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "PJNtcJVy3Ks",
+          "title": "日本競輪選手会 長崎支部選手 今年の抱負を一言　in　新年会【佐世保競輪】",
+          "channelTitle": "佐世保競輪場",
+          "published": "2026-01-23T02:29:00+00:00",
+          "updated": "2026-05-05T08:09:47+00:00",
+          "url": "https://www.youtube.com/watch?v=PJNtcJVy3Ks",
+          "thumbnail": "https://i1.ytimg.com/vi/PJNtcJVy3Ks/hqdefault.jpg"
+        },
+        {
+          "id": "ppc1CPk6KEs",
+          "title": "【年越し放送2025】京王閣ミッドナイト競輪 予想番組 in させぼ＆年越し生放送！【12月31日　させぼ競輪　特別番組!!】",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-31T15:45:39+00:00",
+          "updated": "2026-05-05T00:59:45+00:00",
+          "url": "https://www.youtube.com/watch?v=ppc1CPk6KEs",
+          "thumbnail": "https://i1.ytimg.com/vi/ppc1CPk6KEs/hqdefault.jpg"
+        },
+        {
+          "id": "YNdTsEm0MTY",
+          "title": "ＫＥＩＲＩＮグランプリ 予想番組 in させぼ【12月30日　させぼ競輪　特別番組!!】",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-30T20:05:27+00:00",
+          "updated": "2026-04-13T16:40:28+00:00",
+          "url": "https://www.youtube.com/watch?v=YNdTsEm0MTY",
+          "thumbnail": "https://i2.ytimg.com/vi/YNdTsEm0MTY/hqdefault.jpg"
+        },
+        {
+          "id": "0d68VyoNZ6s",
+          "title": "12月7日　佐世保 【GⅢ】開設７５周年記念　九十九島賞争奪戦　4日目",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-07T08:08:35+00:00",
+          "updated": "2026-04-29T01:32:14+00:00",
+          "url": "https://www.youtube.com/watch?v=0d68VyoNZ6s",
+          "thumbnail": "https://i1.ytimg.com/vi/0d68VyoNZ6s/hqdefault.jpg"
+        },
+        {
+          "id": "TRWGX-26Mhk",
+          "title": "【ノーカット版】2025年12月7日　佐世保競輪　12R　Ｓ級決勝メンバーインタビュー",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-06T09:33:48+00:00",
+          "updated": "2026-04-28T19:50:22+00:00",
+          "url": "https://www.youtube.com/watch?v=TRWGX-26Mhk",
+          "thumbnail": "https://i1.ytimg.com/vi/TRWGX-26Mhk/hqdefault.jpg"
+        },
+        {
+          "id": "fIkUTVa7L_c",
+          "title": "12月6日　佐世保 【GⅢ】開設７５周年記念　九十九島賞争奪戦　3日目",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-06T08:02:34+00:00",
+          "updated": "2026-05-05T05:31:24+00:00",
+          "url": "https://www.youtube.com/watch?v=fIkUTVa7L_c",
+          "thumbnail": "https://i3.ytimg.com/vi/fIkUTVa7L_c/hqdefault.jpg"
+        },
+        {
+          "id": "tDqJH1oo0UQ",
+          "title": "12月5日　佐世保 【GⅢ】開設７５周年記念　九十九島賞争奪戦　2日目",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-05T08:01:06+00:00",
+          "updated": "2026-04-29T19:25:40+00:00",
+          "url": "https://www.youtube.com/watch?v=tDqJH1oo0UQ",
+          "thumbnail": "https://i1.ytimg.com/vi/tDqJH1oo0UQ/hqdefault.jpg"
+        },
+        {
+          "id": "qNVsutBbqPw",
+          "title": "12月4日　佐世保 【GⅢ】開設７５周年記念　九十九島賞争奪戦　1日目",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-04T07:56:25+00:00",
+          "updated": "2026-04-30T02:30:20+00:00",
+          "url": "https://www.youtube.com/watch?v=qNVsutBbqPw",
+          "thumbnail": "https://i2.ytimg.com/vi/qNVsutBbqPw/hqdefault.jpg"
+        },
+        {
+          "id": "AkiedzfDnS4",
+          "title": "佐世保競輪　推しメン 前検日インタビュー【ノーカット版】2025年12月3日",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-03T09:53:49+00:00",
+          "updated": "2026-04-29T03:29:54+00:00",
+          "url": "https://www.youtube.com/watch?v=AkiedzfDnS4",
+          "thumbnail": "https://i2.ytimg.com/vi/AkiedzfDnS4/hqdefault.jpg"
+        },
+        {
+          "id": "_8OuP4Fq5RM",
+          "title": "佐世保競輪　JIGEMON 前検日インタビュー【ノーカット版】2025年12月3日",
+          "channelTitle": "佐世保競輪場",
+          "published": "2025-12-03T09:47:23+00:00",
+          "updated": "2026-02-13T12:03:35+00:00",
+          "url": "https://www.youtube.com/watch?v=_8OuP4Fq5RM",
+          "thumbnail": "https://i4.ytimg.com/vi/_8OuP4Fq5RM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCxUAWJYLRXK2GFl9Nz7lJXA",
+      "name": "別府",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxUAWJYLRXK2GFl9Nz7lJXA",
+      "fetchedAt": "2026-05-16T04:40:03Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "UFyUYl3Pjj8",
+          "title": "【ＬＩＶＥ】別府競輪　第3回ＦⅡ　ミッドナイト　仲間と繋がるTIPSTAR杯　３日目の模様をおおくりします。",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-05-09T15:16:28+00:00",
+          "updated": "2026-05-12T19:27:19+00:00",
+          "url": "https://www.youtube.com/watch?v=UFyUYl3Pjj8",
+          "thumbnail": "https://i2.ytimg.com/vi/UFyUYl3Pjj8/hqdefault.jpg"
+        },
+        {
+          "id": "-e3zO6Q1STo",
+          "title": "【ＬＩＶＥ】別府競輪　第3回ＦⅡ　ミッドナイト　仲間と繋がるTIPSTAR杯　２日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-05-08T15:20:33+00:00",
+          "updated": "2026-05-13T22:48:38+00:00",
+          "url": "https://www.youtube.com/watch?v=-e3zO6Q1STo",
+          "thumbnail": "https://i2.ytimg.com/vi/-e3zO6Q1STo/hqdefault.jpg"
+        },
+        {
+          "id": "Iu2rgbuFYjo",
+          "title": "【ＬＩＶＥ】別府競輪　第3回ＦⅡ　ミッドナイト　仲間と繋がるTIPSTAR杯　１日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-05-07T15:23:04+00:00",
+          "updated": "2026-05-07T17:54:41+00:00",
+          "url": "https://www.youtube.com/watch?v=Iu2rgbuFYjo",
+          "thumbnail": "https://i2.ytimg.com/vi/Iu2rgbuFYjo/hqdefault.jpg"
+        },
+        {
+          "id": "0YF0VJDl1W0",
+          "title": "【ＬＩＶＥ】別府競輪　第2回前節ＦⅡ　モーニング　第26回トータリゼータ別府杯　３日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-04-28T17:35:19+00:00",
+          "updated": "2026-04-28T19:38:51+00:00",
+          "url": "https://www.youtube.com/watch?v=0YF0VJDl1W0",
+          "thumbnail": "https://i1.ytimg.com/vi/0YF0VJDl1W0/hqdefault.jpg"
+        },
+        {
+          "id": "0rl3tzw1CyY",
+          "title": "【ＬＩＶＥ】別府競輪　第2回前節ＦⅡ　モーニング　第26回トータリゼータ別府杯　２日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-04-27T15:37:35+00:00",
+          "updated": "2026-04-29T18:43:31+00:00",
+          "url": "https://www.youtube.com/watch?v=0rl3tzw1CyY",
+          "thumbnail": "https://i1.ytimg.com/vi/0rl3tzw1CyY/hqdefault.jpg"
+        },
+        {
+          "id": "m6wBefXfaMI",
+          "title": "【ＬＩＶＥ】別府競輪　第2回前節ＦⅡ　モーニング　第26回トータリゼータ別府杯　１日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-04-26T21:44:40+00:00",
+          "updated": "2026-05-04T21:46:33+00:00",
+          "url": "https://www.youtube.com/watch?v=m6wBefXfaMI",
+          "thumbnail": "https://i2.ytimg.com/vi/m6wBefXfaMI/hqdefault.jpg"
+        },
+        {
+          "id": "HNSWwE2G0lc",
+          "title": "【ＬＩＶＥ】別府競輪　第1回ＦⅡ　ミッドナイト　前検日コメントならウィンチケット杯　3日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-04-12T15:19:00+00:00",
+          "updated": "2026-05-09T17:09:39+00:00",
+          "url": "https://www.youtube.com/watch?v=HNSWwE2G0lc",
+          "thumbnail": "https://i1.ytimg.com/vi/HNSWwE2G0lc/hqdefault.jpg"
+        },
+        {
+          "id": "2eaA9SWgC4Q",
+          "title": "【ＬＩＶＥ】別府競輪　第1回ＦⅡ　ミッドナイト　前検日コメントならウィンチケット杯　2日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-04-11T15:18:01+00:00",
+          "updated": "2026-05-09T17:08:48+00:00",
+          "url": "https://www.youtube.com/watch?v=2eaA9SWgC4Q",
+          "thumbnail": "https://i3.ytimg.com/vi/2eaA9SWgC4Q/hqdefault.jpg"
+        },
+        {
+          "id": "iN2chgHaqak",
+          "title": "【ＬＩＶＥ】別府競輪　第1回ＦⅡ　ミッドナイト　前検日コメントならウィンチケット杯　１日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-04-11T04:51:51+00:00",
+          "updated": "2026-05-09T17:10:44+00:00",
+          "url": "https://www.youtube.com/watch?v=iN2chgHaqak",
+          "thumbnail": "https://i2.ytimg.com/vi/iN2chgHaqak/hqdefault.jpg"
+        },
+        {
+          "id": "eHOvuNszVr0",
+          "title": "【ＬＩＶＥ】別府競輪　第10回後節ＦⅠ　ナイター　ラブリン杯　3日目",
+          "channelTitle": "beppukeirin136",
+          "published": "2026-03-26T12:23:34+00:00",
+          "updated": "2026-05-04T21:44:47+00:00",
+          "url": "https://www.youtube.com/watch?v=eHOvuNszVr0",
+          "thumbnail": "https://i2.ytimg.com/vi/eHOvuNszVr0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "UCuhDz3wM73NDTg4IPMNlKhQ",
+      "name": "熊本",
+      "group": "競輪LIVE",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuhDz3wM73NDTg4IPMNlKhQ",
+      "fetchedAt": "2026-05-16T04:40:03Z",
+      "status": "ok",
+      "videos": [
+        {
+          "id": "boC-rNRXxtQ",
+          "title": "5月9日 熊本けいりんライブ中継【ＦⅠ】オッズパーク杯 第3日【CS放送サイマル配信】",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-05-09T08:16:43+00:00",
+          "updated": "2026-05-14T01:02:18+00:00",
+          "url": "https://www.youtube.com/watch?v=boC-rNRXxtQ",
+          "thumbnail": "https://i3.ytimg.com/vi/boC-rNRXxtQ/hqdefault.jpg"
+        },
+        {
+          "id": "I4R0I6OdCME",
+          "title": "5月8日 熊本けいりんライブ中継【ＦⅠ】オッズパーク杯 第2日【CS放送サイマル配信】",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-05-08T08:24:45+00:00",
+          "updated": "2026-05-12T21:50:58+00:00",
+          "url": "https://www.youtube.com/watch?v=I4R0I6OdCME",
+          "thumbnail": "https://i2.ytimg.com/vi/I4R0I6OdCME/hqdefault.jpg"
+        },
+        {
+          "id": "U57RTpyGNcM",
+          "title": "5月7日 熊本けいりんライブ中継【ＦⅠ】オッズパーク杯 第1日【CS放送サイマル配信】",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-05-07T08:04:33+00:00",
+          "updated": "2026-05-13T21:54:15+00:00",
+          "url": "https://www.youtube.com/watch?v=U57RTpyGNcM",
+          "thumbnail": "https://i2.ytimg.com/vi/U57RTpyGNcM/hqdefault.jpg"
+        },
+        {
+          "id": "i_0YWEoWqZA",
+          "title": "4月28日 熊本けいりんライブ中継【ＦⅠ】トータリゼータエンジニアリング熊本杯 第3日【CS放送サイマル配信】",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-04-28T08:20:51+00:00",
+          "updated": "2026-05-05T05:56:20+00:00",
+          "url": "https://www.youtube.com/watch?v=i_0YWEoWqZA",
+          "thumbnail": "https://i2.ytimg.com/vi/i_0YWEoWqZA/hqdefault.jpg"
+        },
+        {
+          "id": "fkqJQU-55xg",
+          "title": "4月27日 熊本けいりんライブ中継【ＦⅠ】トータリゼータエンジニアリング熊本杯 第2日【CS放送サイマル配信】",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-04-27T08:04:00+00:00",
+          "updated": "2026-05-01T04:28:35+00:00",
+          "url": "https://www.youtube.com/watch?v=fkqJQU-55xg",
+          "thumbnail": "https://i3.ytimg.com/vi/fkqJQU-55xg/hqdefault.jpg"
+        },
+        {
+          "id": "dhvBfdIGUMc",
+          "title": "4月26日 熊本けいりんライブ中継【ＦⅠ】トータリゼータエンジニアリング熊本杯 第1日【CS放送サイマル配信】",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-04-26T07:47:23+00:00",
+          "updated": "2026-05-04T20:19:58+00:00",
+          "url": "https://www.youtube.com/watch?v=dhvBfdIGUMc",
+          "thumbnail": "https://i1.ytimg.com/vi/dhvBfdIGUMc/hqdefault.jpg"
+        },
+        {
+          "id": "2u-fuN4MQlU",
+          "title": "熊本けいりんモーニングLIVE「VOLCANO LIVE」最終日 小野俊之 /桜井奈津  2026年4月16日（木）",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-04-16T02:16:04+00:00",
+          "updated": "2026-05-05T08:57:38+00:00",
+          "url": "https://www.youtube.com/watch?v=2u-fuN4MQlU",
+          "thumbnail": "https://i3.ytimg.com/vi/2u-fuN4MQlU/hqdefault.jpg"
+        },
+        {
+          "id": "sZjD-l6NLgg",
+          "title": "熊本けいりんモーニングLIVE「VOLCANO LIVE」2日目 小野俊之 /桜井奈津  2026年4月15日（水）",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-04-15T02:25:51+00:00",
+          "updated": "2026-04-29T23:33:39+00:00",
+          "url": "https://www.youtube.com/watch?v=sZjD-l6NLgg",
+          "thumbnail": "https://i4.ytimg.com/vi/sZjD-l6NLgg/hqdefault.jpg"
+        },
+        {
+          "id": "rbyqSFD3HQM",
+          "title": "熊本けいりんモーニングLIVE「VOLCANO LIVE」初日 小野俊之 /桜井奈津  2026年4月14日（火）",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-04-14T02:18:58+00:00",
+          "updated": "2026-05-11T18:18:10+00:00",
+          "url": "https://www.youtube.com/watch?v=rbyqSFD3HQM",
+          "thumbnail": "https://i3.ytimg.com/vi/rbyqSFD3HQM/hqdefault.jpg"
+        },
+        {
+          "id": "9DWb8JSqp4c",
+          "title": "熊本けいりんミッドナイトLIVE「VOLCANO LIVE」最終日 三宅伸 /大津尚之  2026年4月6日（月）",
+          "channelTitle": "【公式】熊本けいりん",
+          "published": "2026-04-06T15:43:44+00:00",
+          "updated": "2026-05-11T18:16:20+00:00",
+          "url": "https://www.youtube.com/watch?v=9DWb8JSqp4c",
+          "thumbnail": "https://i2.ytimg.com/vi/9DWb8JSqp4c/hqdefault.jpg"
+        }
+      ]
+    }
+  ]
+}
